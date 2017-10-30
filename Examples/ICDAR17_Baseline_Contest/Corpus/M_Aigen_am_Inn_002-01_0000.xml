@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>TRP</Creator>
+		<Created>2016-07-13T10:53:50.648+07:00</Created>
+		<LastChange>2016-08-08T16:25:38.453+07:00</LastChange>
+	</Metadata>
+	<Page imageFilename="M_Aigen_am_Inn_002-01_0000.jpg" imageWidth="2959" imageHeight="4332">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1470648340499" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1470648332313_77" />
+				<RegionRefIndexed index="1" regionRef="region_1468382100164_1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="region_1470648332313_77" custom="readingOrder {index:0;}">
+			<Coords points="2401,228 2647,228 2647,399 2401,399" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="region_1468382100164_1" custom="readingOrder {index:1;}">
+			<Coords points="301,456 1927,456 1927,1726 301,1726" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l1_0">
+				<Coords points="" />
+				<Baseline points="837,588 870,583 903,583 935,587 968,589 1001,588 1034,589 1067,584 1100,580 1136,575" />
+			</TextLine>
+			<TextLine id="l1_1">
+				<Coords points="" />
+				<Baseline points="811,810 889,825 973,828 1057,833 1140,826 1224,832 1306,816 1387,812 1468,815 1556,809" />
+			</TextLine>
+			<TextLine id="l1_2">
+				<Coords points="" />
+				<Baseline points="1448,771 1463,768 1477,772 1496,773 1515,774 1534,771 1555,770" />
+			</TextLine>
+			<TextLine id="l1_3">
+				<Coords points="" />
+				<Baseline points="435,1574 566,1571 697,1565 827,1553 957,1545 1087,1561 1218,1555 1349,1550 1480,1546 1614,1535" />
+			</TextLine>
+			<TextLine id="l1_4">
+				<Coords points="" />
+				<Baseline points="484,1221 616,1226 748,1221 880,1209 1013,1196 1145,1201 1276,1180 1406,1181 1502,1176 1631,1200" />
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

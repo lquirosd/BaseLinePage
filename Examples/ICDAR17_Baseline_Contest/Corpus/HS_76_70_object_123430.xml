@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>TRP</Creator>
+		<Created>2016-07-13T19:01:41.619+07:00</Created>
+		<LastChange>2016-08-03T14:19:19.706+07:00</LastChange>
+	</Metadata>
+	<Page imageFilename="HS_76_70_object_123430.jpg" imageWidth="2657" imageHeight="3824">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1470208759784" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1470208756347_1439" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="region_1470208756347_1439" custom="readingOrder {index:0;}">
+			<Coords points="2002,256 2274,256 2274,403 2002,403" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+		</TextRegion>
+	</Page>
+</PcGts>

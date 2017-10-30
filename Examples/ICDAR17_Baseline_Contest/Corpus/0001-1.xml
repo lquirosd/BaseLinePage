@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>TRP</Creator>
+		<Created>2016-07-13T19:03:20.354+07:00</Created>
+		<LastChange>2016-08-03T11:40:23.718+07:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0001-1.jpg" imageWidth="5421" imageHeight="4548">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1470199223968" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1470199159170_1" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="region_1470199159170_1" custom="readingOrder {index:0;}">
+			<Coords points="3170,808 5170,808 5170,2228 3170,2228" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l0_0">
+				<Coords points="" />
+				<Baseline points="3338,2091 3352,2099 3404,2098" />
+			</TextLine>
+			<TextLine id="l0_1">
+				<Coords points="" />
+				<Baseline points="3567,1146 3572,1146 3589,1146" />
+			</TextLine>
+			<TextLine id="l0_2">
+				<Coords points="" />
+				<Baseline points="3372,1963 3625,1968 3712,1990" />
+			</TextLine>
+			<TextLine id="l0_3">
+				<Coords points="" />
+				<Baseline points="3517,1709 3540,1707 3561,1706 3775,1714" />
+			</TextLine>
+			<TextLine id="l0_4">
+				<Coords points="" />
+				<Baseline points="3195,1204 3407,1199 3428,1198 3441,1198 3641,1198 3759,1202 3769,1203 3779,1203 3794,1204 3803,1204" />
+			</TextLine>
+			<TextLine id="l0_5">
+				<Coords points="" />
+				<Baseline points="3982,1464 4009,1464 4036,1464 4063,1463 4090,1463 4117,1463 4144,1463 4171,1464 4198,1464 4226,1466" />
+			</TextLine>
+			<TextLine id="l0_6">
+				<Coords points="" />
+				<Baseline points="4351,1061 4362,1060 4437,1063 4447,1063 4455,1063 4590,1048" />
+			</TextLine>
+			<TextLine id="l0_7">
+				<Coords points="" />
+				<Baseline points="4132,2205 4196,2195 4260,2190 4324,2198 4388,2187 4453,2187 4518,2189 4583,2193 4647,2195 4718,2200" />
+			</TextLine>
+			<TextLine id="l0_8">
+				<Coords points="" />
+				<Baseline points="3252,1754 3452,1753 3652,1755 3852,1760 4053,1769 4253,1754 4449,1775 4648,1781 4848,1783 5051,1776" />
+			</TextLine>
+			<TextLine id="l0_9">
+				<Coords points="" />
+				<Baseline points="3225,2012 3431,2011 3638,2018 3846,2013 4053,2007 4259,2012 4467,2016 4674,2023 4881,2022 5089,2015" />
+			</TextLine>
+			<TextLine id="l0_10">
+				<Coords points="" />
+				<Baseline points="3272,1375 3477,1371 3682,1372 3874,1375 4079,1372 4284,1352 4488,1346 4694,1349 4893,1351 5100,1349" />
+			</TextLine>
+			<TextLine id="l0_11">
+				<Coords points="" />
+				<Baseline points="3258,1247 3463,1232 3662,1245 3868,1243 4072,1231 4278,1239 4483,1224 4690,1237 4896,1235 5102,1254" />
+			</TextLine>
+			<TextLine id="l0_12">
+				<Coords points="" />
+				<Baseline points="3256,972 3464,968 3661,998 3857,975 4056,999 4266,992 4476,977 4686,963 4897,953 5109,972" />
+			</TextLine>
+			<TextLine id="l0_13">
+				<Coords points="" />
+				<Baseline points="3294,1120 3496,1117 3699,1119 3900,1114 4101,1116 4303,1110 4505,1104 4706,1093 4908,1095 5111,1105" />
+			</TextLine>
+			<TextLine id="l0_14">
+				<Coords points="" />
+				<Baseline points="3238,1885 3441,1891 3644,1864 3856,1892 4065,1873 4268,1893 4484,1901 4700,1901 4915,1903 5133,1919" />
+			</TextLine>
+			<TextLine id="l0_15">
+				<Coords points="" />
+				<Baseline points="3244,1632 3455,1629 3666,1642 3877,1646 4089,1652 4295,1647 4504,1643 4715,1643 4926,1647 5134,1624" />
+			</TextLine>
+			<TextLine id="l0_16">
+				<Coords points="" />
+				<Baseline points="5030,1050 5040,1051 5054,1051 5092,1054 5118,1056 5135,1058" />
+			</TextLine>
+			<TextLine id="l0_17">
+				<Coords points="" />
+				<Baseline points="3198,1541 3406,1503 3620,1513 3834,1509 4052,1515 4269,1498 4485,1492 4702,1487 4918,1486 5141,1485" />
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

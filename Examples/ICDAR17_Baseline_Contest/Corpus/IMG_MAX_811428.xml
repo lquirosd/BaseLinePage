@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>TRP</Creator>
+		<Created>2016-07-13T19:05:01.792+07:00</Created>
+		<LastChange>2016-08-05T09:46:48.301+07:00</LastChange>
+	</Metadata>
+	<Page imageFilename="IMG_MAX_811428.jpg" imageWidth="1504" imageHeight="2274">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1470365208379" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1470365149941_562" />
+				<RegionRefIndexed index="1" regionRef="region_1470365156941_563" />
+				<RegionRefIndexed index="2" regionRef="region_1470365159738_564" />
+				<RegionRefIndexed index="3" regionRef="region_1470365161378_565" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="region_1470365149941_562" custom="readingOrder {index:0;}">
+			<Coords points="565,1468 799,1468 799,1645 565,1645" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="region_1470365156941_563" custom="readingOrder {index:1;}">
+			<Coords points="556,1848 1089,1848 1089,1984 556,1984" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l1_0">
+				<Coords points="" />
+				<Baseline points="651,1908 764,1941 866,1889 905,1957 960,1952" />
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="region_1470365159738_564" custom="readingOrder {index:2;}">
+			<Coords points="401,1994 1049,1994 1049,2091 789,2073 399,2063" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l2_0">
+				<Coords points="" />
+				<Baseline points="508,2051 563,2054 618,2058 673,2062 727,2065 782,2068 837,2072 892,2076 947,2079 1004,2083" />
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="region_1470365161378_565" custom="readingOrder {index:3;}">
+			<Coords points="440,2078 774,2078 774,2189 440,2189" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l3_0">
+				<Coords points="" />
+				<Baseline points="516,2100 648,2109 700,2124 721,2129" />
+			</TextLine>
+			<TextLine id="l3_1">
+				<Coords points="" />
+				<Baseline points="660,2146 710,2157 741,2154" />
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

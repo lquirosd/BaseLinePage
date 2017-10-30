@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>TRP</Creator>
+		<Created>2016-07-13T19:03:25.543+07:00</Created>
+		<LastChange>2016-08-03T16:55:04.668+07:00</LastChange>
+	</Metadata>
+	<Page imageFilename="0393.jpg" imageWidth="2604" imageHeight="4284">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1470218104871" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="region_1470218024775_1183" />
+				<RegionRefIndexed index="1" regionRef="region_1470218030994_1184" />
+				<RegionRefIndexed index="2" regionRef="region_1470218036651_1185" />
+				<RegionRefIndexed index="3" regionRef="region_1470218040057_1186" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="region_1470218024775_1183" custom="readingOrder {index:0;}">
+			<Coords points="2251,107 2458,107 2458,292 2251,292" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+		</TextRegion>
+		<TextRegion id="region_1470218030994_1184" custom="readingOrder {index:1;}">
+			<Coords points="180,325 2163,325 2163,1133 180,1133" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l1_0">
+				<Coords points="" />
+				<Baseline points="744,1029 770,1021 868,1029 894,1030 915,1031 942,1036 956,1033 963,1033 984,1031 1039,1036" />
+			</TextLine>
+			<TextLine id="l1_1">
+				<Coords points="" />
+				<Baseline points="263,1088 412,1093 561,1090 711,1091 861,1097 1011,1097 1160,1094 1310,1084 1459,1078 1614,1075" />
+			</TextLine>
+			<TextLine id="l1_2">
+				<Coords points="" />
+				<Baseline points="1855,911 1868,911 1887,913" />
+			</TextLine>
+			<TextLine id="l1_3">
+				<Coords points="" />
+				<Baseline points="258,729 449,729 639,730 831,735 1022,729 1214,724 1405,729 1596,735 1788,731 1985,738" />
+			</TextLine>
+			<TextLine id="l1_4">
+				<Coords points="" />
+				<Baseline points="221,968 423,942 607,966 813,962 1019,972 1224,966 1429,961 1635,973 1841,978 2048,966" />
+			</TextLine>
+			<TextLine id="l1_5">
+				<Coords points="" />
+				<Baseline points="275,843 473,844 670,837 865,855 1063,849 1261,850 1459,850 1656,863 1854,860 2053,859" />
+			</TextLine>
+			<TextLine id="l1_6">
+				<Coords points="" />
+				<Baseline points="303,600 499,600 695,604 890,605 1086,605 1281,606 1477,599 1672,596 1867,607 2064,615" />
+			</TextLine>
+			<TextLine id="l1_7">
+				<Coords points="" />
+				<Baseline points="334,458 527,456 719,459 909,460 1101,464 1293,459 1481,469 1674,466 1866,470 2067,476" />
+			</TextLine>
+			<TextLine id="l1_8">
+				<Coords points="" />
+				<Baseline points="2072,438 2083,438 2101,438 2114,438" />
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="region_1470218036651_1185" custom="readingOrder {index:2;}">
+			<Coords points="171,1155 2186,1155 2186,2136 171,2136" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l2_0">
+				<Coords points="" />
+				<Baseline points="314,1915 357,1912 375,1911" />
+			</TextLine>
+			<TextLine id="l2_1">
+				<Coords points="" />
+				<Baseline points="1110,1354 1137,1354 1154,1355 1163,1355 1176,1355 1199,1354" />
+			</TextLine>
+			<TextLine id="l2_2">
+				<Coords points="" />
+				<Baseline points="1350,1637 1357,1637 1694,1610" />
+			</TextLine>
+			<TextLine id="l2_3">
+				<Coords points="" />
+				<Baseline points="1135,1914 1141,1914 1152,1915 1336,1915 1708,1918 1728,1917" />
+			</TextLine>
+			<TextLine id="l2_4">
+				<Coords points="" />
+				<Baseline points="234,1955 420,1969 608,1968 797,1971 986,1963 1175,1958 1365,1966 1552,1964 1741,1964 1929,1952" />
+			</TextLine>
+			<TextLine id="l2_5">
+				<Coords points="" />
+				<Baseline points="287,2091 475,2097 662,2101 849,2095 1036,2084 1222,2088 1408,2071 1580,2081 1768,2076 1959,2079" />
+			</TextLine>
+			<TextLine id="l2_6">
+				<Coords points="" />
+				<Baseline points="497,1281 659,1278 822,1279 985,1284 1148,1280 1310,1279 1472,1270 1633,1266 1794,1264 1956,1248" />
+			</TextLine>
+			<TextLine id="l2_7">
+				<Coords points="" />
+				<Baseline points="224,1692 419,1702 617,1701 814,1700 1009,1704 1205,1698 1402,1686 1599,1689 1797,1683 2002,1673" />
+			</TextLine>
+			<TextLine id="l2_8">
+				<Coords points="" />
+				<Baseline points="1834,1780 1843,1781 2009,1770" />
+			</TextLine>
+			<TextLine id="l2_9">
+				<Coords points="" />
+				<Baseline points="272,1835 463,1838 657,1829 852,1824 1048,1829 1245,1829 1442,1821 1638,1821 1834,1815 2031,1816" />
+			</TextLine>
+			<TextLine id="l2_10">
+				<Coords points="" />
+				<Baseline points="224,1566 427,1566 631,1569 832,1563 1034,1565 1238,1559 1441,1560 1646,1553 1850,1549 2058,1547" />
+			</TextLine>
+			<TextLine id="l2_11">
+				<Coords points="" />
+				<Baseline points="298,1425 493,1425 688,1427 882,1432 1077,1433 1273,1422 1469,1412 1664,1412 1860,1420 2058,1425" />
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="region_1470218040057_1186" custom="readingOrder {index:3;}">
+			<Coords points="268,2153 2079,2153 2079,2607 268,2607" />
+			<TextEquiv>
+				<Unicode />
+			</TextEquiv>
+			<TextLine id="l3_0">
+				<Coords points="" />
+				<Baseline points="468,2281 576,2258 954,2245" />
+			</TextLine>
+			<TextLine id="l3_1">
+				<Coords points="" />
+				<Baseline points="891,2524 967,2524 1043,2523 1118,2516 1191,2511 1266,2503 1342,2504 1418,2500 1490,2505 1563,2492" />
+			</TextLine>
+			<TextLine id="l3_2">
+				<Coords points="" />
+				<Baseline points="601,2315 755,2310 907,2312 1062,2311 1214,2293 1357,2297 1512,2295 1667,2292 1821,2287 1979,2290" />
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
