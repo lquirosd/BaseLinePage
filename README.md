@@ -1,4 +1,4 @@
-# baseLinePage
+# BaseLinePage
 Toolkit to locate the baselines in handwritten text pages
 * A toolkit to find the text baselines in pages.
 
