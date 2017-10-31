@@ -1,6 +1,6 @@
-# baseLinePage
-Toolkit to locate the baselines in handwritten text pages
-* A toolkit to find the text baselines in pages.
+# BaseLinePage
+Toolkit to locate the baselines in handwritten text pages. Use it at your own risk.
+* A toolkit to find the text baselines in pages. 
 
 * BaseLinPages is written in C++. 
 
