@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:33:03</Created>
+        <LastChange>2017-03-27T18:59:42.728+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000039.jpg" imageWidth="1020" imageHeight="1439">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490633982805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="17,59 979,66 1006,1401 12,1392"/>
+            <TextLine id="line_1487079649568_2141" custom="readingOrder {index:0;}">
+                <Coords points="968,65 142,59 39,71 39,106 142,92 968,98"/>
+                <Baseline points="39,97 142,83 968,89"/>
+                <TextEquiv>
+                    <Unicode>Unendlichen, glaubt ihr, ihr könnet je wieder die Höhe der Bestrebungen erreichen, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487079658153_2142" custom="readingOrder {index:1;}">
+                <Coords points="954,101 239,95 44,106 44,137 239,126 954,132"/>
+                <Baseline points="44,127 239,116 954,122"/>
+                <TextEquiv>
+                    <Unicode>der Jüngling z erreichen vermag, wenn ihr nicht Jünglinge, sondern Männer sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487079668068_2143" custom="readingOrder {index:2;}">
+                <Coords points="954,129 132,128 45,138 45,170 132,160 954,161"/>
+                <Baseline points="45,161 132,151 954,152"/>
+                <TextEquiv>
+                    <Unicode>wollt? Seht, ich glaube auch, der Jüngling fliegt oft zu hoch in seinem Streben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487079674756_2144" custom="readingOrder {index:3;}">
+                <Coords points="964,168 157,160 45,171 45,202 157,191 964,199"/>
+                <Baseline points="45,192 157,181 964,189"/>
+                <TextEquiv>
+                    <Unicode>ich glaube auch, er könne dem bedächtl Alter als zu kühn, als zu vermessen er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080305621_2145" custom="readingOrder {index:4;}">
+                <Coords points="980,197 228,189 41,203 41,237 228,223 980,231"/>
+                <Baseline points="41,227 228,213 980,221"/>
+                <TextEquiv>
+                    <Unicode>scheinen, ich glaube auch, er werde, Mann geworden, sich wundern, wie weit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080318552_2146" custom="readingOrder {index:5;}">
+                <Coords points="966,232 601,220 234,226 46,238 46,271 234,259 601,253 966,265"/>
+                <Baseline points="46,261 234,249 601,243 966,255"/>
+                <TextEquiv>
+                    <Unicode>ihn seine jugendl. Begeisterung geführt. Aber bereuen wird er es nie, oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080335713_2147" custom="readingOrder {index:6;}">
+                <Coords points="976,272 956,258 770,250 451,253 49,269 49,300 451,284 770,281 956,289 976,303"/>
+                <Baseline points="49,293 451,277 770,274 956,282 976,296"/>
+                <TextEquiv>
+                    <Unicode>sollte es nie bereuen, denn er soll es wissen, dß ds Kind etw. Andres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080353646_2148" custom="readingOrder {index:7;}">
+                <Coords points="950,300 768,289 47,304 47,331 768,316 950,327"/>
+                <Baseline points="47,322 768,307 950,318"/>
+                <TextEquiv>
+                    <Unicode>als der Knabe, der Knabe etw. Andres als der Jüngl., der Jüngl. etw. Andres als der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080366281_2149" custom="readingOrder {index:8;}">
+                <Coords points="976,326 693,316 44,332 44,365 693,349 976,359"/>
+                <Baseline points="44,355 693,339 976,349"/>
+                <TextEquiv>
+                    <Unicode>Mann ist. Jüngling bin ich jetzt & erkenne mich als Knaben kaum mehr; aber ferne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487080378086_2150" custom="readingOrder {index:9;}">
+                <Coords points="974,366 951,354 540,347 45,362 45,395 540,380 951,387 974,399"/>
+                <Baseline points="45,386 540,371 951,378 974,390"/>
+                <TextEquiv>
+                    <Unicode>sei es von mir, dß ich es bereute, als Knabe nicht schon Jüngling gewesen z sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081424050_2151" custom="readingOrder {index:10;}">
+                <Coords points="983,400 882,387 507,381 49,396 49,425 507,410 882,416 983,429"/>
+                <Baseline points="49,417 507,402 882,408 983,421"/>
+                <TextEquiv>
+                    <Unicode>Ferne sei es von mir, dß ich den Mann belächeln würde für sein besonneres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081436899_2152" custom="readingOrder {index:11;}">
+                <Coords points="979,430 941,425 544,411 53,428 53,457 544,440 941,454 979,459"/>
+                <Baseline points="53,446 544,429 941,443 979,448"/>
+                <TextEquiv>
+                    <Unicode>Streben & Sinnen. Ich weiß wohl, dß dieß seinem Alter eigenthüml. ist, aber ich weiß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081572092_2153" custom="readingOrder {index:12;}">
+                <Coords points="981,460 809,447 571,442 179,446 49,455 49,490 179,481 571,477 809,482 981,495"/>
+                <Baseline points="49,480 179,471 571,467 809,472 981,485"/>
+                <TextEquiv>
+                    <Unicode>auch – dß haben mir besonnene Männer gesagt, d. hochbegeisterte Jünglinge waren –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081585493_2154" custom="readingOrder {index:13;}">
+                <Coords points="983,496 864,482 542,471 189,478 48,490 48,522 189,510 542,503 864,514 983,528"/>
+                <Baseline points="48,515 189,503 542,496 864,507 983,521"/>
+                <TextEquiv>
+                    <Unicode>dß ihnen ds Jünglingsalter mit sn Idealen e herrl Zt war, & s. nannten s. die Blüthe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081594339_2155" custom="readingOrder {index:14;}">
+                <Coords points="971,529 787,520 331,512 51,523 51,551 331,540 787,548 971,557"/>
+                <Baseline points="51,540 331,529 787,537 971,546"/>
+                <TextEquiv>
+                    <Unicode>ihres Lebens. «Mensch sei Mensch! Jüngling sei Jüngling!» hatte mir jene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081615100_2156" custom="readingOrder {index:15;}">
+                <Coords points="975,558 652,541 238,538 52,543 52,574 238,569 652,572 975,589"/>
+                <Baseline points="52,568 238,563 652,566 975,583"/>
+                <TextEquiv>
+                    <Unicode>innere Stimme zugerufen. Siehe da die Aufgabe aller Jünglinge. Die Indivi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081652799_2157" custom="readingOrder {index:16;}">
+                <Coords points="937,583 56,573 56,601 937,611"/>
+                <Baseline points="56,593 937,603"/>
+                <TextEquiv>
+                    <Unicode>dualitäten sollen sich also frei entwickeln unter den Jünglingen, aber von denen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081665913_2158" custom="readingOrder {index:17;}">
+                <Coords points="981,612 824,605 555,611 445,606 46,607 46,637 445,636 555,641 824,635 981,642"/>
+                <Baseline points="46,626 445,625 555,630 824,624 981,631"/>
+                <TextEquiv>
+                    <Unicode>wollen s. nichts wissen, die nicht Menschen & die nicht Jünglinge sein wollen. Doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081686413_2159" custom="readingOrder {index:18;}">
+                <Coords points="974,643 866,631 676,631 565,631 383,625 48,639 48,675 383,661 565,667 674,660 866,667 974,679"/>
+                <Baseline points="48,665 383,651 565,657 674,650 866,657 974,669"/>
+                <TextEquiv>
+                    <Unicode>noch etw. hatte jene Stimme mir zugerufen, noch einen, den letzten Rath hatte sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081714264_2160" custom="readingOrder {index:19;}">
+                <Coords points="977,676 815,663 422,663 43,680 43,712 422,695 815,695 977,708"/>
+                <Baseline points="43,703 422,686 815,686 977,699"/>
+                <TextEquiv>
+                    <Unicode>mir ertheilt: «Schweizer sei Schweizer!» hatte sie mir scheidd zuge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081722767_2161" custom="readingOrder {index:20;}">
+                <Coords points="953,703 549,692 293,706 44,713 44,744 293,737 549,723 953,734"/>
+                <Baseline points="44,735 293,728 549,714 953,725"/>
+                <TextEquiv>
+                    <Unicode>rufen. Ach Gott, hier sind mir die Worte zu schwach, mit denen ich euch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081729890_2162" custom="readingOrder {index:21;}">
+                <Coords points="973,737 540,729 282,737 51,745 51,776 282,768 540,760 973,768"/>
+                <Baseline points="51,766 282,758 540,750 973,758"/>
+                <TextEquiv>
+                    <Unicode>beschwören könnte, dem Vaterlde jeder Zt treu z bleiben. Zof., die ihr aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081737843_2163" custom="readingOrder {index:22;}">
+                <Coords points="974,771 634,756 505,760 51,777 51,810 505,793 634,789 974,804"/>
+                <Baseline points="51,801 505,784 634,780 974,795"/>
+                <TextEquiv>
+                    <Unicode>dem Vaterlande scheidet, wißt ihr ws euch zu Zof. gemacht hat; Schweizer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081757369_2164" custom="readingOrder {index:23;}">
+                <Coords points="974,803 819,790 498,789 45,811 45,843 498,821 819,822 974,835"/>
+                <Baseline points="45,834 498,812 819,813 974,826"/>
+                <TextEquiv>
+                    <Unicode>die ihr aus dem Vaterlde scheidet, wißt ihr, dß ihr frei seid, oder frei sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081766435_2165" custom="readingOrder {index:24;}">
+                <Coords points="973,835 863,824 502,823 51,844 51,874 502,853 863,854 973,865"/>
+                <Baseline points="51,865 502,844 863,845 973,856"/>
+                <TextEquiv>
+                    <Unicode>könnet. Jünglinge, die ihr aus dem Vaterlde scheidet, kennt ihr die einzige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081778670_2166" custom="readingOrder {index:25;}">
+                <Coords points="982,870 874,857 654,852 51,875 51,904 654,881 874,886 982,899"/>
+                <Baseline points="51,896 654,873 874,878 982,891"/>
+                <TextEquiv>
+                    <Unicode>Grundlage unserer Freiht, blicket scheidd zurück auf die hehren Gestalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081791506_2167" custom="readingOrder {index:26;}">
+                <Coords points="978,894 831,888 583,887 339,895 46,905 46,935 339,925 583,917 831,918 978,924"/>
+                <Baseline points="46,925 339,915 583,907 831,908 978,914"/>
+                <TextEquiv>
+                    <Unicode>unserer Voreltern & die ruhmvollen Tage, wche die Schweizer sich selbst schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081805581_2168" custom="readingOrder {index:27;}">
+                <Coords points="967,924 817,912 545,914 48,936 48,971 545,949 817,947 967,959"/>
+                <Baseline points="48,961 545,939 817,937 967,949"/>
+                <TextEquiv>
+                    <Unicode>bereitet. Blicket scheidd zurück auf die majestätischen Eisgebirge, wche die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081846544_2169" custom="readingOrder {index:28;}">
+                <Coords points="980,957 877,944 597,944 46,972 46,1005 597,977 877,977 980,990"/>
+                <Baseline points="46,995 597,967 877,967 980,980"/>
+                <TextEquiv>
+                    <Unicode>glücklichen & die unglückl. Tage ds Vaterlands gesehen. Blicket scheidd zurück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081857657_2170" custom="readingOrder {index:29;}">
+                <Coords points="993,1003 823,973 693,972 449,979 49,1006 49,1039 449,1012 693,1005 823,1006 993,1036"/>
+                <Baseline points="49,1030 449,1003 693,996 823,997 993,1027"/>
+                <TextEquiv>
+                    <Unicode>auf die Herrlichkt, mit wch die Natur us. Vaterland verschwenderisch geschmückt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081868644_2171" custom="readingOrder {index:30;}">
+                <Coords points="948,1018 795,1010 682,1003 50,1040 50,1073 682,1036 795,1043 948,1051"/>
+                <Baseline points="50,1063 682,1026 795,1033 948,1041"/>
+                <TextEquiv>
+                    <Unicode>hat, blicket scheidd zurück auf die traute Heimath & den Kreis euerer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081876931_2172" custom="readingOrder {index:31;}">
+                <Coords points="988,1055 563,1038 57,1074 57,1106 563,1070 988,1087"/>
+                <Baseline points="57,1097 563,1061 988,1078"/>
+                <TextEquiv>
+                    <Unicode>Lieben, wch euch ds Vaterland geschenkt hat, & die euch dem Vaterlande schenkten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081889772_2173" custom="readingOrder {index:32;}">
+                <Coords points="985,1089 708,1066 599,1069 49,1106 49,1136 599,1099 708,1096 985,1119"/>
+                <Baseline points="49,1127 599,1090 708,1087 985,1110"/>
+                <TextEquiv>
+                    <Unicode>& wenn ihr dses Bild im Herzen tragd, dem Vaterlde untreu wden könnt, so seid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081893318_2174" custom="readingOrder {index:33;}">
+                <Coords points="349,1118 54,1137 54,1168 349,1149"/>
+                <Baseline points="54,1159 349,1140"/>
+                <TextEquiv>
+                    <Unicode>ihr keine Schweizer mehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081905371_2175" custom="readingOrder {index:34;}">
+                <Coords points="987,1168 866,1152 557,1146 146,1164 146,1193 557,1175 866,1181 987,1197"/>
+                <Baseline points="146,1185 557,1167 866,1173 987,1189"/>
+                <TextEquiv>
+                    <Unicode>Zof., ws mir jene innere Stimme zugerufen, wozu s. mich begeistert,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081913818_2176" custom="readingOrder {index:35;}">
+                <Coords points="979,1198 819,1178 546,1177 49,1196 49,1224 546,1205 819,1206 979,1226"/>
+                <Baseline points="49,1215 546,1196 819,1197 979,1217"/>
+                <TextEquiv>
+                    <Unicode>war ich gedrungen, mußte ich euch sagen. Ich habe es euch gesagt, Jünglinge,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081931148_2177" custom="readingOrder {index:36;}">
+                <Coords points="986,1226 875,1206 582,1204 191,1225 45,1221 45,1252 191,1256 582,1235 875,1237 986,1257"/>
+                <Baseline points="45,1242 191,1246 582,1225 875,1227 986,1247"/>
+                <TextEquiv>
+                    <Unicode>erwäget es wohl, es sd die letzten Worte, die ich in euerm Bunde geredet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081941443_2178" custom="readingOrder {index:37;}">
+                <Coords points="972,1249 809,1235 688,1234 500,1237 217,1258 53,1252 53,1284 217,1290 500,1269 688,1266 809,1267 972,1281"/>
+                <Baseline points="53,1276 217,1282 500,1261 688,1258 809,1259 972,1273"/>
+                <TextEquiv>
+                    <Unicode>Seid gegrüßt, Brüder in Laus., von euren Brüdern in Zürich, & empfgt ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081948106_2179" custom="readingOrder {index:38;}">
+                <Coords points="671,1275 331,1283 188,1291 51,1286 51,1312 188,1317 331,1309 671,1301"/>
+                <Baseline points="51,1305 188,1310 331,1302 671,1294"/>
+                <TextEquiv>
+                    <Unicode>herzl. Lebwohl von eurem Correspondenten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081955319_2181" custom="readingOrder {index:39;}">
+                <Coords points="867,1311 556,1308 559,1336 870,1339"/>
+                <Baseline points="559,1331 870,1334"/>
+                <TextEquiv>
+                    <Unicode>Alfred Escher, stud. iur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081952000_2180" custom="readingOrder {index:40;}">
+                <Coords points="344,1319 57,1321 56,1356 343,1354"/>
+                <Baseline points="56,1353 343,1351"/>
+                <TextEquiv>
+                    <Unicode>(Cop. durch C. Keller.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487081958677_2182" custom="readingOrder {index:41;}">
+                <Coords points="605,1338 375,1338 379,1376 609,1376"/>
+                <Baseline points="379,1366 609,1366"/>
+                <TextEquiv>
+                    <Unicode>d. 21 März 1838.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:23:46</Created>
+		<LastChange>2017-02-17T09:40:31.441+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000030.jpg" imageWidth="1109" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487320831727" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="66,38 1099,38 1099,1298 66,1298" />
+			<TextLine id="line_1486638156490_483">
+				<Coords points="1089,55 88,48 88,105 1089,112" />
+				<Baseline points="88,86 1089,93" />
+				<TextEquiv>
+					<Unicode>Kräfte in dieser Suche angestrengt hat. Damit ich persönlich aber mich der Sache eifrig annehme,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638165002_484">
+				<Coords points="1088,113 100,100 100,164 1088,177" />
+				<Baseline points="100,145 1088,158" />
+				<TextEquiv>
+					<Unicode>bedarf ich zuvor noch der beruhigenden Gewißheit, daß die drei Landjäger nicht durch Bestechung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638171112_485">
+				<Coords points="1087,178 98,166 98,227 1087,239" />
+				<Baseline points="98,210 1087,222" />
+				<TextEquiv>
+					<Unicode>oder durch irgend welche bestimmte Versprechungen einer nachherigen reichlichen Entschädigung,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638177204_486">
+				<Coords points="1088,240 103,233 103,292 1088,299" />
+				<Baseline points="103,274 1088,281" />
+				<TextEquiv>
+					<Unicode>sondern durch politische Motive oder durch persönliche Achtung u. Freundschaft für Steiger</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638185526_487">
+				<Coords points="1089,300 104,297 104,357 1089,360" />
+				<Baseline points="104,339 1089,342" />
+				<TextEquiv>
+					<Unicode>zu ihrem Schritte veranlaßt worden seyen. Gegenwärtig kann ich den Verdacht des Gegen-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638190826_488">
+				<Coords points="1088,358 114,361 114,423 1088,420" />
+				<Baseline points="114,405 1088,402" />
+				<TextEquiv>
+					<Unicode>theils, der nicht etwa durch die konservativen Blätter, sondern durch die unmittelbare Kunde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638559113_489">
+				<Coords points="1078,422 116,424 116,486 1078,484" />
+				<Baseline points="116,468 1078,466" />
+				<TextEquiv>
+					<Unicode>des Ereignisses in mir erweckt wurde, noch nicht unterdrücken; denn ich argumentire, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638563378_490">
+				<Coords points="1069,483 119,487 119,550 1069,546" />
+				<Baseline points="119,531 1069,527" />
+				<TextEquiv>
+					<Unicode>Luzerner Regierung werde zur Bewachung eines Gefangnen, an dessen Festhaltung ihr so viel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638569078_491">
+				<Coords points="1090,550 129,551 129,616 1090,615" />
+				<Baseline points="129,596 1090,595" />
+				<TextEquiv>
+					<Unicode>gelegen war, doch nur Leute gebraucht haben, die sie für ganz zuverläßig halten mußte,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638573384_492">
+				<Coords points="1086,617 130,613 130,679 1086,683" />
+				<Baseline points="130,660 1086,664" />
+				<TextEquiv>
+					<Unicode>bei denen sie nicht die geringste politische oder persönliche Sympathie für Steiger erwarten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638578885_493">
+				<Coords points="1075,684 137,675 137,739 1075,748" />
+				<Baseline points="137,720 1075,729" />
+				<TextEquiv>
+					<Unicode>konnte. Ueber diesen Punkt also möchte ich dich noch um Aufschluß bitten; denn ich stelle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638600531_494">
+				<Coords points="1085,749 140,738 140,803 1085,814" />
+				<Baseline points="140,784 1085,795" />
+				<TextEquiv>
+					<Unicode>mir vor, daß du bei deinen nahen persönlichen Beziehungen zu Männern, welche mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638606321_495">
+				<Coords points="1086,815 139,801 139,864 1086,878" />
+				<Baseline points="139,845 1086,859" />
+				<TextEquiv>
+					<Unicode>Ereignisse genau vertraut sind, darüber Gewißheit haben müsstest. Wäre dieses nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638612126_496">
+				<Coords points="1094,879 141,864 141,927 1094,942" />
+				<Baseline points="141,909 1094,924" />
+				<TextEquiv>
+					<Unicode>der Fall, so wünschte ich wenigstens deine moralische Ueberzeugung zu erfahren. Viele Liberale</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638617799_497">
+				<Coords points="1090,943 144,933 144,994 1090,1004" />
+				<Baseline points="144,976 1090,986" />
+				<TextEquiv>
+					<Unicode>hier denken ungefähr wie ich; um so nothwendiger ist es, daß man der Sache auf den Grund sehe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638624248_498">
+				<Coords points="1077,1005 147,992 147,1053 1077,1066" />
+				<Baseline points="147,1036 1077,1049" />
+				<TextEquiv>
+					<Unicode>Da Beschleunigung in dieser Angelegenheit allerdings sehr wünschenswerth ist, so muß ich dich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638628457_499">
+				<Coords points="751,1067 158,1062 158,1126 751,1131" />
+				<Baseline points="158,1101 751,1106" />
+				<TextEquiv>
+					<Unicode>natürlich ersuchen, mir sobald als möglich zu antworten.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638639277_500">
+				<Coords points="1086,1132 290,1117 290,1195 1086,1210" />
+				<Baseline points="290,1176 1086,1191" />
+				<TextEquiv>
+					<Unicode>Den Brief an Kubli habe ich, mit seiner Adresse versehen, der hiesigen Post</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486638644755_501">
+				<Coords points="1086,1211 160,1195 160,1253 1086,1269" />
+				<Baseline points="160,1241 1086,1257" />
+				<TextEquiv>
+					<Unicode>übergeben. Kubli war wegen bewußter Sache vor einiger Zeit einmal bei mir u. sagte mir, </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

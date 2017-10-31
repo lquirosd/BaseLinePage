@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:30:15</Created>
+        <LastChange>2017-03-28T12:51:50.910+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000049.jpg" imageWidth="915" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490698311106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487070866887_1942"/>
+                <RegionRefIndexed index="1" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487070866887_1942" custom="readingOrder {index:0;}">
+            <Coords points="627,79 871,79 871,149 627,149"/>
+            <TextLine id="line_1487070874027_1943" custom="readingOrder {index:0;}">
+                <Coords points="864,94 638,94 640,141 866,141"/>
+                <TextEquiv>
+                    <Unicode>Bern, den 1. Febr. 1877. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:1;}">
+            <Coords points="46,306 901,306 902,1423 47,1423"/>
+            <TextLine id="line_1487070903010_1944" custom="readingOrder {index:0;}">
+                <Coords points="573,319 277,320 277,367 573,366"/>
+                <TextEquiv>
+                    <Unicode>Verehrter Herr u. Freund!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070907320_1945" custom="readingOrder {index:1;}">
+                <Coords points="894,367 86,368 86,422 894,421"/>
+                <TextEquiv>
+                    <Unicode>Ich bin Ihnen sehr zu Danke verpflichtet für die Mittheilung des Telegramms v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070913897_1946" custom="readingOrder {index:2;}">
+                <Coords points="896,423 117,421 117,476 896,478"/>
+                <TextEquiv>
+                    <Unicode>Maraini: es ist seit langer Zeit die erste Nachricht, die einen ganz erfreuli-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070919588_1947" custom="readingOrder {index:3;}">
+                <Coords points="881,477 106,479 106,533 881,531"/>
+                <TextEquiv>
+                    <Unicode>chen Eindrukk macht. Die Stellung M.'s zu dem jezigen Ministerium ist auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070928991_1948" custom="readingOrder {index:4;}">
+                <Coords points="889,533 114,534 114,589 889,588"/>
+                <TextEquiv>
+                    <Unicode>der Art, daß man wohl annehmen darf, er würde so sich nicht ausdrükken,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070942270_1949" custom="readingOrder {index:5;}">
+                <Coords points="889,590 114,590 114,644 889,644"/>
+                <TextEquiv>
+                    <Unicode>würde er nicht seiner Sache so gut als sicher sein. Mich hat diese Mittheilung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070946996_1950" custom="readingOrder {index:6;}">
+                <Coords points="870,643 113,645 113,700 870,698"/>
+                <TextEquiv>
+                    <Unicode>um so mehr gefreut, als ich gestern Nachmittag noch einen vertraulichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070952644_1951" custom="readingOrder {index:7;}">
+                <Coords points="885,700 112,701 112,756 885,755"/>
+                <TextEquiv>
+                    <Unicode>Brief von Pioda hatte, der ganz anders lautete u. zum Mindesten noch eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070959763_1952" custom="readingOrder {index:8;}">
+                <Coords points="893,752 112,757 112,813 893,808"/>
+                <TextEquiv>
+                    <Unicode>lange Verzögerung besorgen ließ. Ich lege Ihnen das Billet hier bei u. bitte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487070966555_1953" custom="readingOrder {index:9;}">
+                <Coords points="887,814 107,811 107,863 887,866"/>
+                <TextEquiv>
+                    <Unicode>Sie, mir dasselbe nur ganzgelegentlich zurükkzugeben. Die angestrichene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071158354_1954" custom="readingOrder {index:10;}">
+                <Coords points="881,867 110,866 110,921 881,922"/>
+                <TextEquiv>
+                    <Unicode>Stelle scheint darauf zu deuten, daß vonItalienaus die Anregung nach Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071165977_1955" custom="readingOrder {index:11;}">
+                <Coords points="896,923 870,916 109,918 109,976 870,974 896,981"/>
+                <TextEquiv>
+                    <Unicode>erging, die Subsidienzahlungen theilweise zu sistiren, so lange die Zufahrtslinien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071169467_1956" custom="readingOrder {index:12;}">
+                <Coords points="876,980 110,981 110,1032 876,1031"/>
+                <TextEquiv>
+                    <Unicode>nicht in Angriff genommen seien. Nur unter dieser Voraussetzung kann ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071173275_1957" custom="readingOrder {index:13;}">
+                <Coords points="671,1031 111,1033 111,1087 671,1085"/>
+                <TextEquiv>
+                    <Unicode>dem fragl. Passus überhaupt einen Sinn abgewinnen. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071177017_1958" custom="readingOrder {index:14;}">
+                <Coords points="888,1087 78,1088 78,1144 888,1143"/>
+                <TextEquiv>
+                    <Unicode>Die Conferenz mit Favre ist also auf Montag vertagt worden, weil man be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071181802_1959" custom="readingOrder {index:15;}">
+                <Coords points="882,1145 111,1141 111,1196 882,1200"/>
+                <TextEquiv>
+                    <Unicode>sorgte, an Einem Tage nicht fertig zu werden u. deshalb den Samstag nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071187642_1960" custom="readingOrder {index:16;}">
+                <Coords points="887,1201 104,1201 104,1253 887,1253"/>
+                <TextEquiv>
+                    <Unicode>passend fand. Möge eine Einigung erzielt werden: ich nähme eine solche als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071191489_1961" custom="readingOrder {index:17;}">
+                <Coords points="735,1254 109,1253 109,1308 735,1309"/>
+                <TextEquiv>
+                    <Unicode>gutes Zeichen für das nachfolgende, noch schwierigere Geschäft!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071196235_1962" custom="readingOrder {index:18;}">
+                <Coords points="753,1310 305,1309 305,1364 753,1365"/>
+                <TextEquiv>
+                    <Unicode>Mit vorzüglicher Hochschätzung Ihr ergebenster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071200343_1963" custom="readingOrder {index:19;}">
+                <Coords points="870,1363 714,1366 714,1409 870,1406"/>
+                <TextEquiv>
+                    <Unicode>Dr J. Heer</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

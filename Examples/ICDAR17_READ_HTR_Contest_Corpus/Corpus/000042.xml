@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:19</Created>
+        <LastChange>2017-03-28T12:24:15.482+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000042.jpg" imageWidth="1126" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490696655582" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="134,144 1094,144 1094,1296 134,1296"/>
+            <TextLine id="line_1486653446779_1049" custom="readingOrder {index:0;}">
+                <Coords points="1049,185 163,175 163,223 1049,233"/>
+                <TextEquiv>
+                    <Unicode>aupt beantworten soll. Kern ist der Meinung, man sollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653452662_1050" custom="readingOrder {index:1;}">
+                <Coords points="1033,234 180,228 180,274 1033,280"/>
+                <TextEquiv>
+                    <Unicode>nicht mehr antworten, sondern einfach handeln. Allein die Sache</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653457123_1051" custom="readingOrder {index:2;}">
+                <Coords points="1048,281 169,272 169,320 1048,329"/>
+                <TextEquiv>
+                    <Unicode>hat auch ihre andre Seite; einmal erwartet Frankreich eine Ant-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653463616_1052" custom="readingOrder {index:3;}">
+                <Coords points="1029,330 182,323 182,373 1029,380"/>
+                <TextEquiv>
+                    <Unicode>wortu würde es vielleicht verlangen, sodan ist in der Replik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653471137_1053" custom="readingOrder {index:4;}">
+                <Coords points="1062,381 1000,375 186,373 183,416 1002,420 1062,435"/>
+                <TextEquiv>
+                    <Unicode>wieder so viel falsches u mißbeliebiges, daß ein Straussenmagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653479049_1054" custom="readingOrder {index:5;}">
+                <Coords points="1037,436 177,422 177,464 1037,478"/>
+                <TextEquiv>
+                    <Unicode>es schwerlich verdauen könnte. Inzwischen sammle ich Material</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653495643_1055" custom="readingOrder {index:6;}">
+                <Coords points="1027,479 176,468 176,515 1027,526"/>
+                <TextEquiv>
+                    <Unicode>u Notizen beim Justiz Departement. Hr. Dr. hat mir nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653506309_1056" custom="readingOrder {index:7;}">
+                <Coords points="1048,527 844,520 186,516 182,559 844,570 1048,577"/>
+                <TextEquiv>
+                    <Unicode>weniger als 25 Foli Seiten geschickt! Es fällt mir zwar lange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653520249_1057" custom="readingOrder {index:8;}">
+                <Coords points="1003,576 867,578 186,566 186,611 867,623 1003,621"/>
+                <TextEquiv>
+                    <Unicode>nicht ein, dieses alles zu benutzen. Ich würde gerne deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653524572_1058" custom="readingOrder {index:9;}">
+                <Coords points="1024,624 183,611 183,661 1024,674"/>
+                <TextEquiv>
+                    <Unicode>Ansicht vernehmen über die Frage, ob man antworten soll.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653529298_1059" custom="readingOrder {index:10;}">
+                <Coords points="1011,675 159,673 159,720 1011,722"/>
+                <TextEquiv>
+                    <Unicode>Du weißt, in unsrer Antwort wurden die zwey Gedanken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653538107_1060" custom="readingOrder {index:11;}">
+                <Coords points="1000,723 190,718 190,768 1000,773"/>
+                <TextEquiv>
+                    <Unicode>ausgeführt: 1) Es war überhaupt keine Veranlaßung zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653545656_1061" custom="readingOrder {index:12;}">
+                <Coords points="987,774 200,772 200,820 987,822"/>
+                <TextEquiv>
+                    <Unicode>Beschwerden vorhanden 2) Wenn aber auch, so konnte sich das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653551025_1062" custom="readingOrder {index:13;}">
+                <Coords points="965,823 198,818 198,869 965,874"/>
+                <TextEquiv>
+                    <Unicode>gestellte Begehren in keiner Weise rechtfertigen; daher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653559731_1063" custom="readingOrder {index:14;}">
+                <Coords points="991,875 192,868 192,914 991,921"/>
+                <TextEquiv>
+                    <Unicode>Protestation, jedoch unter Versicherung, alles zu thun, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653568016_1064" custom="readingOrder {index:15;}">
+                <Coords points="1011,922 204,919 204,967 1011,970"/>
+                <TextEquiv>
+                    <Unicode>recht u billig. Nun kommt die Replik u führt etwa fol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653576718_1065" custom="readingOrder {index:16;}">
+                <Coords points="1019,970 561,965 199,970 199,1020 561,1015 1019,1020"/>
+                <TextEquiv>
+                    <Unicode>gendes Räsonnement: Wir bestreiten, daß wir die Absicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653589710_1066" custom="readingOrder {index:17;}">
+                <Coords points="996,1020 624,1013 191,1016 191,1065 624,1062 996,1069"/>
+                <TextEquiv>
+                    <Unicode>hatten, in die innern Verhältniße der Schweiz einzugreifen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653596231_1067" custom="readingOrder {index:18;}">
+                <Coords points="977,1068 204,1070 204,1124 977,1122"/>
+                <TextEquiv>
+                    <Unicode>wir wollten nur der Gefahr wehren u dem Heerde der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653608369_1068" custom="readingOrder {index:19;}">
+                <Coords points="1063,1125 969,1119 208,1117 204,1165 969,1165 1063,1191"/>
+                <TextEquiv>
+                    <Unicode>Anarchie entgegentreten. (Folgen eine Menge Anschuldigungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653613994_1069" custom="readingOrder {index:20;}">
+                <Coords points="1043,1191 967,1166 203,1164 203,1205 972,1215 1040,1243"/>
+                <TextEquiv>
+                    <Unicode>u dann die alte Drohung einer Allianz mit den der Schweiz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653618566_1070" custom="readingOrder {index:21;}">
+                <Coords points="539,1220 198,1219 198,1261 539,1262"/>
+                <TextEquiv>
+                    <Unicode>feindlichen Staaten). </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

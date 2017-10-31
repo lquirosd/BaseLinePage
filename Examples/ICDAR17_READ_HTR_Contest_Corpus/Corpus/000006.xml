@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:25:15</Created>
+		<LastChange>2017-02-17T10:23:03.871+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000006.jpg" imageWidth="880" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487323383980" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="22,84 867,84 863,1391 22,1395" />
+			<TextLine id="line_1486652683087_979">
+				<Coords points="831,95 130,106 130,169 831,158" />
+				<TextEquiv>
+					<Unicode>passend erachten den Bundesrath zu Vor-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652686878_980">
+				<Coords points="828,155 36,169 36,210 828,196" />
+				<TextEquiv>
+					<Unicode>stellungen oder wenn diese nichts fruchten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652691126_981">
+				<Coords points="859,196 67,211 67,255 859,240" />
+				<TextEquiv>
+					<Unicode>zu Gegenretorsionen zu veranlassen. Hünde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652694976_982">
+				<Coords points="867,246 57,256 57,299 867,289" />
+				<TextEquiv>
+					<Unicode>sind wir Zürcher doch keine & wenn es unsern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652698424_983">
+				<Coords points="776,289 68,300 68,343 776,332" />
+				<TextEquiv>
+					<Unicode>Handwerkern nicht mehr erlaubt ist in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652712456_984">
+				<Coords points="844,332 76,344 76,388 844,376" />
+				<TextEquiv>
+					<Unicode>Deutschland ihr Brod zu verdienen, warum</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652717614_985">
+				<Coords points="856,377 74,389 74,434 856,422" />
+				<TextEquiv>
+					<Unicode>sollen wir dann den deutschen Gesellen ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652721971_986">
+				<Coords points="777,425 58,435 58,482 777,472" />
+				<TextEquiv>
+					<Unicode>statten unser Schweizer Brod zu fressen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652726186_987">
+				<Coords points="867,474 163,482 163,528 867,518" />
+				<TextEquiv>
+					<Unicode>Ihre Ansichten hierüber zu vernehmen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652734499_988">
+				<Coords points="865,521 77,529 77,569 865,561" />
+				<TextEquiv>
+					<Unicode>würde mir sehr erwünscht seyn & je nachdem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652738711_989">
+				<Coords points="813,562 70,570 70,614 813,606" />
+				<TextEquiv>
+					<Unicode>solche lauten würde ich mich veranlaßt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652744539_990">
+				<Coords points="858,612 76,615 76,658 858,655" />
+				<TextEquiv>
+					<Unicode>finden, das in Rede stehende Ausweisungs-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652749912_991">
+				<Coords points="845,652 87,659 87,705 845,698" />
+				<TextEquiv>
+					<Unicode>decret zum Gegenstand eines Berichts an</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652756056_992">
+				<Coords points="669,701 83,706 83,751 669,746" />
+				<TextEquiv>
+					<Unicode>den Bundesrath zu machen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652763528_993">
+				<Coords points="842,740 148,752 148,799 842,787" />
+				<TextEquiv>
+					<Unicode>Ihr Vetter Keller der sich sehr für die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652767654_994">
+				<Coords points="867,797 82,800 82,838 867,831" />
+				<TextEquiv>
+					<Unicode>eidgenössische Universität zu interessiren</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652779537_995">
+				<Coords points="853,826 71,839 71,883 853,870" />
+				<TextEquiv>
+					<Unicode>schien & dem ich Ihren Bericht mittheilte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652784057_996">
+				<Coords points="766,872 90,884 90,926 766,914" />
+				<TextEquiv>
+					<Unicode>behauptet derselbe enthielte einige</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652790643_997">
+				<Coords points="834,912 80,927 80,970 834,955" />
+				<TextEquiv>
+					<Unicode>wesentliche organische Fehler. Das ganz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652795813_998">
+				<Coords points="819,961 84,971 84,1017 819,1007" />
+				<TextEquiv>
+					<Unicode>unrichtige & Geld fressende Verhältniß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652802034_999">
+				<Coords points="862,1000 82,1018 82,1063 862,1045" />
+				<TextEquiv>
+					<Unicode>zwischen den ordentlichen & außerordentlichen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652806808_1000">
+				<Coords points="839,1049 92,1064 92,1107 839,1092" />
+				<TextEquiv>
+					<Unicode>Professoren z. B. jene wären zu schlecht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652810569_1001">
+				<Coords points="852,1090 87,1108 87,1152 852,1134" />
+				<TextEquiv>
+					<Unicode>diese zu gut gestellt. Letztere dürften</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652816257_1002">
+				<Coords points="837,1141 86,1153 86,1194 837,1182" />
+				<TextEquiv>
+					<Unicode>bey einer großen Universität nicht in der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652824695_1003">
+				<Coords points="867,1182 79,1195 79,1239 867,1220" />
+				<TextEquiv>
+					<Unicode>Facultät sitzen sondern wären als er...ter-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652830871_1004">
+				<Coords points="865,1227 90,1240 90,1284 865,1269" />
+				<TextEquiv>
+					<Unicode>te privat docenten zu behandeln, sondern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652836793_1005">
+				<Coords points="844,1267 50,1285 50,1332 844,1314" />
+				<TextEquiv>
+					<Unicode>& als Candidaten für alle Universitäten,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486652840917_1006">
+				<Coords points="824,1317 92,1333 92,1373 824,1357" />
+				<TextEquiv>
+					<Unicode>also nicht durchschnittliche Besoldung von </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

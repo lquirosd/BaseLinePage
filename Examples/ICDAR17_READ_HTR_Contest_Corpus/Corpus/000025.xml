@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:23:44</Created>
+        <LastChange>2017-03-27T18:23:41.004+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000025.jpg" imageWidth="1093" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631821062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="58,42 1089,42 1089,1399 65,1384"/>
+            <TextLine id="line_1486637808028_458" custom="readingOrder {index:0;}">
+                <Coords points="1076,54 65,55 65,102 1076,101"/>
+                <TextEquiv>
+                    <Unicode>Ich begreife aber auch, daß Ihr im Großen Rathe einen etwas schwierigen Standpunkt gehabt haben werdet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637814131_459" custom="readingOrder {index:1;}">
+                <Coords points="1085,103 75,100 75,153 1085,156"/>
+                <TextEquiv>
+                    <Unicode>u. bin daher sehr begierig auf die Verhandlungen. – Was die Lage der Angelegenheiten im Allgemeinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637822060_460" custom="readingOrder {index:2;}">
+                <Coords points="1073,156 79,157 79,207 1073,206"/>
+                <TextEquiv>
+                    <Unicode>betrifft, so finde ich mit dir, daß nach dem trostlosen Resultate der Tagsatzung nichts anders zu er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637839343_461" custom="readingOrder {index:3;}">
+                <Coords points="1081,208 82,203 82,257 1081,262"/>
+                <TextEquiv>
+                    <Unicode>warten war, als eben die nun eingetretnen Ereigniße, u. daß daher der Genfer Gesandte eine ungeheure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637847811_462" custom="readingOrder {index:4;}">
+                <Coords points="1085,263 81,260 81,311 1085,314"/>
+                <TextEquiv>
+                    <Unicode>Verantwortung auf sich geladen hat. Ich glaube indeßen nach allem, was ich vernommen, daß nicht sowohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637854867_463" custom="readingOrder {index:5;}">
+                <Coords points="1077,315 86,313 86,366 1077,368"/>
+                <TextEquiv>
+                    <Unicode>die Jesuitenfrage einen so schleunigen Ausbruch veranlaßt habe, als vielmehr die Nichtertheilung der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637862564_464" custom="readingOrder {index:6;}">
+                <Coords points="1039,364 92,369 92,422 1039,417"/>
+                <TextEquiv>
+                    <Unicode>Amnestie u. überhaupt das Schreckensregiment in Luzern. Die erstere wird durch den gegenwärtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637868917_465" custom="readingOrder {index:7;}">
+                <Coords points="1083,416 91,423 91,478 1083,471"/>
+                <TextEquiv>
+                    <Unicode>Kantonalputsch – denn wenn es gut geht, wird es doch nur auf einen solchen hinauslaufen – nicht vollständig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637876482_466" custom="readingOrder {index:8;}">
+                <Coords points="1084,465 95,479 95,528 1084,514"/>
+                <TextEquiv>
+                    <Unicode>gelöst werden, denn in Freiburg, Schwyz u. Wallis bleiben die Jesuiten doch, u. was Luzern betrifft, so hätte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487320711562_123" custom="readingOrder {index:9;}">
+                <Coords points="867,528 802,529 802,556 867,555"/>
+                <TextEquiv>
+                    <Unicode>ändern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637889606_467" custom="readingOrder {index:10;}">
+                <Coords points="1072,546 97,557 97,591 1072,580"/>
+                <TextEquiv>
+                    <Unicode>vor ihrem Einzuge sich wohl noch Manches dort auf friedlichem Wege gelöst werden können. Dagegen ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637895655_468" custom="readingOrder {index:11;}">
+                <Coords points="1073,577 95,591 95,649 1073,635"/>
+                <TextEquiv>
+                    <Unicode>es sehr begreiflich, daß die immer mehr wachsende Zahl der Flüchtlinge, ihre eigne Kraft fühlend u. auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637913234_469" custom="readingOrder {index:12;}">
+                <Coords points="1080,633 95,650 95,706 1080,689"/>
+                <TextEquiv>
+                    <Unicode>Sympathien der Nachbarkantone gestützt, nicht länger anstehen wollte u. beinahe nicht länger anstehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637921666_470" custom="readingOrder {index:13;}">
+                <Coords points="1089,692 107,707 107,763 1089,748"/>
+                <TextEquiv>
+                    <Unicode>konnte, den Knoten mit dem Schwerte zu zerhauen. So sehr ich gewünscht hätte, der Kampf wäre unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637938355_471" custom="readingOrder {index:14;}">
+                <Coords points="1081,752 108,764 108,819 1081,807"/>
+                <TextEquiv>
+                    <Unicode>blieben, so muß ich nun doch, da er einmal begonnen ist, von Herzen der liberalen Parthei den Sieg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637946962_472" custom="readingOrder {index:15;}">
+                <Coords points="1080,808 108,820 108,877 1080,865"/>
+                <TextEquiv>
+                    <Unicode>wünschen. Zugleich verhehle ich mir aber auch nicht, daß dieser Sieg nur dann ein ehrenvoller u. dauernder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637954172_473" custom="readingOrder {index:16;}">
+                <Coords points="1062,860 108,877 108,936 1062,919"/>
+                <TextEquiv>
+                    <Unicode>seyn kann, wenn – wie ich hoffe – die freie Stimme des Luzernervolkes in seiner Mehrheit sich auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637968621_474" custom="readingOrder {index:17;}">
+                <Coords points="1072,925 110,937 110,995 1072,983"/>
+                <TextEquiv>
+                    <Unicode>verfaßungsmäßigem Wege sich für das fresinnige Prinzip u. seine Verfechter aussprechen wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637978671_475" custom="readingOrder {index:18;}">
+                <Coords points="1075,977 111,996 111,1057 1075,1038"/>
+                <TextEquiv>
+                    <Unicode>Unser Volk ist auf den Ausgang des Kampfes ungemein gespannt; u. auch ich bin es so sehr, daß ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637984984_476" custom="readingOrder {index:19;}">
+                <Coords points="1083,1042 109,1058 109,1115 1083,1099"/>
+                <TextEquiv>
+                    <Unicode>in diesen Tagen nichts anders thun kann. Ueber meine wißenschaftlichen Arbeiten, zu denen ich sonst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486637995260_477" custom="readingOrder {index:20;}">
+                <Coords points="1083,1103 110,1116 110,1172 1083,1159"/>
+                <TextEquiv>
+                    <Unicode>immer wie zu einem geliebten Asyl zurückkehre, will ich dir in einem nächsten Briefe einläßlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486638001673_478" custom="readingOrder {index:21;}">
+                <Coords points="1055,1160 113,1173 113,1234 1055,1221"/>
+                <TextEquiv>
+                    <Unicode>schreiben, u. hoffe von dir ein Gleiches. – Empfehle mich deinen Eltern u. deiner Schwester,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486638009313_479" custom="readingOrder {index:22;}">
+                <Coords points="1055,1223 108,1235 108,1293 1055,1281"/>
+                <TextEquiv>
+                    <Unicode>grüße mir meine Freunde u. sey – in der Erwartung, recht bald wieder Berichte von dir zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486638015996_480" custom="readingOrder {index:23;}">
+                <Coords points="776,1288 367,1294 367,1337 776,1331"/>
+                <TextEquiv>
+                    <Unicode>erhalten – auf's herzlichste gegrüßt von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486638019541_481" custom="readingOrder {index:24;}">
+                <Coords points="833,1334 761,1338 761,1362 833,1358"/>
+                <TextEquiv>
+                    <Unicode>Deinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486638025166_482" custom="readingOrder {index:25;}">
+                <Coords points="1051,1352 867,1353 865,1398 1049,1397"/>
+                <TextEquiv>
+                    <Unicode>J J Blumer-Heer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

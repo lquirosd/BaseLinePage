@@ -1,0 +1,22 @@
+#local minima
+MINIMA_WINDOW=15
+MIN_POINTS_CONTOUR=35 #by default
+
+#classificaPuntsBaseLiniesXml
+#ajustar a ojimetro
+CLASS_XML_DOWN_BOUND=8
+CLASS_XML_UPPER_BOUND=10
+
+#tree forest classifier
+MINIM_PROB_TO_TRUE=0 
+K=0   #by default
+
+#dbscan
+DBSCAN_MIN_DENSITY=2 # by default
+#DBSCAN_EPSILON_DIST=400
+DBSCAN_EPSILON_DIST=0 #automaticaly stimated
+DBSCAN_MIN_POINTS_PER_LINE=2
+DBSCAN_MAX_ANGLE_INTO_A_LINE=60
+DBSCAN_DECREMENT_STEP=2 #by default
+DBSCAN_STRAIT_BASELINES= #-d to activate
+DBSCAN_FINAL_POINTS_PER_LINE=10 # final baseline points

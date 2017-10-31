@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:26:10</Created>
+		<LastChange>2017-02-17T10:58:43.520+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000018.jpg" imageWidth="1154" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487325523629" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="146,147 1150,147 1150,1353 146,1353" />
+			<TextLine id="line_1486656494521_1242">
+				<Coords points="494,167 177,158 177,218 494,227" />
+				<Baseline points="177,203 494,212" />
+				<TextEquiv>
+					<Unicode>contre de prime abord.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487325448443_216">
+				<Coords points="520,224 473,228 473,271 520,267" />
+				<Baseline points="473,265 520,261" />
+				<TextEquiv>
+					<Unicode>dire</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656504684_1243">
+				<Coords points="1140,265 629,271 194,255 194,283 629,299 1140,293" />
+				<Baseline points="194,269 629,285 1140,279" />
+				<TextEquiv>
+					<Unicode>Ce que je puis vous c'est que je ne manquerai pas de mettre le plus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656510306_1244">
+				<Coords points="1096,299 813,300 187,296 187,346 813,350 1096,349" />
+				<Baseline points="187,329 813,333 1096,332" />
+				<TextEquiv>
+					<Unicode>grand zèle pour la réalisation d'une idée à laquelle j'attache le plus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656514555_1245">
+				<Coords points="1099,351 180,345 180,402 1099,408" />
+				<Baseline points="180,385 1099,391" />
+				<TextEquiv>
+					<Unicode>grand prix pour le bien de mon canton qui serait par-là rattaché à</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656518545_1246">
+				<Coords points="647,407 196,409 196,468 647,466" />
+				<Baseline points="196,449 647,447" />
+				<TextEquiv>
+					<Unicode>la Suisse par un nouveau lien.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656525143_1247">
+				<Coords points="1098,469 205,462 205,522 1098,529" />
+				<Baseline points="205,506 1098,513" />
+				<TextEquiv>
+					<Unicode>Nous ne perdons pas de vue les elections au conseil national.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656532517_1248">
+				<Coords points="1088,525 987,530 214,523 214,574 987,581 1088,576" />
+				<Baseline points="214,560 987,567 1088,562" />
+				<TextEquiv>
+					<Unicode>Au delà du mt Cendre nos candidats sont LuviniDemarchi</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656539464_1249">
+				<Coords points="1108,576 1025,581 218,582 218,629 1025,628 1108,623" />
+				<Baseline points="218,614 1025,613 1108,608" />
+				<TextEquiv>
+					<Unicode>et Bernasconi de Chiasso. Ce dernier est le frère du Lt Colonel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656546165_1250">
+				<Coords points="1115,629 603,630 187,629 187,683 603,684 1115,683" />
+				<Baseline points="187,666 603,667 1115,666" />
+				<TextEquiv>
+					<Unicode>fédéral: il a été substitué à Fogliardi pour apaiser le District</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656552277_1251">
+				<Coords points="1101,680 228,685 228,741 1101,736" />
+				<Baseline points="228,724 1101,719" />
+				<TextEquiv>
+					<Unicode>de Mendrisio qui gardait rancune de ce qu'après la mort de</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656557942_1252">
+				<Coords points="1138,725 212,742 212,800 1138,783" />
+				<Baseline points="212,782 1138,765" />
+				<TextEquiv>
+					<Unicode>Soldini on lui avait soufflé le successeur. Nous avons tout</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656563037_1253">
+				<Coords points="490,793 242,801 242,861 490,853" />
+				<Baseline points="242,844 490,836" />
+				<TextEquiv>
+					<Unicode>espoir de réussir.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656570806_1254">
+				<Coords points="1131,854 217,862 217,919 1131,911" />
+				<Baseline points="217,902 1131,894" />
+				<TextEquiv>
+					<Unicode>Dans le collège au-dessus du mont cendre nos candidats ne sont</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656575437_1255">
+				<Coords points="1095,905 226,920 226,975 1095,960" />
+				<Baseline points="226,960 1095,945" />
+				<TextEquiv>
+					<Unicode>pas encore arrêtés. On avait primitivement pensé à mettre en</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656579855_1256">
+				<Coords points="1077,959 246,976 246,1030 1077,1013" />
+				<Baseline points="246,1013 1077,996" />
+				<TextEquiv>
+					<Unicode>avant les noms de Franscini, Bonzanigo, Pioda. Mais à</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656586892_1257">
+				<Coords points="1098,1014 773,1026 238,1031 238,1091 773,1086 1098,1074" />
+				<Baseline points="238,1071 773,1066 1098,1054" />
+				<TextEquiv>
+					<Unicode>Bellinzona surgirent quelques voix en faveur de Jauch, en</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656591396_1258">
+				<Coords points="1106,1092 239,1080 239,1145 1106,1157" />
+				<Baseline points="239,1128 1106,1140" />
+				<TextEquiv>
+					<Unicode>attendant qu'on s'aperçut de plus en plus que l'opposition</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656596821_1259">
+				<Coords points="1130,1158 253,1152 253,1208 1130,1214" />
+				<Baseline points="253,1191 1130,1197" />
+				<TextEquiv>
+					<Unicode>entend livrer une lutte à mort. Dans ces circonstances beau-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656604825_1260">
+				<Coords points="1115,1214 930,1215 255,1203 255,1264 930,1276 1115,1275" />
+				<Baseline points="255,1243 930,1255 1115,1254" />
+				<TextEquiv>
+					<Unicode>coup de monde se demande si le temps est bien choisi pour</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486656610871_1261">
+				<Coords points="1150,1277 241,1257 241,1314 1150,1334" />
+				<Baseline points="241,1306 1150,1326" />
+				<TextEquiv>
+					<Unicode>faire des demonstrations adhonorem et s'il ne serait pas beaucoup </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

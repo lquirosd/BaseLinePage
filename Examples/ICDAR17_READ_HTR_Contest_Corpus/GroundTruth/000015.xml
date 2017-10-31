@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:38:06</Created>
+        <LastChange>2017-03-27T18:13:41.891+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000015.jpg" imageWidth="970" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631221969" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+                <RegionRefIndexed index="1" regionRef="region_1487257143925_1"/>
+                <RegionRefIndexed index="2" regionRef="region_1487257152525_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="7,186 787,186 787,996 7,996"/>
+            <TextLine id="line_1487257221092_3" custom="readingOrder {index:0;}">
+                <Coords points="735,202 529,202 13,186 13,231 529,247 735,247"/>
+                <Baseline points="13,221 529,237 735,237"/>
+                <TextEquiv>
+                    <Unicode>Eidgenössischen Truppen mit der Überwachung der sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257239102_4" custom="readingOrder {index:1;}">
+                <Coords points="743,248 615,248 7,227 7,260 615,281 743,281"/>
+                <Baseline points="7,250 615,271 743,271"/>
+                <TextEquiv>
+                    <Unicode>hier aufhaltenden Flüchtlinge beauftragt. Wenn nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257253278_5" custom="readingOrder {index:2;}">
+                <Coords points="742,282 624,276 578,280 94,261 9,256 9,289 94,294 578,313 624,309 742,315"/>
+                <Baseline points="9,281 94,286 578,305 624,301 742,307"/>
+                <TextEquiv>
+                    <Unicode>derselbe in Vollziehung dieses Auftrages sich veran-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257266611_6" custom="readingOrder {index:3;}">
+                <Coords points="751,316 554,316 12,297 12,328 554,347 751,347"/>
+                <Baseline points="12,317 554,336 751,336"/>
+                <TextEquiv>
+                    <Unicode>laßt sah, den Flüchtlingen das Tragen von Waffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257276956_7" custom="readingOrder {index:4;}">
+                <Coords points="739,348 14,324 14,359 739,383"/>
+                <Baseline points="14,350 739,374"/>
+                <TextEquiv>
+                    <Unicode>zu untersagen, so können wir diese Verfügung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257287183_8" custom="readingOrder {index:5;}">
+                <Coords points="722,384 9,360 9,392 722,416"/>
+                <Baseline points="9,383 722,407"/>
+                <TextEquiv>
+                    <Unicode>nur für angemessen halten: denn es liegt auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257295053_9" custom="readingOrder {index:6;}">
+                <Coords points="749,417 10,392 10,422 749,447"/>
+                <Baseline points="10,413 749,438"/>
+                <TextEquiv>
+                    <Unicode>flacher Hand, daß, wenn Italienische Flüchtlinge in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257303553_10" custom="readingOrder {index:7;}">
+                <Coords points="749,448 9,424 9,457 749,481"/>
+                <Baseline points="9,447 749,471"/>
+                <TextEquiv>
+                    <Unicode>dem hiesigen Cantone, also möglicher Weise unmit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257310212_11" custom="readingOrder {index:8;}">
+                <Coords points="757,482 9,453 9,487 757,516"/>
+                <Baseline points="9,477 757,506"/>
+                <TextEquiv>
+                    <Unicode>telbar an der Lombardischen Grenze Waffen tragen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257318823_12" custom="readingOrder {index:9;}">
+                <Coords points="751,517 9,486 9,511 751,542"/>
+                <Baseline points="9,510 751,541"/>
+                <TextEquiv>
+                    <Unicode>die Schweizerische Neutralität dadurch gefährdet wer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257323512_13" custom="readingOrder {index:10;}">
+                <Coords points="135,521 16,520 14,551 139,554"/>
+                <Baseline points="14,542 132,546"/>
+                <TextEquiv>
+                    <Unicode>den kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257329711_14" custom="readingOrder {index:11;}">
+                <Coords points="759,579 42,549 38,591 752,620"/>
+                <Baseline points="38,583 752,612"/>
+                <TextEquiv>
+                    <Unicode>Wir sehen uns daher nicht veranlaßt, gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257337596_15" custom="readingOrder {index:12;}">
+                <Coords points="741,621 10,591 10,611 739,650"/>
+                <Baseline points="10,609 741,639"/>
+                <TextEquiv>
+                    <Unicode>die von Herrn Oberst Ritter erlassene Verfügung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257342870_16" custom="readingOrder {index:13;}">
+                <Coords points="214,620 9,612 8,653 214,655"/>
+                <Baseline points="8,641 214,646"/>
+                <TextEquiv>
+                    <Unicode>einzuschreiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257364982_17" custom="readingOrder {index:14;}">
+                <Coords points="764,675 43,653 43,694 755,720"/>
+                <Baseline points="43,686 755,712"/>
+                <TextEquiv>
+                    <Unicode>Dagegen werden wir nicht ermangeln, Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257371708_18" custom="readingOrder {index:15;}">
+                <Coords points="738,721 14,700 14,730 738,751"/>
+                <Baseline points="14,719 738,740"/>
+                <TextEquiv>
+                    <Unicode>den Verfügungen des Commandanten der hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257378940_19" custom="readingOrder {index:16;}">
+                <Coords points="760,752 14,724 14,758 760,786"/>
+                <Baseline points="14,749 760,777"/>
+                <TextEquiv>
+                    <Unicode>stehenden Eidgenössischen Truppen, die für Sie von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257387281_20" custom="readingOrder {index:17;}">
+                <Coords points="722,787 13,765 13,796 722,818"/>
+                <Baseline points="13,786 722,808"/>
+                <TextEquiv>
+                    <Unicode>Interesse sein könnten, in der Meinung Mitthei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257395712_21" custom="readingOrder {index:18;}">
+                <Coords points="724,819 13,792 13,825 724,852"/>
+                <Baseline points="13,815 724,842"/>
+                <TextEquiv>
+                    <Unicode>lung zu machen, daß solchen Mittheilungen le-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257403084_22" custom="readingOrder {index:19;}">
+                <Coords points="717,853 10,827 10,857 717,883"/>
+                <Baseline points="10,852 717,878"/>
+                <TextEquiv>
+                    <Unicode>diglich die Bedeutung einer einfachen Kenntniß-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257409640_23" custom="readingOrder {index:20;}">
+                <Coords points="345,869 16,858 10,898 349,902"/>
+                <Baseline points="10,883 346,895"/>
+                <TextEquiv>
+                    <Unicode>gabe beizumessen ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257418622_24" custom="readingOrder {index:21;}">
+                <Coords points="761,911 53,891 53,932 761,952"/>
+                <Baseline points="53,926 761,946"/>
+                <TextEquiv>
+                    <Unicode>Genehmigen Sie die Versicherung unserer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257425636_25" custom="readingOrder {index:22;}">
+                <Coords points="407,939 14,931 10,968 406,975"/>
+                <Baseline points="10,959 406,966"/>
+                <TextEquiv>
+                    <Unicode>vollkommenen Hochachtung. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487257143925_1" custom="readingOrder {index:1;}">
+            <Coords points="42,1101 306,1101 306,1206 42,1206"/>
+            <TextLine id="line_1487257472354_30" custom="readingOrder {index:0;}">
+                <Coords points="238,1114 65,1109 65,1147 238,1152"/>
+                <Baseline points="65,1138 238,1143"/>
+                <TextEquiv>
+                    <Unicode>Lugano.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257476109_31" custom="readingOrder {index:1;}">
+                <Coords points="282,1153 56,1150 56,1182 282,1185"/>
+                <Baseline points="56,1173 282,1176"/>
+                <TextEquiv>
+                    <Unicode>14 October 1848.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487257152525_2" custom="readingOrder {index:2;}">
+            <Coords points="188,1210 311,1209 311,1096 188,1093 189,997 740,997 740,1334 189,1334"/>
+            <TextLine id="line_1487257440845_26" custom="readingOrder {index:0;}">
+                <Coords points="732,1009 190,997 190,1026 732,1044"/>
+                <Baseline points="190,1017 732,1035"/>
+                <TextEquiv>
+                    <Unicode>Die Eidgenössischen Repräsentanten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257447461_27" custom="readingOrder {index:1;}">
+                <Coords points="604,1044 332,1037 332,1073 604,1080"/>
+                <Baseline points="332,1058 604,1065"/>
+                <TextEquiv>
+                    <Unicode>im Canton Tessin:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257453423_28" custom="readingOrder {index:2;}">
+                <Coords points="601,1081 351,1074 343,1129 603,1129"/>
+                <Baseline points="351,1109 601,1116"/>
+                <TextEquiv>
+                    <Unicode>J. Munzinger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487257463863_29" custom="readingOrder {index:3;}">
+                <Coords points="582,1211 343,1194 339,1278 578,1292"/>
+                <Baseline points="339,1255 550,1258"/>
+                <TextEquiv>
+                    <Unicode>Dr A Escher </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

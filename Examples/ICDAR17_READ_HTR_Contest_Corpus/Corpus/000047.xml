@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:27:53</Created>
+		<LastChange>2017-02-17T11:58:00.997+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000047.jpg" imageWidth="1135" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487329081062" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="53,30 1134,30 1134,1418 53,1418" />
+			<TextLine id="line_1486986560444_1654">
+				<Coords points="1126,36 132,47 132,98 1126,87" />
+				<TextEquiv>
+					<Unicode>treiben, und da ich mich dem reifern Alter nähere, in dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986567148_1655">
+				<Coords points="1108,90 124,99 124,145 1108,136" />
+				<TextEquiv>
+					<Unicode>ein Mann sich an größere Unternehmungen wagen darf</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986576071_1656">
+				<Coords points="1127,138 118,146 118,193 1127,185" />
+				<TextEquiv>
+					<Unicode>und soll, so gestehe ich offen, daß ich es nicht ungern sähe, wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986580891_1657">
+				<Coords points="1123,176 100,194 100,242 1123,224" />
+				<TextEquiv>
+					<Unicode>gereiftere Intelligenzen mich würdig fänden, in irgend einer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986585783_1658">
+				<Coords points="1116,231 96,243 96,287 1116,275" />
+				<TextEquiv>
+					<Unicode>Weise an einer gemeinnützigen kommerziellen Schöpfung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986589792_1659">
+				<Coords points="387,284 116,288 116,336 387,332" />
+				<TextEquiv>
+					<Unicode>mitzuwirken.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986602364_1660">
+				<Coords points="1134,323 121,337 121,383 1134,369" />
+				<TextEquiv>
+					<Unicode>Durch die eingreifende, soziale Umgestaltung, welche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986606719_1661">
+				<Coords points="1129,371 122,384 122,430 1129,417" />
+				<TextEquiv>
+					<Unicode>die große französische Revolution fast überall nach sich ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986611434_1662">
+				<Coords points="1132,414 99,430 99,477 1132,461" />
+				<TextEquiv>
+					<Unicode>zogen hat, sind Handel, Gewerbe und Ackerbau, wenn es</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986620033_1663">
+				<Coords points="1113,465 113,478 113,520 1113,507" />
+				<TextEquiv>
+					<Unicode>erlaubt ist, sich so auszudrücken, demokratisirt worden. Die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986629198_1664">
+				<Coords points="1125,510 108,521 108,566 1125,555" />
+				<TextEquiv>
+					<Unicode>Kasten- & und Geburtsvorrechte, die Zünfte verschwanden. Damit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986637006_1665">
+				<Coords points="1133,550 102,567 102,614 1133,597" />
+				<TextEquiv>
+					<Unicode>wurde nicht nur der Gerechtigkeit Genüge geleistet, sondern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986653588_1666">
+				<Coords points="1089,600 103,615 103,659 1089,644" />
+				<TextEquiv>
+					<Unicode>auch die Zivilisation auf natürlichem Wege gefördert. –</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986659177_1667">
+				<Coords points="1098,642 92,660 92,708 1098,690" />
+				<TextEquiv>
+					<Unicode>Doch wenn dem Talente und dem Fleiße alle Wege zur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986669469_1668">
+				<Coords points="1134,688 124,709 124,753 1134,732" />
+				<TextEquiv>
+					<Unicode>Belohnung geöffnet wurden, so blieben sie bei zersplitterten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986691557_1669">
+				<Coords points="1128,738 124,754 124,798 1128,782" />
+				<TextEquiv>
+					<Unicode>Kräften der Gefahr ausgesetzt, faktisch der Oligarchie des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986699171_1670">
+				<Coords points="1134,786 1098,776 104,799 104,845 1098,822 1134,832" />
+				<TextEquiv>
+					<Unicode>Reichthums allein die für die Gesammtheit bestimmten Vortheile</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986718327_1671">
+				<Coords points="1131,825 117,846 117,891 1131,870" />
+				<TextEquiv>
+					<Unicode>zufallen zu sehen. Diesem Uebelstande biegen sie am Besten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986729006_1672">
+				<Coords points="1098,873 125,892 125,936 1098,917" />
+				<TextEquiv>
+					<Unicode>durch große Assoziationen vor. Der Erkenntniß hievon</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986739382_1673">
+				<Coords points="1108,918 133,937 133,980 1108,961" />
+				<TextEquiv>
+					<Unicode>sind wohl hauptsächlich die allgemeine Anwendung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986745870_1674">
+				<Coords points="1125,971 116,981 116,1025 1125,1015" />
+				<TextEquiv>
+					<Unicode>dieses Prinzip's und dessen unläugbaren Erfolg zuzu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986771687_1675">
+				<Coords points="1122,1014 119,1026 119,1072 1122,1060" />
+				<TextEquiv>
+					<Unicode>schreiben; ohne daß ich deßhalb verkennen möchte, daß</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986777430_1676">
+				<Coords points="1126,1059 161,1073 161,1117 1126,1103" />
+				<TextEquiv>
+					<Unicode>auch die modernen Erfindungen (dh deren praktische</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986788668_1677">
+				<Coords points="1131,1108 124,1118 124,1162 1131,1152" />
+				<TextEquiv>
+					<Unicode>Einführung in die Industrie und die Agrikultur) durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986797631_1678">
+				<Coords points="1126,1150 132,1163 132,1207 1126,1194" />
+				<TextEquiv>
+					<Unicode>eine bedeutende Kostenvermehrung viel dazu beige-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986807166_1679">
+				<Coords points="1127,1200 147,1208 147,1251 1127,1243" />
+				<TextEquiv>
+					<Unicode>tragen haben. In der That, wenn es einzelnen, selbst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986814306_1680">
+				<Coords points="1133,1233 114,1252 114,1303 1133,1284" />
+				<TextEquiv>
+					<Unicode>bedeutenden Kräften der Ankauf wenigstens kostbarerer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986820949_1681">
+				<Coords points="1118,1283 108,1304 108,1349 1118,1328" />
+				<TextEquiv>
+					<Unicode>Maschinen oft unmöglich ist, so können sie vereint leicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486986827790_1682">
+				<Coords points="1122,1331 118,1350 118,1393 1122,1374" />
+				<TextEquiv>
+					<Unicode>dazu schreiten. – Auf die Einwendung, die man etwa </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

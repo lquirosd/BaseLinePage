@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:28:19</Created>
+        <LastChange>2017-03-27T18:23:18.348+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000024.jpg" imageWidth="1154" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631798430" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487329411772_288"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487329411771_287"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1487329409140_285"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487329411772_288" custom="readingOrder {index:0;}">
+            <Coords points="1124,646 88,646 88,366 1124,366"/>
+            <TextLine id="line_1486987999459_1748" custom="readingOrder {index:0;}">
+                <Coords points="1049,393 133,400 130,447 1046,440"/>
+                <Baseline points="130,436 1046,429"/>
+                <TextEquiv>
+                    <Unicode>dazu stehen und begnüge mich demnach mit der Andeutung;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988003952_1749" custom="readingOrder {index:1;}">
+                <Coords points="1071,438 168,448 168,483 1071,473"/>
+                <Baseline points="168,473 1071,463"/>
+                <TextEquiv>
+                    <Unicode>genehmigen Sie, Hochgeachteter Herr, die Versicherung meiner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988008885_1750" custom="readingOrder {index:2;}">
+                <Coords points="545,479 141,484 141,516 545,511"/>
+                <Baseline points="141,507 545,502"/>
+                <TextEquiv>
+                    <Unicode>ausgezeichneten Hochachtung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988013111_1751" custom="readingOrder {index:3;}">
+                <Coords points="979,514 560,517 560,556 979,553"/>
+                <Baseline points="560,539 979,536"/>
+                <TextEquiv>
+                    <Unicode>Ihr stets bereitwilligster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988016376_1752" custom="readingOrder {index:4;}">
+                <Coords points="885,554 716,557 716,609 885,606"/>
+                <Baseline points="716,597 885,594"/>
+                <TextEquiv>
+                    <Unicode>Ed: Ziegler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988019327_1753" custom="readingOrder {index:5;}">
+                <Coords points="846,606 754,609 754,640 846,637"/>
+                <Baseline points="754,637 846,634"/>
+                <TextEquiv>
+                    <Unicode>Oberst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dazu stehen und begnüge mich demnach mit der Andeutung;
+genehmigen Sie, Hochgeachteter Herr, die Versicherung meiner
+ausgezeichneten Hochachtung
+Ihr stets bereitwilligster
+Ed: Ziegler
+Oberst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487329411771_287" custom="readingOrder {index:1;}">
+            <Coords points="604,715 88,715 88,646 604,646"/>
+            <TextLine id="line_1487329411792_289" custom="readingOrder {index:0;}">
+                <Coords points="528,659 165,659 165,697 528,697"/>
+                <Baseline points="165,689 528,689"/>
+                <TextEquiv>
+                    <Unicode>Zürich den 23 Febr 1865</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487329409140_285" custom="readingOrder {index:2;}">
+            <Coords points="1147,1256 88,1256 88,715 1147,715"/>
+            <TextLine id="line_1486988048679_1755" custom="readingOrder {index:0;}">
+                <Coords points="1085,733 761,739 133,747 132,790 760,782 1085,770"/>
+                <Baseline points="132,780 760,772 1085,760"/>
+                <TextEquiv>
+                    <Unicode>Daß die fortwährende Reglementenfabrikation und die Maße von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988054734_1756" custom="readingOrder {index:1;}">
+                <Coords points="1048,772 555,788 128,791 128,823 555,820 1048,804"/>
+                <Baseline points="128,814 555,811 1048,795"/>
+                <TextEquiv>
+                    <Unicode>Formularen, theils dem Bund, theils aber auch den Kantonen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988063161_1757" custom="readingOrder {index:2;}">
+                <Coords points="1050,808 647,821 126,824 126,849 647,846 1050,833"/>
+                <Baseline points="126,846 647,843 1050,830"/>
+                <TextEquiv>
+                    <Unicode>nicht ganz unbedeutende Kosten verursacht, das ist nicht zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487329552027_299" custom="readingOrder {index:3;}">
+                <Coords points="874,845 814,844 814,858 874,859"/>
+                <Baseline points="814,855 874,856"/>
+                <TextEquiv>
+                    <Unicode>allen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988073728_1758" custom="readingOrder {index:4;}">
+                <Coords points="1090,849 394,859 139,863 139,888 394,889 1090,879"/>
+                <Baseline points="139,879 394,880 1090,870"/>
+                <TextEquiv>
+                    <Unicode>läugnen. Ich glaube, daß eine Uebersicht von zehn Jahren über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988093761_1759" custom="readingOrder {index:5;}">
+                <Coords points="1102,881 711,890 141,888 141,919 711,921 1102,912"/>
+                <Baseline points="141,909 711,911 1102,902"/>
+                <TextEquiv>
+                    <Unicode>solche Ausgaben ein bemerkenswerthes Resultat liefern würde. In-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988099801_1760" custom="readingOrder {index:6;}">
+                <Coords points="1070,916 695,922 144,917 144,951 695,956 1070,950"/>
+                <Baseline points="144,941 695,946 1070,940"/>
+                <TextEquiv>
+                    <Unicode>deßen gebe ich zu, daß manche neue Verordnung hat erlaßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988106720_1761" custom="readingOrder {index:7;}">
+                <Coords points="1088,954 818,957 152,949 152,983 818,991 1088,988"/>
+                <Baseline points="152,974 818,982 1088,979"/>
+                <TextEquiv>
+                    <Unicode>werden müßen. Schon die neue Bewaffnung, die Umänderung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988119217_1762" custom="readingOrder {index:8;}">
+                <Coords points="1067,984 642,991 153,991 153,1021 642,1021 1067,1014"/>
+                <Baseline points="153,1012 642,1012 1067,1005"/>
+                <TextEquiv>
+                    <Unicode>der Geschütze brachten es mit sich, für die Zukunft sollten aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988127543_1763" custom="readingOrder {index:9;}">
+                <Coords points="775,1013 390,1022 149,1020 149,1052 390,1054 775,1045"/>
+                <Baseline points="149,1042 390,1044 775,1035"/>
+                <TextEquiv>
+                    <Unicode>auch hierin Ersparniße zumachen sein. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988141704_1764" custom="readingOrder {index:10;}">
+                <Coords points="1080,1045 166,1055 166,1081 1080,1071"/>
+                <Baseline points="166,1079 1080,1069"/>
+                <TextEquiv>
+                    <Unicode>Die Pferde-Abschatzungskosten belaufen sich ins Große und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487329577069_300" custom="readingOrder {index:11;}">
+                <Coords points="645,1078 600,1076 599,1093 645,1092"/>
+                <Baseline points="599,1087 645,1086"/>
+                <TextEquiv>
+                    <Unicode>zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988146771_1765" custom="readingOrder {index:12;}">
+                <Coords points="1084,1082 159,1094 159,1117 1084,1105"/>
+                <Baseline points="159,1109 1084,1097"/>
+                <TextEquiv>
+                    <Unicode>stehen ganz außer Verhältniß den Leistungen. Nicht daß man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988151011_1766" custom="readingOrder {index:13;}">
+                <Coords points="1127,1114 167,1118 167,1144 1127,1140"/>
+                <Baseline points="167,1136 1127,1132"/>
+                <TextEquiv>
+                    <Unicode>den Pferde-Eigenthümern zuviel bezahle, aber die Pferde werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988156981_1767" custom="readingOrder {index:14;}">
+                <Coords points="1138,1141 171,1145 171,1174 1138,1170"/>
+                <Baseline points="171,1165 1138,1161"/>
+                <TextEquiv>
+                    <Unicode>theils nicht vorsichtig genug besorgt, namentlich bei der Kavallerie;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486988162815_1768" custom="readingOrder {index:15;}">
+                <Coords points="1110,1175 174,1171 174,1211 1110,1215"/>
+                <Baseline points="174,1194 1110,1198"/>
+                <TextEquiv>
+                    <Unicode>dann aber auch überangestrengt, wie solches in sehr auffallender</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:19</Created>
+        <LastChange>2017-03-27T18:11:13.340+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000007.jpg" imageWidth="902" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631073403" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487246857965_2943"/>
+                <RegionRefIndexed index="1" regionRef="region_1487246854685_2942"/>
+                <RegionRefIndexed index="2" regionRef="pg"/>
+                <RegionRefIndexed index="3" regionRef="region_1487246849625_2941"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487246857965_2943" custom="readingOrder {index:0;}">
+            <Coords points="672,118 871,118 871,171 672,171"/>
+            <TextLine id="line_1487246871503_2944" custom="readingOrder {index:0;}">
+                <Coords points="863,128 679,126 679,155 863,157"/>
+                <Baseline points="679,149 863,151"/>
+                <TextEquiv>
+                    <Unicode>Zurich, le 24 Nov. 1871 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487246854685_2942" custom="readingOrder {index:1;}">
+            <Coords points="456,292 721,292 721,333 456,333"/>
+            <TextLine id="line_1487246881578_2945" custom="readingOrder {index:0;}">
+                <Coords points="711,290 467,291 465,322 709,321"/>
+                <Baseline points="465,318 709,317"/>
+                <TextEquiv>
+                    <Unicode>Monsieur le Commandeur </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:2;}">
+            <Coords points="421,370 891,370 891,1370 421,1370"/>
+            <TextLine id="line_1487246929518_2950" custom="readingOrder {index:0;}">
+                <Coords points="889,380 577,380 577,415 889,415"/>
+                <Baseline points="577,402 889,402"/>
+                <TextEquiv>
+                    <Unicode>J'ai l'honneur de vous confirmer la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246941635_2951" custom="readingOrder {index:1;}">
+                <Coords points="881,415 641,416 447,414 447,456 641,458 881,457"/>
+                <Baseline points="447,444 641,446 881,445"/>
+                <TextEquiv>
+                    <Unicode>dépêche que je vous ai adressée hier soir, conçue en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246945813_2952" custom="readingOrder {index:2;}">
+                <Coords points="543,459 453,458 453,500 543,501"/>
+                <Baseline points="453,488 543,489"/>
+                <TextEquiv>
+                    <Unicode>ces termes:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246953486_2953" custom="readingOrder {index:3;}">
+                <Coords points="888,502 474,502 474,543 888,543"/>
+                <Baseline points="474,531 888,531"/>
+                <TextEquiv>
+                    <Unicode>«Vous prie hâter notification officielle, seule man-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246959374_2954" custom="readingOrder {index:4;}">
+                <Coords points="888,544 436,543 436,584 888,585"/>
+                <Baseline points="436,571 888,572"/>
+                <TextEquiv>
+                    <Unicode>quante pas encore, des 4 Membres Conseil administration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246965465_2955" custom="readingOrder {index:5;}">
+                <Coords points="888,585 448,586 448,628 888,627"/>
+                <Baseline points="448,616 888,615"/>
+                <TextEquiv>
+                    <Unicode>et des 2 Membres Comité Syndical désignés par groupe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246983021_2956" custom="readingOrder {index:6;}">
+                <Coords points="865,627 707,629 446,627 446,669 707,671 865,669"/>
+                <Baseline points="446,657 707,659 865,657"/>
+                <TextEquiv>
+                    <Unicode>italien. Groupe allemand a nommé Baron de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246989542_2957" custom="readingOrder {index:7;}">
+                <Coords points="862,672 448,669 448,711 862,714"/>
+                <Baseline points="448,699 862,702"/>
+                <TextEquiv>
+                    <Unicode>Rothschild et Parcus, Membres Comité Syndical.»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246995885_2958" custom="readingOrder {index:8;}">
+                <Coords points="885,714 481,712 481,752 885,754"/>
+                <Baseline points="481,740 885,742"/>
+                <TextEquiv>
+                    <Unicode>J'ai bien reçu votre estimée lettre du 19 Court</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247004155_2959" custom="readingOrder {index:9;}">
+                <Coords points="888,755 435,755 435,791 888,791"/>
+                <Baseline points="435,783 888,783"/>
+                <TextEquiv>
+                    <Unicode>par laquelle vous me demandez, au nom de Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247007971_2960" custom="readingOrder {index:10;}">
+                <Coords points="668,792 624,791 624,814 668,815"/>
+                <Baseline points="624,810 668,811"/>
+                <TextEquiv>
+                    <Unicode>divers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247014652_2961" custom="readingOrder {index:11;}">
+                <Coords points="874,815 445,816 445,838 874,837"/>
+                <Baseline points="445,826 874,825"/>
+                <TextEquiv>
+                    <Unicode>le Comte Menabrea, des renseignements sur que je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247020596_2962" custom="readingOrder {index:12;}">
+                <Coords points="695,839 447,839 447,881 695,881"/>
+                <Baseline points="447,869 695,869"/>
+                <TextEquiv>
+                    <Unicode>m'empresse de vous fournir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247042364_2963" custom="readingOrder {index:13;}">
+                <Coords points="869,882 494,882 494,924 869,924"/>
+                <Baseline points="494,911 869,911"/>
+                <TextEquiv>
+                    <Unicode>Comme c'est le groupe Italien du Consortium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247048812_2964" custom="readingOrder {index:14;}">
+                <Coords points="889,925 447,923 447,965 889,967"/>
+                <Baseline points="447,953 889,955"/>
+                <TextEquiv>
+                    <Unicode>international qui nomme Monsieur le Comte Menabrea,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247056111_2965" custom="readingOrder {index:15;}">
+                <Coords points="881,968 449,966 449,1008 881,1010"/>
+                <Baseline points="449,996 881,998"/>
+                <TextEquiv>
+                    <Unicode>c'est à ce groupe, ou à vous, Monsieur le Commandeur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247064860_2966" custom="readingOrder {index:16;}">
+                <Coords points="881,1011 448,1011 448,1054 881,1054"/>
+                <Baseline points="448,1041 881,1041"/>
+                <TextEquiv>
+                    <Unicode>au nom de ce groupe, que je pense qu'il appartient</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247069774_2967" custom="readingOrder {index:17;}">
+                <Coords points="810,1055 452,1053 452,1096 810,1098"/>
+                <Baseline points="452,1084 810,1086"/>
+                <TextEquiv>
+                    <Unicode>de lui adresser sa nomination officielle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247085871_2968" custom="readingOrder {index:18;}">
+                <Coords points="881,1099 475,1098 475,1133 881,1134"/>
+                <Baseline points="475,1127 881,1128"/>
+                <TextEquiv>
+                    <Unicode>Relativement au dépôt des 20 actions, ce dépôt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247091510_2969" custom="readingOrder {index:19;}">
+                <Coords points="639,1134 598,1135 598,1156 639,1155"/>
+                <Baseline points="598,1151 639,1150"/>
+                <TextEquiv>
+                    <Unicode>après</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247097936_2970" custom="readingOrder {index:20;}">
+                <Coords points="886,1150 446,1152 447,1180 884,1180"/>
+                <Baseline points="447,1168 884,1168"/>
+                <TextEquiv>
+                    <Unicode>sa fera seulement bon que le Conseil d'administration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247102766_2971" custom="readingOrder {index:21;}">
+                <Coords points="571,1181 421,1179 421,1216 571,1218"/>
+                <Baseline points="421,1208 571,1210"/>
+                <TextEquiv>
+                    <Unicode>se sera constitué</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247110886_2973" custom="readingOrder {index:22;}">
+                <Coords points="872,1219 851,1218 851,1239 872,1240"/>
+                <Baseline points="851,1236 872,1237"/>
+                <TextEquiv>
+                    <Unicode>on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247108138_2972" custom="readingOrder {index:23;}">
+                <Coords points="878,1237 482,1226 479,1257 879,1257"/>
+                <Baseline points="479,1250 879,1250"/>
+                <TextEquiv>
+                    <Unicode>Enfin, quant à la réunion du dit Conseil, nous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247116279_2974" custom="readingOrder {index:24;}">
+                <Coords points="511,1256 449,1258 449,1279 511,1277"/>
+                <Baseline points="449,1274 511,1272"/>
+                <TextEquiv>
+                    <Unicode>n'attend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247121365_2975" custom="readingOrder {index:25;}">
+                <Coords points="865,1271 451,1278 450,1307 866,1306"/>
+                <Baseline points="450,1293 866,1292"/>
+                <TextEquiv>
+                    <Unicode>n'attendons que la notification officielle que je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247123837_2976" custom="readingOrder {index:26;}">
+                <Coords points="864,1320 799,1317 799,1347 864,1350"/>
+                <Baseline points="814,1339 864,1341"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487246849625_2941" custom="readingOrder {index:3;}">
+            <Coords points="31,1175 419,1175 419,1373 31,1373"/>
+            <TextLine id="line_1487246893192_2946" custom="readingOrder {index:0;}">
+                <Coords points="380,1185 62,1186 62,1221 380,1220"/>
+                <Baseline points="62,1209 380,1208"/>
+                <TextEquiv>
+                    <Unicode>Monsieur le Commandeur Servadio,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246900344_2947" custom="readingOrder {index:1;}">
+                <Coords points="395,1222 40,1222 40,1262 395,1262"/>
+                <Baseline points="40,1250 395,1250"/>
+                <TextEquiv>
+                    <Unicode>Président de la Società Generale di Credito</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246904165_2948" custom="readingOrder {index:2;}">
+                <Coords points="293,1263 88,1263 88,1306 293,1306"/>
+                <Baseline points="88,1293 293,1293"/>
+                <TextEquiv>
+                    <Unicode>Provinciale e Comunale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487246908860_2949" custom="readingOrder {index:3;}">
+                <Coords points="394,1307 295,1307 295,1348 394,1348"/>
+                <Baseline points="295,1338 394,1338"/>
+                <TextEquiv>
+                    <Unicode>à Florence </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

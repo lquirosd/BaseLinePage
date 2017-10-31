@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:24:14</Created>
+        <LastChange>2017-03-27T18:08:12.608+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000002.jpg" imageWidth="1086" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630892691" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+                <RegionRefIndexed index="1" regionRef="region_1487321958836_139"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="177,299 235,299 246,262 207,114 1085,112 1083,1399 175,1399"/>
+            <TextLine id="line_1486642643721_672" custom="readingOrder {index:0;}">
+                <Coords points="1052,116 237,133 237,190 1052,173"/>
+                <Baseline points="237,181 1052,164"/>
+                <TextEquiv>
+                    <Unicode>sey. Es scheint nemlich der Wunsch obzuwalten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642650237_673" custom="readingOrder {index:1;}">
+                <Coords points="1044,178 232,191 232,219 1044,209"/>
+                <Baseline points="232,214 1044,201"/>
+                <TextEquiv>
+                    <Unicode>z. B. bey Herrn Gujer in Fehraltorf, der etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642675003_674" custom="readingOrder {index:2;}">
+                <Coords points="1067,213 238,223 238,245 1067,239"/>
+                <Baseline points="238,243 1067,233"/>
+                <TextEquiv>
+                    <Unicode>von einem Credit. vernommen haben muß ｆu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642696476_679" custom="readingOrder {index:3;}">
+                <Coords points="1049,247 248,250 248,277 1049,274"/>
+                <Baseline points="248,266 1049,263"/>
+                <TextEquiv>
+                    <Unicode>an Herrn Statth. Müller schrieb, etwas zu für die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642703041_680" custom="readingOrder {index:4;}">
+                <Coords points="1065,278 239,277 239,310 1065,314"/>
+                <Baseline points="239,300 1065,304"/>
+                <TextEquiv>
+                    <Unicode>Creditoren zu thun. Fatal ists übrigens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642712171_681" custom="readingOrder {index:5;}">
+                <Coords points="1073,315 784,302 242,303 242,329 784,328 1073,341"/>
+                <Baseline points="242,328 784,327 1073,340"/>
+                <TextEquiv>
+                    <Unicode>wenn die Gläubiger dergleichen vernehmen, denn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487322118553_144" custom="readingOrder {index:6;}">
+                <Coords points="472,333 430,332 432,353 472,355"/>
+                <Baseline points="432,344 472,346"/>
+                <TextEquiv>
+                    <Unicode>sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642728872_682" custom="readingOrder {index:7;}">
+                <Coords points="1080,355 241,340 241,369 1080,384"/>
+                <Baseline points="241,361 1080,376"/>
+                <TextEquiv>
+                    <Unicode>werden sie nicht herbeylaßen, brüstet sich Bühler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642734122_683" custom="readingOrder {index:8;}">
+                <Coords points="1058,385 642,374 222,381 222,409 642,402 1058,413"/>
+                <Baseline points="222,399 642,392 1058,403"/>
+                <TextEquiv>
+                    <Unicode>schon lange darmit: die Liberalen werden Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642738942_684" custom="readingOrder {index:9;}">
+                <Coords points="1067,414 647,398 231,407 231,440 647,431 1067,447"/>
+                <Baseline points="231,432 647,423 1067,439"/>
+                <TextEquiv>
+                    <Unicode>Oberst Weiß nicht fallen laßen! – Dann ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642763947_685" custom="readingOrder {index:10;}">
+                <Coords points="1052,448 676,437 232,442 232,469 676,464 1052,475"/>
+                <Baseline points="232,461 676,456 1052,467"/>
+                <TextEquiv>
+                    <Unicode>lieren wir auf diese Weise für unser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642770356_686" custom="readingOrder {index:11;}">
+                <Coords points="1073,475 713,463 225,476 225,505 713,492 1073,504"/>
+                <Baseline points="225,496 713,483 1073,495"/>
+                <TextEquiv>
+                    <Unicode>Unterstüzungsproject, denn niemand wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642780726_687" custom="readingOrder {index:12;}">
+                <Coords points="1074,505 779,492 219,501 219,532 779,523 1074,536"/>
+                <Baseline points="219,522 779,513 1074,526"/>
+                <TextEquiv>
+                    <Unicode>für die Schulden u. zugleich für die Hinter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642787826_688" custom="readingOrder {index:13;}">
+                <Coords points="1077,537 789,522 229,533 229,565 789,554 1077,569"/>
+                <Baseline points="229,556 789,545 1077,560"/>
+                <TextEquiv>
+                    <Unicode>laßnen Opfer bringen wollen! – Meine Ansicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642793569_689" custom="readingOrder {index:14;}">
+                <Coords points="1065,567 681,557 203,569 203,599 681,587 1065,597"/>
+                <Baseline points="203,590 681,578 1065,588"/>
+                <TextEquiv>
+                    <Unicode>steht fest: die Credit. müßen am End der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642814192_690" custom="readingOrder {index:15;}">
+                <Coords points="1064,599 708,590 237,599 237,631 708,622 1064,631"/>
+                <Baseline points="237,620 708,611 1064,620"/>
+                <TextEquiv>
+                    <Unicode>Proposit. beystimmen, sonst erhalten sie gar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642830775_691" custom="readingOrder {index:16;}">
+                <Coords points="1079,632 788,615 243,622 243,658 788,651 1079,668"/>
+                <Baseline points="243,649 788,642 1079,659"/>
+                <TextEquiv>
+                    <Unicode>nichts, also sollte man die Sache sich ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642842586_692" custom="readingOrder {index:17;}">
+                <Coords points="1067,669 723,650 246,660 246,691 723,681 1067,700"/>
+                <Baseline points="246,683 723,673 1067,692"/>
+                <TextEquiv>
+                    <Unicode>wikeln laßen u. nur im größten Noth-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642850877_693" custom="readingOrder {index:18;}">
+                <Coords points="1059,701 929,689 707,688 215,695 215,723 707,716 929,717 1059,729"/>
+                <Baseline points="215,715 707,708 929,709 1059,721"/>
+                <TextEquiv>
+                    <Unicode>falle vielleicht von Seite einiger Freunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642857323_694" custom="readingOrder {index:19;}">
+                <Coords points="1043,730 769,715 240,724 240,752 769,743 1043,758"/>
+                <Baseline points="240,743 769,734 1043,749"/>
+                <TextEquiv>
+                    <Unicode>etwas nachbeßern; denn wie bemerkt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642864732_695" custom="readingOrder {index:20;}">
+                <Coords points="1073,759 777,744 230,750 230,778 777,772 1073,787"/>
+                <Baseline points="230,772 777,766 1073,781"/>
+                <TextEquiv>
+                    <Unicode>Frau Weiß ist fest entschloßen nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642868252_696" custom="readingOrder {index:21;}">
+                <Coords points="600,776 233,784 233,814 600,806"/>
+                <Baseline points="233,803 600,795"/>
+                <TextEquiv>
+                    <Unicode>weiter zu gehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642880989_697" custom="readingOrder {index:22;}">
+                <Coords points="1074,814 663,804 272,815 272,851 663,840 1074,850"/>
+                <Baseline points="272,842 663,831 1074,841"/>
+                <TextEquiv>
+                    <Unicode>Wir werden allerdings diese Geschichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642890533_698" custom="readingOrder {index:23;}">
+                <Coords points="1073,852 674,844 238,847 238,876 674,873 1073,881"/>
+                <Baseline points="238,868 674,865 1073,873"/>
+                <TextEquiv>
+                    <Unicode>vorerst ins Reine bringen müßen, bevor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642896576_699" custom="readingOrder {index:24;}">
+                <Coords points="1058,882 242,881 242,908 1058,909"/>
+                <Baseline points="242,899 1058,900"/>
+                <TextEquiv>
+                    <Unicode>wir den andern Punkt an Hand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642902072_700" custom="readingOrder {index:25;}">
+                <Coords points="1027,910 232,906 232,936 1027,940"/>
+                <Baseline points="232,927 1027,931"/>
+                <TextEquiv>
+                    <Unicode>nehmen – u so behalte ich mir vor,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642906575_701" custom="readingOrder {index:26;}">
+                <Coords points="1052,941 189,934 189,968 1052,975"/>
+                <Baseline points="189,956 1052,963"/>
+                <TextEquiv>
+                    <Unicode>Ihnen weitere Mittheilung zu machen, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642914257_702" custom="readingOrder {index:27;}">
+                <Coords points="1076,975 762,960 245,957 245,992 762,995 1076,1010"/>
+                <Baseline points="245,985 762,988 1076,1003"/>
+                <TextEquiv>
+                    <Unicode>das weiter Nöthige in der Sache vorzunehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642920770_703" custom="readingOrder {index:28;}">
+                <Coords points="1040,1011 718,1003 177,999 177,1025 718,1029 1040,1037"/>
+                <Baseline points="177,1017 718,1021 1040,1029"/>
+                <TextEquiv>
+                    <Unicode>Jedenfalls ehe ich irgend jemand, mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642940021_704" custom="readingOrder {index:29;}">
+                <Coords points="1042,1038 236,1030 236,1057 1042,1065"/>
+                <Baseline points="236,1049 1042,1057"/>
+                <TextEquiv>
+                    <Unicode>Ausnahme etwa der Creditoren, was schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642947157_705" custom="readingOrder {index:30;}">
+                <Coords points="1036,1066 797,1061 216,1054 216,1084 797,1091 1036,1096"/>
+                <Baseline points="216,1073 797,1080 1036,1085"/>
+                <TextEquiv>
+                    <Unicode>gewünscht wurde, besammle, werde ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642953820_706" custom="readingOrder {index:31;}">
+                <Coords points="1067,1097 731,1078 200,1077 200,1110 731,1111 1067,1130"/>
+                <Baseline points="200,1103 731,1104 1067,1123"/>
+                <TextEquiv>
+                    <Unicode>Ihre Ansichten einholen, wie gesagt jezt schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642962614_707" custom="readingOrder {index:32;}">
+                <Coords points="1033,1131 617,1113 236,1113 236,1139 617,1139 1033,1157"/>
+                <Baseline points="236,1131 617,1131 1033,1149"/>
+                <TextEquiv>
+                    <Unicode>mit dem dringenden Wunsche, daß Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642973125_708" custom="readingOrder {index:33;}">
+                <Coords points="1076,1158 695,1143 238,1141 238,1165 695,1167 1076,1182"/>
+                <Baseline points="238,1159 695,1161 1076,1176"/>
+                <TextEquiv>
+                    <Unicode>an die Spize treten. – Wenn Sie vielleicht jezt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642985438_709" custom="readingOrder {index:34;}">
+                <Coords points="1046,1183 642,1180 217,1172 217,1197 642,1205 1046,1208"/>
+                <Baseline points="217,1188 642,1196 1046,1199"/>
+                <TextEquiv>
+                    <Unicode>schon Herrn Gujer schreiben würden, damit er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642990964_710" custom="readingOrder {index:35;}">
+                <Coords points="1073,1208 239,1200 239,1228 1073,1236"/>
+                <Baseline points="239,1221 1073,1229"/>
+                <TextEquiv>
+                    <Unicode>ernstlich auf Herrn Bader einwirke, so dürfte es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486642999971_711" custom="readingOrder {index:36;}">
+                <Coords points="1032,1237 684,1230 212,1230 212,1257 684,1257 1032,1264"/>
+                <Baseline points="212,1248 684,1248 1032,1255"/>
+                <TextEquiv>
+                    <Unicode>gut seyn. – Auch ich will gerne von Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486643008075_712" custom="readingOrder {index:37;}">
+                <Coords points="1058,1265 699,1255 236,1258 236,1286 699,1283 1058,1293"/>
+                <Baseline points="236,1279 699,1276 1058,1286"/>
+                <TextEquiv>
+                    <Unicode>vernehmen, wenn Sie mir über das Gesagte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486643015345_713" custom="readingOrder {index:38;}">
+                <Coords points="1065,1294 729,1286 246,1289 246,1312 729,1309 1065,1317"/>
+                <Baseline points="246,1305 729,1302 1065,1310"/>
+                <TextEquiv>
+                    <Unicode>Bemerkungen zu machen haben  oder andere Ansichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486643019256_714" custom="readingOrder {index:39;}">
+                <Coords points="1045,1318 237,1314 237,1338 1045,1342"/>
+                <Baseline points="237,1331 1045,1335"/>
+                <TextEquiv>
+                    <Unicode>mitzutheilen haben, nur müßte es mit möglichster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486643032207_715" custom="readingOrder {index:40;}">
+                <Coords points="577,1334 223,1343 223,1372 577,1363"/>
+                <Baseline points="223,1361 577,1352"/>
+                <TextEquiv>
+                    <Unicode>Beförderung geschehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487321958836_139" custom="readingOrder {index:1;}">
+            <Coords points="4,169 242,169 242,291 4,291"/>
+            <TextLine id="line_1487322005538_140" custom="readingOrder {index:0;}">
+                <Coords points="220,173 6,180 6,212 220,205"/>
+                <Baseline points="6,205 220,198"/>
+                <TextEquiv>
+                    <Unicode>ｆ (wahrscheinlich von </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487322030931_141" custom="readingOrder {index:1;}">
+                <Coords points="229,204 21,213 21,235 229,226"/>
+                <Baseline points="21,229 229,220"/>
+                <TextEquiv>
+                    <Unicode>Bühler der schon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487322060326_142" custom="readingOrder {index:2;}">
+                <Coords points="230,230 20,235 20,255 230,250"/>
+                <Baseline points="20,249 230,244"/>
+                <TextEquiv>
+                    <Unicode>in der Welt herum ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487322085654_143" custom="readingOrder {index:3;}">
+                <Coords points="241,256 24,254 24,274 241,276"/>
+                <Baseline points="24,268 241,270"/>
+                <TextEquiv>
+                    <Unicode>eist seyn soll,)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

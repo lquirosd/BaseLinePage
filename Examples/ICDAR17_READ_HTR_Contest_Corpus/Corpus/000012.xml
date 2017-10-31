@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:31:19</Created>
+        <LastChange>2017-03-27T18:12:44.288+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000012.jpg" imageWidth="1162" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631164378" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="212,119 1147,119 1147,1350 212,1350"/>
+            <TextLine id="line_1487071625529_1984" custom="readingOrder {index:0;}">
+                <Coords points="1137,119 311,139 311,194 1137,165"/>
+                <TextEquiv>
+                    <Unicode>und dß dieß noch vor der Uebersiedlung der Regierung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071631028_1985" custom="readingOrder {index:1;}">
+                <Coords points="803,175 316,195 316,227 803,207"/>
+                <TextEquiv>
+                    <Unicode>nach Rom zu geschehen habe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071642725_1986" custom="readingOrder {index:2;}">
+                <Coords points="1136,212 1078,207 321,228 321,260 1078,239 1136,244"/>
+                <TextEquiv>
+                    <Unicode>Die Wünsche der italienischen Regierung – hinsichtlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071666634_1987" custom="readingOrder {index:3;}">
+                <Coords points="1121,237 314,261 314,295 1121,271"/>
+                <TextEquiv>
+                    <Unicode>der Art der Zahlung – während der ersten Jahre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071679788_1988" custom="readingOrder {index:4;}">
+                <Coords points="1133,273 308,296 308,331 1133,308"/>
+                <TextEquiv>
+                    <Unicode>seien durch einen besondere Verständigung mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071694679_1989" custom="readingOrder {index:5;}">
+                <Coords points="1126,308 313,332 313,370 1126,346"/>
+                <TextEquiv>
+                    <Unicode>den competenten schweizerischen Behörden zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071699421_1990" custom="readingOrder {index:6;}">
+                <Coords points="559,366 309,371 309,408 559,403"/>
+                <TextEquiv>
+                    <Unicode>vereinbaren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071718444_1991" custom="readingOrder {index:7;}">
+                <Coords points="1145,392 1089,383 695,399 315,409 315,444 695,434 1089,418 1145,427"/>
+                <TextEquiv>
+                    <Unicode>Allfällige Erhöhung des Beitrags des norddeutschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071725095_1992" custom="readingOrder {index:8;}">
+                <Coords points="1123,421 315,445 315,481 1123,457"/>
+                <TextEquiv>
+                    <Unicode>Bundes – in Folge der Einverleibung des Ellsaß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071729937_1993" custom="readingOrder {index:9;}">
+                <Coords points="1137,460 311,482 311,510 1137,488"/>
+                <TextEquiv>
+                    <Unicode>sei zwischen Italien – und dem Norddeutschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071733918_1994" custom="readingOrder {index:10;}">
+                <Coords points="691,506 535,511 535,528 691,523"/>
+                <TextEquiv>
+                    <Unicode>festzustellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071739883_1995" custom="readingOrder {index:11;}">
+                <Coords points="1111,504 315,529 315,558 1111,533"/>
+                <TextEquiv>
+                    <Unicode>Bund ... – ohne daß dadurch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071748132_1996" custom="readingOrder {index:12;}">
+                <Coords points="1144,541 1091,534 309,559 309,598 1091,573 1144,580"/>
+                <TextEquiv>
+                    <Unicode>die materielle Grundlage des Vertrages v. 15tOct 1867</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071765954_1997" custom="readingOrder {index:13;}">
+                <Coords points="1114,578 307,599 307,631 1114,610"/>
+                <TextEquiv>
+                    <Unicode>hinsichtlich der Gesamtsubventionen – in dem Sinne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071770039_1998" custom="readingOrder {index:14;}">
+                <Coords points="1124,611 308,632 308,666 1124,645"/>
+                <TextEquiv>
+                    <Unicode>verändert werden könnte – daß die Gesamtsumme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071774210_1999" custom="readingOrder {index:15;}">
+                <Coords points="704,654 309,667 309,704 704,691"/>
+                <TextEquiv>
+                    <Unicode>ermäßiget würde. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071779367_2000" custom="readingOrder {index:16;}">
+                <Coords points="614,703 313,705 313,745 614,743"/>
+                <TextEquiv>
+                    <Unicode>2 Uhr Nachmittags</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071794638_2001" custom="readingOrder {index:17;}">
+                <Coords points="1094,729 747,742 313,746 313,785 747,781 1094,768"/>
+                <TextEquiv>
+                    <Unicode>Soeben komme ich aus einer mehrstündigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071806232_2002" custom="readingOrder {index:18;}">
+                <Coords points="1026,774 552,786 316,780 316,814 552,820 1026,808"/>
+                <TextEquiv>
+                    <Unicode>Conferenz mit Sella, Grattoni & Jaccomelli,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071828670_2003" custom="readingOrder {index:19;}">
+                <Coords points="1102,811 844,821 313,818 313,850 844,853 1102,843"/>
+                <TextEquiv>
+                    <Unicode>in Folge welcher ich mich entschloßen habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071835301_2004" custom="readingOrder {index:20;}">
+                <Coords points="1097,848 311,854 311,897 1097,891"/>
+                <TextEquiv>
+                    <Unicode>sofort – nachdem ich die note verbale in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071844231_2005" custom="readingOrder {index:21;}">
+                <Coords points="1146,898 1088,882 313,884 306,931 1083,921 1146,946"/>
+                <TextEquiv>
+                    <Unicode>welche die italienischen Desiderien zusammengefasst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071945804_2006" custom="readingOrder {index:22;}">
+                <Coords points="1135,947 1041,924 312,922 313,959 1040,954 1130,971"/>
+                <TextEquiv>
+                    <Unicode>werden sollen – erhalten haben werde, nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071958373_2007" custom="readingOrder {index:23;}">
+                <Coords points="1136,973 1027,947 852,953 305,953 305,991 852,991 1027,985 1136,1011"/>
+                <TextEquiv>
+                    <Unicode>Zurich zu reisen – um Ihnen die Sache mündlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071962142_2008" custom="readingOrder {index:24;}">
+                <Coords points="587,997 314,997 314,1039 587,1039"/>
+                <TextEquiv>
+                    <Unicode>vorzutragen. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071970886_2009" custom="readingOrder {index:25;}">
+                <Coords points="1118,1040 462,1040 312,1029 312,1073 462,1084 1118,1084"/>
+                <TextEquiv>
+                    <Unicode>Die zwei Punkte über die man sich verständigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071975219_2010" custom="readingOrder {index:26;}">
+                <Coords points="487,1085 314,1084 314,1122 487,1123"/>
+                <TextEquiv>
+                    <Unicode>muß sind:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071979618_2011" custom="readingOrder {index:27;}">
+                <Coords points="1137,1124 305,1119 305,1162 1137,1167"/>
+                <TextEquiv>
+                    <Unicode>1.) Italien giebt das Mont Cenis Material so weit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071987417_2012" custom="readingOrder {index:28;}">
+                <Coords points="1137,1168 851,1162 319,1164 319,1203 851,1201 1137,1207"/>
+                <TextEquiv>
+                    <Unicode>es durch beidseitige Ingenieuren als tauglich erfunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487071994816_2013" custom="readingOrder {index:29;}">
+                <Coords points="1134,1208 764,1201 317,1200 317,1239 764,1240 1134,1247"/>
+                <TextEquiv>
+                    <Unicode>werden wird: uns zu einem billigen Preis über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487072003863_2014" custom="readingOrder {index:30;}">
+                <Coords points="1137,1248 655,1244 310,1239 310,1280 655,1285 1137,1289"/>
+                <TextEquiv>
+                    <Unicode>den sich auch beidseitige SachVerständige vereinigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487072015632_2015" custom="readingOrder {index:31;}">
+                <Coords points="1144,1290 1081,1283 644,1282 228,1276 224,1305 640,1312 1067,1316 1144,1334"/>
+                <TextEquiv>
+                    <Unicode>werden, als a comsto-Zahlung – seines vertragsmäßigen Beitrages</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

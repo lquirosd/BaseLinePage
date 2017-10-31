@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:35:13</Created>
+        <LastChange>2017-03-28T12:51:01.241+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000048.jpg" imageWidth="917" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490698261385" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487238057583_2676"/>
+                <RegionRefIndexed index="1" regionRef="pg"/>
+                <RegionRefIndexed index="2" regionRef="region_1487237901730_2671"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487238057583_2676" custom="readingOrder {index:0;}">
+            <Coords points="618,100 890,100 890,168 618,168"/>
+            <TextLine id="line_1487238068827_2677" custom="readingOrder {index:0;}">
+                <Coords points="885,112 626,113 626,150 885,149"/>
+                <Baseline points="626,142 885,141"/>
+                <TextEquiv>
+                    <Unicode>Zurich, le 2 Novembre 1877 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:1;}">
+            <Coords points="424,267 900,269 890,1339 424,1339"/>
+            <TextLine id="line_1487238127594_2678" custom="readingOrder {index:0;}">
+                <Coords points="634,279 498,279 498,317 634,317"/>
+                <Baseline points="498,305 634,305"/>
+                <TextEquiv>
+                    <Unicode>Cher Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238131173_2679" custom="readingOrder {index:1;}">
+                <Coords points="874,318 547,316 547,357 874,359"/>
+                <Baseline points="547,346 874,348"/>
+                <TextEquiv>
+                    <Unicode>Je vous confirme ma lettre du 14 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238134317_2680" custom="readingOrder {index:2;}">
+                <Coords points="600,360 460,357 460,396 600,399"/>
+                <Baseline points="460,384 600,387"/>
+                <TextEquiv>
+                    <Unicode>Octobre dernier.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238137755_2681" custom="readingOrder {index:3;}">
+                <Coords points="865,400 500,399 500,439 865,440"/>
+                <Baseline points="500,427 865,428"/>
+                <TextEquiv>
+                    <Unicode>À la fin de la dite lettre, j'ai relevé que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238147751_2682" custom="readingOrder {index:4;}">
+                <Coords points="893,440 586,441 453,437 453,478 586,482 893,481"/>
+                <Baseline points="453,466 586,470 893,469"/>
+                <TextEquiv>
+                    <Unicode>les Délégués de l'Italie et de l'Allemagne ont pris,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238152124_2683" custom="readingOrder {index:5;}">
+                <Coords points="881,483 455,480 455,520 881,523"/>
+                <Baseline points="455,508 881,511"/>
+                <TextEquiv>
+                    <Unicode>lors de la clôture de la Conférence internationale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238157967_2684" custom="readingOrder {index:6;}">
+                <Coords points="888,524 456,520 456,566 888,570"/>
+                <Baseline points="456,550 888,554"/>
+                <TextEquiv>
+                    <Unicode>de Lucerne, l'engagement de faire connaître au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238164446_2685" custom="readingOrder {index:7;}">
+                <Coords points="864,575 458,569 457,603 863,609"/>
+                <Baseline points="457,591 863,597"/>
+                <TextEquiv>
+                    <Unicode>Conseil fédéral Suisse, jusqu'au 31 Juillet, les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238171094_2686" custom="readingOrder {index:8;}">
+                <Coords points="892,609 456,607 456,647 892,649"/>
+                <Baseline points="456,635 892,637"/>
+                <TextEquiv>
+                    <Unicode>décisions de leurs Gouvernements respectifs concer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238178101_2687" custom="readingOrder {index:9;}">
+                <Coords points="886,656 456,645 456,686 886,691"/>
+                <Baseline points="456,674 886,679"/>
+                <TextEquiv>
+                    <Unicode>nant le Protocole final de la dite Conférence, et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238183143_2688" custom="readingOrder {index:10;}">
+                <Coords points="858,692 453,688 458,732 858,732"/>
+                <Baseline points="453,716 858,720"/>
+                <TextEquiv>
+                    <Unicode>que jusqu'à la date de ma lettre  aucune</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238191802_2689" custom="readingOrder {index:11;}">
+                <Coords points="876,733 456,728 456,769 876,774"/>
+                <Baseline points="456,757 876,762"/>
+                <TextEquiv>
+                    <Unicode>ouverture de la part de l'Italie relativement à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238197578_2690" custom="readingOrder {index:12;}">
+                <Coords points="891,775 452,772 452,812 891,815"/>
+                <Baseline points="452,800 891,803"/>
+                <TextEquiv>
+                    <Unicode>cet objet n'était parvenue au Conseil fédéral. Depuis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238202300_2691" custom="readingOrder {index:13;}">
+                <Coords points="869,816 458,810 458,851 869,857"/>
+                <Baseline points="458,839 869,845"/>
+                <TextEquiv>
+                    <Unicode>lors, il en est demeuré de même. Il paraît,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238206972_2692" custom="readingOrder {index:14;}">
+                <Coords points="888,858 441,854 441,894 886,902"/>
+                <Baseline points="441,883 888,887"/>
+                <TextEquiv>
+                    <Unicode>qu'aussi vis-à-vis de l'Allemagne, l'Italie a gardé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238211415_2693" custom="readingOrder {index:15;}">
+                <Coords points="767,899 452,897 452,936 767,938"/>
+                <Baseline points="452,924 767,926"/>
+                <TextEquiv>
+                    <Unicode>à ce sujet le plus complet silence.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238218765_2694" custom="readingOrder {index:16;}">
+                <Coords points="880,939 487,934 487,976 880,981"/>
+                <Baseline points="487,964 880,969"/>
+                <TextEquiv>
+                    <Unicode>Je n'ai pas besoin de faire ressortir que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238223134_2695" custom="readingOrder {index:17;}">
+                <Coords points="872,981 456,978 456,1018 872,1021"/>
+                <Baseline points="456,1006 872,1009"/>
+                <TextEquiv>
+                    <Unicode>cette attitude de l'Italie exerce une influence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238228777_2696" custom="readingOrder {index:18;}">
+                <Coords points="884,1021 453,1017 453,1057 884,1061"/>
+                <Baseline points="453,1045 884,1049"/>
+                <TextEquiv>
+                    <Unicode>des plus fâcheuses sur la marche de la question</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238235229_2697" custom="readingOrder {index:19;}">
+                <Coords points="875,1061 450,1059 450,1100 875,1102"/>
+                <Baseline points="450,1087 875,1089"/>
+                <TextEquiv>
+                    <Unicode>du Gothard. Le silence de l'Italie est d'autant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238241470_2698" custom="readingOrder {index:20;}">
+                <Coords points="884,1103 430,1098 430,1140 884,1145"/>
+                <Baseline points="430,1128 884,1133"/>
+                <TextEquiv>
+                    <Unicode>plus étrange qu'il doit prêter, comme le Minis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238246680_2699" custom="readingOrder {index:21;}">
+                <Coords points="876,1150 452,1145 451,1182 875,1187"/>
+                <Baseline points="451,1170 875,1175"/>
+                <TextEquiv>
+                    <Unicode>tère lui-même ne saurait se le cacher, à croire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238252044_2700" custom="readingOrder {index:22;}">
+                <Coords points="833,1187 441,1183 441,1223 833,1227"/>
+                <Baseline points="441,1211 833,1215"/>
+                <TextEquiv>
+                    <Unicode>que l'Italie est opposée à l'acceptation du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238258406_2701" custom="readingOrder {index:23;}">
+                <Coords points="887,1228 449,1224 449,1265 887,1269"/>
+                <Baseline points="449,1253 887,1257"/>
+                <TextEquiv>
+                    <Unicode>Protocole final de la Conférence de Lucerne, tandis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487238265562_2702" custom="readingOrder {index:24;}">
+                <Coords points="855,1270 441,1267 441,1308 855,1311"/>
+                <Baseline points="441,1296 855,1299"/>
+                <TextEquiv>
+                    <Unicode>que – comme vous me l'avez maintes fois</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487237901730_2671" custom="readingOrder {index:2;}">
+            <Coords points="50,1086 414,1086 414,1245 50,1245"/>
+            <TextLine id="line_1487237953073_2672" custom="readingOrder {index:0;}">
+                <Coords points="394,1099 69,1097 69,1137 394,1139"/>
+                <Baseline points="69,1125 394,1127"/>
+                <TextEquiv>
+                    <Unicode>Monsieur C. Maraini, Ingénieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487237957015_2673" custom="readingOrder {index:1;}">
+                <Coords points="329,1140 262,1138 260,1178 327,1180"/>
+                <Baseline points="262,1167 329,1169"/>
+                <TextEquiv>
+                    <Unicode>Rome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487237962956_2674" custom="readingOrder {index:2;}">
+                <Coords points="395,1194 214,1193 211,1231 392,1232"/>
+                <Baseline points="211,1226 392,1227"/>
+                <TextEquiv>
+                    <Unicode>102 Via Tre Cannelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

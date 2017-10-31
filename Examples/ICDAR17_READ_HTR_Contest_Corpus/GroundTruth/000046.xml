@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:50</Created>
+        <LastChange>2017-03-28T12:47:29.221+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000046.jpg" imageWidth="911" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490698049312" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487324357078_205"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487324357078_204"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487324357078_205" custom="readingOrder {index:0;}">
+            <Coords points="910,1439 0,1439 0,369 198,367 219,296 217,98 216,95 910,95"/>
+            <TextLine id="line_1486655146657_1154" custom="readingOrder {index:0;}">
+                <Coords points="899,111 224,109 224,154 899,156"/>
+                <Baseline points="224,144 899,146"/>
+                <TextEquiv>
+                    <Unicode>der Fahrten auch in diejenigen Conzessionen, welche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655150120_1155" custom="readingOrder {index:1;}">
+                <Coords points="889,157 225,152 225,186 889,191"/>
+                <Baseline points="225,177 889,182"/>
+                <TextEquiv>
+                    <Unicode>allfällig der Centralbahngesellschft erthlt werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655154945_1156" custom="readingOrder {index:2;}">
+                <Coords points="898,187 227,188 228,222 899,221"/>
+                <Baseline points="228,213 899,212"/>
+                <TextEquiv>
+                    <Unicode>möchten, aufzunehmen», gestrichen. Es scheintł</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655203319_1162" custom="readingOrder {index:3;}">
+                <Coords points="895,223 234,223 234,255 895,255"/>
+                <Baseline points="234,245 895,245"/>
+                <TextEquiv>
+                    <Unicode>... die ...... unwichtige Ansicht ob-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655206883_1163" custom="readingOrder {index:4;}">
+                <Coords points="887,251 230,256 230,288 887,283"/>
+                <Baseline points="230,279 887,274"/>
+                <TextEquiv>
+                    <Unicode>gewaltet zu haben  es passe e. solche Vor-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655211539_1164" custom="readingOrder {index:5;}">
+                <Coords points="885,289 222,284 222,328 885,328"/>
+                <Baseline points="222,311 885,311"/>
+                <TextEquiv>
+                    <Unicode>schrift n. in den Conzessionsvertrag zwischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655216100_1165" custom="readingOrder {index:6;}">
+                <Coords points="903,329 862,316 219,323 219,357 857,348 903,373"/>
+                <Baseline points="219,353 857,344 903,369"/>
+                <TextEquiv>
+                    <Unicode>Aargau & d. Nordostbahngesellschft. Materiell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655220514_1166" custom="readingOrder {index:7;}">
+                <Coords points="872,348 226,363 225,396 885,393"/>
+                <Baseline points="225,385 885,382"/>
+                <TextEquiv>
+                    <Unicode>ist aber diese Veränderg. darum ganz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655232791_1167" custom="readingOrder {index:8;}">
+                <Coords points="899,387 220,393 216,433 899,429"/>
+                <Baseline points="216,422 899,418"/>
+                <TextEquiv>
+                    <Unicode>unerheblich, weil derselbe Grund, welcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655242075_1168" custom="readingOrder {index:9;}">
+                <Coords points="874,420 580,423 215,428 213,471 580,460 876,466"/>
+                <Baseline points="213,461 580,450 876,456"/>
+                <TextEquiv>
+                    <Unicode>Aargau veranlaßte, d. Bestimmg. bezüglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655247229_1169" custom="readingOrder {index:10;}">
+                <Coords points="885,458 210,465 209,510 892,504"/>
+                <Baseline points="209,496 892,490"/>
+                <TextEquiv>
+                    <Unicode>d. Coinzidenz d. Fahrten d. Nordostbahn-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655253787_1170" custom="readingOrder {index:11;}">
+                <Coords points="904,511 826,494 204,502 202,536 831,533 904,551"/>
+                <Baseline points="202,529 831,526 904,544"/>
+                <TextEquiv>
+                    <Unicode>& d. Centralbahngesellschft in d. Conzession</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655259131_1171" custom="readingOrder {index:12;}">
+                <Coords points="896,538 204,536 204,569 896,571"/>
+                <Baseline points="204,567 896,569"/>
+                <TextEquiv>
+                    <Unicode>für d. Nordostbahngesellschft aufzunehmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487324399406_206" custom="readingOrder {index:13;}">
+                <Coords points="518,563 323,565 323,578 518,576"/>
+                <Baseline points="323,577 518,575"/>
+                <TextEquiv>
+                    <Unicode>dazu bewegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655264147_1172" custom="readingOrder {index:14;}">
+                <Coords points="894,591 807,574 218,574 217,610 769,605 894,630"/>
+                <Baseline points="217,602 769,597 894,622"/>
+                <TextEquiv>
+                    <Unicode>ihn auch bestimmen muß, dieseß Bestimmg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655270868_1173" custom="readingOrder {index:15;}">
+                <Coords points="892,631 786,607 219,614 218,643 792,643 892,656"/>
+                <Baseline points="219,633 793,633 892,650"/>
+                <TextEquiv>
+                    <Unicode>in d. Conzession für d. Centralbahngesell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655274013_1174" custom="readingOrder {index:16;}">
+                <Coords points="463,643 204,649 201,683 460,677"/>
+                <Baseline points="201,673 460,667"/>
+                <TextEquiv>
+                    <Unicode>schft aufzunehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655293669_1175" custom="readingOrder {index:17;}">
+                <Coords points="875,678 242,677 244,719 877,720"/>
+                <Baseline points="244,708 877,709"/>
+                <TextEquiv>
+                    <Unicode>Den Zusatz zu § 26, der vom Gr. Rathe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655297361_1176" custom="readingOrder {index:18;}">
+                <Coords points="871,713 213,714 207,759 871,751"/>
+                <Baseline points="207,748 871,740"/>
+                <TextEquiv>
+                    <Unicode>von Aargau beschlossen worden ist, hätte ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655300152_1177" custom="readingOrder {index:19;}">
+                <Coords points="889,749 218,751 215,796 889,785"/>
+                <Baseline points="215,786 889,775"/>
+                <TextEquiv>
+                    <Unicode>gerne weggelassen gesehen, weniger weil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655303121_1178" custom="readingOrder {index:20;}">
+                <Coords points="894,791 195,797 195,832 894,826"/>
+                <Baseline points="195,820 894,814"/>
+                <TextEquiv>
+                    <Unicode>ich glaube, daß die in den Zusatz...durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655311410_1179" custom="readingOrder {index:21;}">
+                <Coords points="887,833 464,819 200,829 200,866 464,856 887,870"/>
+                <Baseline points="200,857 464,847 887,861"/>
+                <TextEquiv>
+                    <Unicode>den Zusatz gebotenen Einrichtungen n. auch ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655315996_1180" custom="readingOrder {index:22;}">
+                <Coords points="890,865 198,871 198,897 889,896"/>
+                <Baseline points="198,893 890,887"/>
+                <TextEquiv>
+                    <Unicode>diesen Zusatz & freiwillig getroffen worden wären, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487324802145_207" custom="readingOrder {index:23;}">
+                <Coords points="334,894 223,898 97,898 97,914 223,914 334,910"/>
+                <Baseline points="97,909 223,909 334,905"/>
+                <TextEquiv>
+                    <Unicode>vielmehr darum </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655778632_1181" custom="readingOrder {index:24;}">
+                <Coords points="896,899 219,908 219,932 895,925"/>
+                <Baseline points="219,928 895,921"/>
+                <TextEquiv>
+                    <Unicode>als weil es etwas Stoßendes für mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487324867927_208" custom="readingOrder {index:25;}">
+                <Coords points="887,926 279,933 279,949 887,942"/>
+                <Baseline points="279,942 887,935"/>
+                <TextEquiv>
+                    <Unicode>der s. v. Staats- & Gemeindewegen bey d. Nordostbahn n. betheiligt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655783488_1182" custom="readingOrder {index:26;}">
+                <Coords points="898,939 209,942 204,978 896,973"/>
+                <Baseline points="204,966 898,961"/>
+                <TextEquiv>
+                    <Unicode>hat, daß d. Ctn. Aargau, zu in sr Conzession </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655826132_1183" custom="readingOrder {index:27;}">
+                <Coords points="889,964 62,979 62,1017 890,1008"/>
+                <Baseline points="62,1007 890,998"/>
+                <TextEquiv>
+                    <Unicode>auch nur Eine günstigere Bestimmungen haben soll als die Can-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655831379_1184" custom="readingOrder {index:28;}">
+                <Coords points="897,1014 870,1004 208,1018 208,1053 870,1039 897,1049"/>
+                <Baseline points="208,1043 870,1029 897,1039"/>
+                <TextEquiv>
+                    <Unicode>tone Zürich & Thurgau, welche v. ... Staats- & Gemeinde-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655835973_1185" custom="readingOrder {index:29;}">
+                <Coords points="897,1052 872,1040 205,1054 205,1091 872,1077 897,1089"/>
+                <Baseline points="205,1079 872,1065 897,1077"/>
+                <TextEquiv>
+                    <Unicode>wegen e. so bedeutende Betheiligg. bey d. Nordost-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655839929_1186" custom="readingOrder {index:30;}">
+                <Coords points="858,1075 196,1086 199,1130 863,1114"/>
+                <Baseline points="199,1120 858,1103"/>
+                <TextEquiv>
+                    <Unicode>bahnunternehmug. haben eintreten lassen. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655843485_1187" custom="readingOrder {index:31;}">
+                <Coords points="876,1119 200,1131 200,1166 876,1154"/>
+                <Baseline points="200,1156 876,1144"/>
+                <TextEquiv>
+                    <Unicode>scheint mir aber doch diese Veränderg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655847617_1188" custom="readingOrder {index:32;}">
+                <Coords points="862,1155 214,1161 215,1203 862,1191"/>
+                <Baseline points="215,1191 862,1179"/>
+                <TextEquiv>
+                    <Unicode>n. erheblich genug zu sein, um einzig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655853320_1189" custom="readingOrder {index:33;}">
+                <Coords points="887,1190 204,1193 204,1233 886,1229"/>
+                <Baseline points="204,1231 887,1218"/>
+                <TextEquiv>
+                    <Unicode>um ihretwillen d. Conzess. n. anzunehmen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487325120555_209" custom="readingOrder {index:34;}">
+                <Coords points="872,1225 777,1224 777,1245 872,1246"/>
+                <Baseline points="776,1239 871,1240"/>
+                <TextEquiv>
+                    <Unicode>sowie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655863971_1190" custom="readingOrder {index:35;}">
+                <Coords points="892,1252 785,1233 43,1234 43,1269 795,1271 892,1287"/>
+                <Baseline points="43,1262 797,1259 892,1280"/>
+                <TextEquiv>
+                    <Unicode>in Folge dessen neue Unterhandlungen mit Aargau& neue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655869598_1191" custom="readingOrder {index:36;}">
+                <Coords points="851,1270 196,1277 196,1313 890,1311"/>
+                <Baseline points="196,1304 890,1302"/>
+                <TextEquiv>
+                    <Unicode>Beschlüsse ds dortigen Großen Rathes zu ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655873869_1192" custom="readingOrder {index:37;}">
+                <Coords points="863,1306 213,1314 213,1349 871,1346"/>
+                <Baseline points="213,1337 871,1334"/>
+                <TextEquiv>
+                    <Unicode>anlassen & s. allen daherigen Wechselfällen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655880669_1193" custom="readingOrder {index:38;}">
+                <Coords points="884,1340 627,1349 208,1345 208,1383 627,1387 884,1378"/>
+                <Baseline points="208,1373 627,1377 884,1368"/>
+                <TextEquiv>
+                    <Unicode>auszusetzen. Ich bekenne mich um so mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655885422_1194" custom="readingOrder {index:39;}">
+                <Coords points="884,1381 209,1385 207,1419 879,1421"/>
+                <Baseline points="207,1411 884,1404"/>
+                <TextEquiv>
+                    <Unicode>zu dsr Ansicht, weil der Gr. Rath ds Cts. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487324357078_204" custom="readingOrder {index:1;}">
+            <Coords points="0,369 0,195 216,195 217,198 219,296 198,367"/>
+            <TextLine id="line_1486655186176_1157" custom="readingOrder {index:0;}">
+                <Coords points="217,210 9,208 9,248 217,250"/>
+                <Baseline points="9,241 217,243"/>
+                <TextEquiv>
+                    <Unicode>łhiezu der zwar </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655190254_1158" custom="readingOrder {index:1;}">
+                <Coords points="214,250 11,251 11,275 214,274"/>
+                <Baseline points="11,268 214,267"/>
+                <TextEquiv>
+                    <Unicode>n. stichhaltige for-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655194009_1159" custom="readingOrder {index:2;}">
+                <Coords points="215,276 9,274 9,298 215,300"/>
+                <Baseline points="9,290 215,292"/>
+                <TextEquiv>
+                    <Unicode>melle Grund Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655197098_1160" custom="readingOrder {index:3;}">
+                <Coords points="204,298 6,296 6,324 204,326"/>
+                <Baseline points="6,317 204,319"/>
+                <TextEquiv>
+                    <Unicode>anlassg. gegeben zu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655200186_1161" custom="readingOrder {index:4;}">
+                <Coords points="85,323 5,323 5,359 85,359"/>
+                <Baseline points="0,345 85,345"/>
+                <TextEquiv>
+                    <Unicode>habenen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

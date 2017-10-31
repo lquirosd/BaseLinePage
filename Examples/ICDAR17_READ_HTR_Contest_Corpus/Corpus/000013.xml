@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:28:03</Created>
+		<LastChange>2017-02-17T11:58:42.221+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000013.jpg" imageWidth="1125" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487329122499" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="179,135 1113,135 1113,1298 179,1298" />
+			<TextLine id="line_1486987013828_1683">
+				<Coords points="1044,155 236,161 236,237 1044,231" />
+				<TextEquiv>
+					<Unicode>in den zufällig noch nicht abgegangenen Ein-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987018202_1684">
+				<Coords points="1078,228 230,238 230,296 1078,286" />
+				<TextEquiv>
+					<Unicode>ladungen statt des Samstag den Freitag (7. Aug. )</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987072214_1685">
+				<Coords points="1067,297 722,288 242,296 242,347 722,339 1067,348" />
+				<TextEquiv>
+					<Unicode>für den Zusammentritt der Conferenz zu bestimmen,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987078248_1686">
+				<Coords points="1048,340 262,349 262,402 1048,393" />
+				<TextEquiv>
+					<Unicode>da meine Herrn Collegen damit gerne einver-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987083261_1687">
+				<Coords points="1029,390 240,403 240,456 1029,443" />
+				<TextEquiv>
+					<Unicode>standen waren. Wir haben in Folge deßen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987091376_1688">
+				<Coords points="1043,447 246,456 246,507 1043,498" />
+				<TextEquiv>
+					<Unicode>noch freie Wahl, die Frage schließlich so oder</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987099375_1689">
+				<Coords points="1092,508 993,496 250,505 250,558 993,549 1092,561" />
+				<TextEquiv>
+					<Unicode>anders zu lösen & wird nun auch die Conferenz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987104989_1690">
+				<Coords points="1045,556 248,562 248,616 1045,610" />
+				<TextEquiv>
+					<Unicode>in ihren Verhandlungen weniger beengt sein.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987117613_1691">
+				<Coords points="1104,617 1003,604 248,610 248,666 1003,660 1104,673" />
+				<TextEquiv>
+					<Unicode>Ursprünglich waltete hier allerdings der Gedanke,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987126527_1692">
+				<Coords points="1093,674 917,663 266,669 266,719 917,713 1093,724" />
+				<TextEquiv>
+					<Unicode>daß die bevorstehende Conferenz wie die frühern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987131823_1693">
+				<Coords points="1056,725 261,723 261,772 1056,774" />
+				<TextEquiv>
+					<Unicode>ihre Geschäfte in einem Tage erledigen werde.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987143657_1694">
+				<Coords points="1039,771 258,775 258,831 1039,827" />
+				<TextEquiv>
+					<Unicode>Ich sehe aber ein, daß es unter Umständen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987151332_1695">
+				<Coords points="1014,824 251,832 251,884 1014,876" />
+				<TextEquiv>
+					<Unicode>doch sehr wünschenswerth sein könnte, zwei</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987155960_1696">
+				<Coords points="1033,876 255,885 255,937 1033,928" />
+				<TextEquiv>
+					<Unicode>Sitzungen zu halten & daß diese an demselben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987162169_1697">
+				<Coords points="880,932 262,938 262,993 880,987" />
+				<TextEquiv>
+					<Unicode>Tage nicht wohl möglich wären. –</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987168546_1698">
+				<Coords points="1054,994 303,993 303,1054 1054,1055" />
+				<TextEquiv>
+					<Unicode>Die Kantone der Centralschweiz werden, wie</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987173131_1699">
+				<Coords points="1072,1052 266,1056 266,1106 1072,1102" />
+				<TextEquiv>
+					<Unicode>ich glaube, ohne Anstand sich bei der Conferenz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987179094_1700">
+				<Coords points="1046,1105 267,1106 267,1157 1046,1156" />
+				<TextEquiv>
+					<Unicode>betheiligen. Ich habe übrigens kürzlich Hrn.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987195093_1701">
+				<Coords points="1058,1158 273,1157 273,1211 1058,1212" />
+				<TextEquiv>
+					<Unicode>Bundesrath Knüsel geschrieben, daß, wenn etwa</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486987203916_1702">
+				<Coords points="1049,1213 845,1202 266,1209 266,1262 845,1255 1049,1266" />
+				<TextEquiv>
+					<Unicode>bei einten oder andern Stand in dieser Beziehung</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

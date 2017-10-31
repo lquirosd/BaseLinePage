@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:34:03</Created>
+		<LastChange>2017-02-14T17:09:27.234+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000045.jpg" imageWidth="1169" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487088567359" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="165,144 1162,150 1162,1289 165,1289" />
+			<TextLine id="line_1487087942265_2399">
+				<Coords points="1119,163 191,153 191,211 1119,221" />
+				<Baseline points="191,197 1119,207" />
+				<TextEquiv>
+					<Unicode>Wenn nun aber nicht Alles wieder in die Brüche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087948304_2400">
+				<Coords points="1157,222 196,216 196,264 1157,270" />
+				<Baseline points="196,249 1157,255" />
+				<TextEquiv>
+					<Unicode>gehen soll – so muß Graf Bissmark bei seiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087953761_2401">
+				<Coords points="1128,271 206,263 206,313 1128,321" />
+				<Baseline points="206,300 1128,308" />
+				<TextEquiv>
+					<Unicode>Ehre gefaßt – und ihm begreiflich gemacht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087959974_2402">
+				<Coords points="1138,322 211,316 211,364 1138,370" />
+				<Baseline points="211,348 1138,354" />
+				<TextEquiv>
+					<Unicode>werden – daß ein Mann von seiner Bedeutung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087967448_2403">
+				<Coords points="1154,371 225,359 225,411 1154,423" />
+				<Baseline points="225,397 1154,409" />
+				<TextEquiv>
+					<Unicode>ein so großes Werk an seinen Namen knüpfen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087981054_2404">
+				<Coords points="1157,424 227,416 227,463 1157,471" />
+				<Baseline points="227,448 1157,456" />
+				<TextEquiv>
+					<Unicode>müße – was ihm in der Geschichte einen reinern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087987160_2405">
+				<Coords points="1157,472 218,459 218,510 1157,523" />
+				<Baseline points="218,496 1157,509" />
+				<TextEquiv>
+					<Unicode>Nachruhm sichere als die Annexion Hannovers.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487087993086_2406">
+				<Coords points="1137,524 225,517 225,563 1137,570" />
+				<Baseline points="225,549 1137,556" />
+				<TextEquiv>
+					<Unicode>Verzögerung – sei aber Aufgeben hier</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088000960_2407">
+				<Coords points="1133,571 237,562 237,609 1133,618" />
+				<Baseline points="237,594 1133,603" />
+				<TextEquiv>
+					<Unicode>denn wenn einmal der Montcenis und die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088011194_2408">
+				<Coords points="1156,619 242,612 242,663 1156,670" />
+				<Baseline points="242,648 1156,655" />
+				<TextEquiv>
+					<Unicode>Linie der Corniche GenuaNizza im</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088020489_2409">
+				<Coords points="1155,671 235,663 235,713 1155,721" />
+				<Baseline points="235,699 1155,707" />
+				<TextEquiv>
+					<Unicode>Betrieb seien so baue man den Gotthard</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088025057_2410">
+				<Coords points="513,722 241,717 241,763 513,768" />
+				<Baseline points="241,749 513,754" />
+				<TextEquiv>
+					<Unicode>nicht mehr. –</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088029968_2411">
+				<Coords points="1140,769 242,768 242,817 1140,818" />
+				<Baseline points="242,800 1140,801" />
+				<TextEquiv>
+					<Unicode>Bei Unterhandlungen komt man oft zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088036425_2412">
+				<Coords points="1147,819 235,807 235,859 1147,871" />
+				<Baseline points="235,846 1147,858" />
+				<TextEquiv>
+					<Unicode>sonderbaren Bundesgenoßen – Mais il faut</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088483121_2413">
+				<Coords points="1152,872 235,868 235,913 1152,917" />
+				<Baseline points="235,898 1152,902" />
+				<TextEquiv>
+					<Unicode>«faire flêch de tout bois». Als mir der Director </Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088489079_2414">
+				<Coords points="1142,918 236,908 236,959 1142,969" />
+				<Baseline points="236,945 1142,955" />
+				<TextEquiv>
+					<Unicode>der römischen Bahnen schrieb: «Soutenez ma</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088495910_2415">
+				<Coords points="1155,970 205,959 205,1005 1155,1016" />
+				<Baseline points="205,992 1155,1003" />
+				<TextEquiv>
+					<Unicode>cause auprès de vos amis – et je vous promet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088500183_2416">
+				<Coords points="1078,1017 204,1012 204,1059 1078,1064" />
+				<Baseline points="204,1044 1078,1049" />
+				<TextEquiv>
+					<Unicode>de soutenir la votre auprès des miens»</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088505042_2417">
+				<Coords points="1156,1065 235,1058 235,1110 1156,1117" />
+				<Baseline points="235,1095 1156,1102" />
+				<TextEquiv>
+					<Unicode>graute mir anfänglich – davor – was ich Ihnen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088510176_2418">
+				<Coords points="1138,1117 254,1109 254,1160 1138,1168" />
+				<Baseline points="254,1144 1138,1152" />
+				<TextEquiv>
+					<Unicode>in einem frühern Schreiben angedeutet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088514606_2419">
+				<Coords points="1162,1169 241,1156 241,1207 1162,1220" />
+				<Baseline points="241,1193 1162,1206" />
+				<TextEquiv>
+					<Unicode>nachdem ich aber sein – und mein Lager gezählt</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487088520820_2420">
+				<Coords points="978,1221 267,1218 267,1261 978,1264" />
+				<Baseline points="267,1251 978,1254" />
+				<TextEquiv>
+					<Unicode>wußte ich was ich zu thun hatte. </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

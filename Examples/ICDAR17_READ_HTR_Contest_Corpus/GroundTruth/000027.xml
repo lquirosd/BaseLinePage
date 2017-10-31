@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:34:06</Created>
+        <LastChange>2017-03-27T18:24:23.030+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000027.jpg" imageWidth="1142" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631863087" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="149,126 1137,126 1137,1333 149,1333"/>
+            <TextLine id="line_1487089580972_2449" custom="readingOrder {index:0;}">
+                <Coords points="1049,146 169,133 169,190 1049,203"/>
+                <Baseline points="169,178 1049,191"/>
+                <TextEquiv>
+                    <Unicode>ad 1. Die erste Frage beantwortete ich dahin «ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089586205_2450" custom="readingOrder {index:1;}">
+                <Coords points="1080,204 210,191 210,233 1080,246"/>
+                <Baseline points="210,221 1080,234"/>
+                <TextEquiv>
+                    <Unicode>zweifle im höchsten Grad – daß Sie nach Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089591794_2451" custom="readingOrder {index:2;}">
+                <Coords points="1116,247 199,235 199,276 1116,288"/>
+                <Baseline points="199,263 1116,275"/>
+                <TextEquiv>
+                    <Unicode>gehen können und wollen; – daß einer der Pascis-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089647401_2452" custom="readingOrder {index:3;}">
+                <Coords points="1099,289 205,278 205,320 1099,331"/>
+                <Baseline points="205,308 1099,319"/>
+                <TextEquiv>
+                    <Unicode>centen – im Augenblik der Vollziehung nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089655483_2453" custom="readingOrder {index:4;}">
+                <Coords points="1112,330 892,332 204,319 204,361 892,374 1112,372"/>
+                <Baseline points="204,347 892,360 1112,358"/>
+                <TextEquiv>
+                    <Unicode>neuen Antheilhabern suche – ohne seine Mitpas-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089664632_2454" custom="readingOrder {index:5;}">
+                <Coords points="1127,375 205,356 205,404 1127,423"/>
+                <Baseline points="205,389 1127,408"/>
+                <TextEquiv>
+                    <Unicode>ciszenten davon zu benachrichtigen – schien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089670313_2455" custom="readingOrder {index:6;}">
+                <Coords points="1130,424 1088,413 208,400 208,445 1088,458 1130,469"/>
+                <Baseline points="208,437 1088,450 1130,461"/>
+                <TextEquiv>
+                    <Unicode>mir unmöglich; wollte man aber Nordeutschld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089673987_2456" custom="readingOrder {index:7;}">
+                <Coords points="1124,464 205,454 205,491 1124,501"/>
+                <Baseline points="205,478 1124,488"/>
+                <TextEquiv>
+                    <Unicode>Baden Württemberg u Italien davon benachrichtigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089678496_2457" custom="readingOrder {index:8;}">
+                <Coords points="1117,502 195,490 195,531 1117,543"/>
+                <Baseline points="195,520 1117,532"/>
+                <TextEquiv>
+                    <Unicode>so würde der eine oder andere Schwierigkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089681808_2458" custom="readingOrder {index:9;}">
+                <Coords points="786,544 210,536 210,576 786,584"/>
+                <Baseline points="210,563 786,571"/>
+                <TextEquiv>
+                    <Unicode>machen vielleicht alle!!»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089687120_2459" custom="readingOrder {index:10;}">
+                <Coords points="1117,585 169,573 169,616 1117,628"/>
+                <Baseline points="169,603 1117,615"/>
+                <TextEquiv>
+                    <Unicode>ad 2.) «Noch viel mehr Gründe stehen in dem langen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089692147_2460" custom="readingOrder {index:11;}">
+                <Coords points="1107,629 233,618 233,662 1107,673"/>
+                <Baseline points="233,650 1107,661"/>
+                <TextEquiv>
+                    <Unicode>Bilde einer officiellen Verwendung Kerns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089700059_2461" custom="readingOrder {index:12;}">
+                <Coords points="1113,674 225,660 225,703 1113,717"/>
+                <Baseline points="225,690 1113,704"/>
+                <TextEquiv>
+                    <Unicode>entgegen, der seine Instructionen von Bundes-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089704594_2462" custom="readingOrder {index:13;}">
+                <Coords points="1122,718 237,700 237,743 1122,761"/>
+                <Baseline points="237,730 1122,748"/>
+                <TextEquiv>
+                    <Unicode>Rath empfange – dieser aber werde nicht im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089708226_2463" custom="readingOrder {index:14;}">
+                <Coords points="1109,762 231,745 231,786 1109,803"/>
+                <Baseline points="231,775 1109,792"/>
+                <TextEquiv>
+                    <Unicode>Augenblik wo er den Vertrag vom 15 Oct 69</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089713001_2464" custom="readingOrder {index:15;}">
+                <Coords points="1112,804 238,791 238,831 1112,844"/>
+                <Baseline points="238,818 1112,831"/>
+                <TextEquiv>
+                    <Unicode>den Räthen vorlege – unter der Hand eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089718089_2465" custom="readingOrder {index:16;}">
+                <Coords points="1115,845 246,828 246,868 1115,885"/>
+                <Baseline points="246,858 1115,875"/>
+                <TextEquiv>
+                    <Unicode>wesentliche Veränderung dieses Vertrags</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089760802_2466" custom="readingOrder {index:17;}">
+                <Coords points="626,886 250,881 250,920 626,925"/>
+                <Baseline points="250,906 626,911"/>
+                <TextEquiv>
+                    <Unicode>anbahnen wollen». –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089766178_2467" custom="readingOrder {index:18;}">
+                <Coords points="1115,926 192,912 192,959 1115,973"/>
+                <Baseline points="192,946 1115,960"/>
+                <TextEquiv>
+                    <Unicode>ad 3.) «Die Betheiligung Frankreichs von Anfang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089777028_2468" custom="readingOrder {index:19;}">
+                <Coords points="1123,974 243,957 243,1000 1123,1017"/>
+                <Baseline points="243,988 1123,1005"/>
+                <TextEquiv>
+                    <Unicode>an – wäre meiner Ansicht nach ein wichtiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089780697_2469" custom="readingOrder {index:20;}">
+                <Coords points="1117,1017 250,999 250,1040 1117,1058"/>
+                <Baseline points="250,1027 1117,1045"/>
+                <TextEquiv>
+                    <Unicode>politischer Gedanke gewesen – wie die Neu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089785680_2470" custom="readingOrder {index:21;}">
+                <Coords points="1133,1059 246,1039 246,1082 1133,1102"/>
+                <Baseline points="246,1070 1133,1090"/>
+                <TextEquiv>
+                    <Unicode>tralität der Schweiz von allen Großmächten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089789817_2471" custom="readingOrder {index:22;}">
+                <Coords points="1129,1103 252,1089 252,1129 1129,1143"/>
+                <Baseline points="252,1117 1129,1131"/>
+                <TextEquiv>
+                    <Unicode>gewährleistet worden – so hatte die Neutra-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089793560_2472" custom="readingOrder {index:23;}">
+                <Coords points="1105,1144 255,1129 255,1169 1105,1184"/>
+                <Baseline points="255,1158 1105,1173"/>
+                <TextEquiv>
+                    <Unicode>lität der Gotthardstraße durch alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089807418_2473" custom="readingOrder {index:24;}">
+                <Coords points="1101,1185 260,1175 260,1214 1101,1224"/>
+                <Baseline points="260,1202 1101,1212"/>
+                <TextEquiv>
+                    <Unicode>benachbarten Großmächte – durch ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089810810_2474" custom="readingOrder {index:25;}">
+                <Coords points="1088,1225 271,1217 271,1259 1088,1267"/>
+                <Baseline points="271,1245 1088,1253"/>
+                <TextEquiv>
+                    <Unicode>Participation am Unternehmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487089816442_2475" custom="readingOrder {index:26;}">
+                <Coords points="1103,1268 272,1251 272,1293 1103,1310"/>
+                <Baseline points="272,1283 1103,1300"/>
+                <TextEquiv>
+                    <Unicode>sicher gestellt werden könne. Ex post</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

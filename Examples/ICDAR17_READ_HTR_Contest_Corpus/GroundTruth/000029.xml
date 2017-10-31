@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:59</Created>
+        <LastChange>2017-03-27T18:37:09.719+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000029.jpg" imageWidth="1152" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490632629785" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487255140803_3196"/>
+                <RegionRefIndexed index="1" regionRef="region_1487255144179_3197"/>
+                <RegionRefIndexed index="2" regionRef="pg"/>
+                <RegionRefIndexed index="3" regionRef="region_1487255517106_3222"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487255140803_3196" custom="readingOrder {index:0;}">
+            <Coords points="704,23 968,23 968,115 704,115"/>
+            <TextLine id="line_1487255161472_3198" custom="readingOrder {index:0;}">
+                <Coords points="955,43 709,40 709,92 955,95"/>
+                <Baseline points="709,84 955,87"/>
+                <TextEquiv>
+                    <Unicode>Roma 28/1 72 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487255144179_3197" custom="readingOrder {index:1;}">
+            <Coords points="160,137 944,137 944,350 160,350"/>
+            <TextLine id="line_1487255201883_3199" custom="readingOrder {index:0;}">
+                <Coords points="754,155 184,153 184,205 754,207"/>
+                <Baseline points="184,193 754,195"/>
+                <TextEquiv>
+                    <Unicode>Pregmo Sigr Dr Alfredo Escher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255210503_3200" custom="readingOrder {index:1;}">
+                <Coords points="841,202 607,205 247,208 247,249 607,246 841,243"/>
+                <Baseline points="247,237 607,234 841,231"/>
+                <TextEquiv>
+                    <Unicode>Direttore delle Ferrovie Svizzere e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255216011_3201" custom="readingOrder {index:2;}">
+                <Coords points="711,249 260,250 260,290 711,289"/>
+                <Baseline points="260,278 711,277"/>
+                <TextEquiv>
+                    <Unicode>della Ferrovia del Gottardo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255233509_3202" custom="readingOrder {index:3;}">
+                <Coords points="854,291 712,290 712,327 854,328"/>
+                <Baseline points="712,318 854,319"/>
+                <TextEquiv>
+                    <Unicode>Zurigo</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:2;}">
+            <Coords points="253,413 1138,413 1142,1266 803,1267 803,1167 253,1167"/>
+            <TextLine id="line_1487255302869_3203" custom="readingOrder {index:0;}">
+                <Coords points="1119,436 335,433 335,497 1119,500"/>
+                <Baseline points="335,485 1119,488"/>
+                <TextEquiv>
+                    <Unicode>Si è costituita con sede in Padova una So-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255308197_3204" custom="readingOrder {index:1;}">
+                <Coords points="1109,497 295,500 295,541 1109,538"/>
+                <Baseline points="295,528 1109,525"/>
+                <TextEquiv>
+                    <Unicode>cietà col capitale tutto coperto di 10 millioni la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255313144_3205" custom="readingOrder {index:2;}">
+                <Coords points="1108,536 289,542 289,585 1108,579"/>
+                <Baseline points="289,572 1108,566"/>
+                <TextEquiv>
+                    <Unicode>quale porta il titolo di SocietàVenetaperimpre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255319580_3206" custom="readingOrder {index:3;}">
+                <Coords points="1105,586 295,586 295,630 1105,630"/>
+                <Baseline points="295,617 1105,617"/>
+                <TextEquiv>
+                    <Unicode>se e costruzioni pubbliche. Il suo Statuto venne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255326125_3207" custom="readingOrder {index:4;}">
+                <Coords points="917,631 298,627 298,673 917,677"/>
+                <Baseline points="298,659 917,663"/>
+                <TextEquiv>
+                    <Unicode>approvato con Decreto Reale 25 corrte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255337160_3208" custom="readingOrder {index:5;}">
+                <Coords points="1110,678 321,669 321,712 1110,721"/>
+                <Baseline points="321,702 1110,711"/>
+                <TextEquiv>
+                    <Unicode>Dovendosi in breve dar mano ai lavori della fer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255345561_3209" custom="readingOrder {index:6;}">
+                <Coords points="1083,722 299,715 299,750 1083,757"/>
+                <Baseline points="299,738 1083,745"/>
+                <TextEquiv>
+                    <Unicode>rovia del Gottardo, il sottoscritto Presidente del</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255351771_3210" custom="readingOrder {index:7;}">
+                <Coords points="1123,757 292,753 292,792 1123,796"/>
+                <Baseline points="292,781 1123,785"/>
+                <TextEquiv>
+                    <Unicode>Consiglio d'Amme della Società suddetta, si rivol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255367073_3211" custom="readingOrder {index:8;}">
+                <Coords points="1107,797 282,787 282,823 1107,833"/>
+                <Baseline points="282,813 1107,823"/>
+                <TextEquiv>
+                    <Unicode>ge alla S. V. Illma per sapere se le opere saranno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255372899_3212" custom="readingOrder {index:9;}">
+                <Coords points="1116,834 297,831 297,867 1116,870"/>
+                <Baseline points="297,855 1116,858"/>
+                <TextEquiv>
+                    <Unicode>date al pubblico incanto od a trattativa privata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255377885_3213" custom="readingOrder {index:10;}">
+                <Coords points="1113,871 301,866 301,906 1113,911"/>
+                <Baseline points="301,895 1113,900"/>
+                <TextEquiv>
+                    <Unicode>e ciò affine di essere in grado di presentare egli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255383917_3214" custom="readingOrder {index:11;}">
+                <Coords points="687,912 272,912 272,952 687,952"/>
+                <Baseline points="272,937 687,937"/>
+                <TextEquiv>
+                    <Unicode>pure la propria offerta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255392097_3215" custom="readingOrder {index:12;}">
+                <Coords points="1122,953 324,942 324,980 1122,991"/>
+                <Baseline points="324,978 1122,989"/>
+                <TextEquiv>
+                    <Unicode>Il di lui nome, che crede favorevolmente conoscui-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255766637_3231" custom="readingOrder {index:13;}">
+                <Coords points="356,985 333,985 333,1001 356,1001"/>
+                <Baseline points="333,997 356,997"/>
+                <TextEquiv>
+                    <Unicode>(1) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255398325_3216" custom="readingOrder {index:14;}">
+                <Coords points="1113,997 292,987 292,1026 1113,1036"/>
+                <Baseline points="292,1014 1113,1024"/>
+                <TextEquiv>
+                    <Unicode>to, sarebbe caparra di una buona esecuzione del-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255411836_3217" custom="readingOrder {index:15;}">
+                <Coords points="1125,1037 303,1026 303,1067 1125,1078"/>
+                <Baseline points="303,1056 1125,1067"/>
+                <TextEquiv>
+                    <Unicode>le opere che venissero affidate alla Società alla cui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255419652_3218" custom="readingOrder {index:16;}">
+                <Coords points="694,1079 294,1073 294,1110 694,1116"/>
+                <Baseline points="294,1098 694,1104"/>
+                <TextEquiv>
+                    <Unicode>Amme egli è proposto.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255427067_3219" custom="readingOrder {index:17;}">
+                <Coords points="794,1117 323,1113 323,1153 794,1157"/>
+                <Baseline points="323,1142 794,1146"/>
+                <TextEquiv>
+                    <Unicode>Con profonda osservanza.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255483884_3220" custom="readingOrder {index:18;}">
+                <Coords points="1074,1149 837,1146 838,1193 1075,1196"/>
+                <Baseline points="838,1181 1075,1184"/>
+                <TextEquiv>
+                    <Unicode>Devotissimo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255500378_3221" custom="readingOrder {index:19;}">
+                <Coords points="1105,1185 969,1193 805,1197 805,1238 969,1234 1105,1226"/>
+                <Baseline points="805,1226 969,1222 1105,1214"/>
+                <TextEquiv>
+                    <Unicode>Vin Stef Breda </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487255517106_3222" custom="readingOrder {index:3;}">
+            <Coords points="233,1372 234,1178 801,1179 801,1269 1142,1273 1141,1407 563,1400 393,1398 373,1405 285,1405"/>
+            <TextLine id="line_1487255620739_3223" custom="readingOrder {index:0;}">
+                <Coords points="798,1187 262,1190 262,1224 798,1221"/>
+                <Baseline points="262,1218 798,1215"/>
+                <TextEquiv>
+                    <Unicode>(1) Per informazioni Ella può dirigersi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255627828_3224" custom="readingOrder {index:1;}">
+                <Coords points="792,1219 295,1222 297,1244 792,1245"/>
+                <Baseline points="297,1238 792,1239"/>
+                <TextEquiv>
+                    <Unicode>o al SigrePaolino Talabot a Parigi o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255636028_3225" custom="readingOrder {index:2;}">
+                <Coords points="616,1244 294,1246 294,1268 616,1266"/>
+                <Baseline points="294,1262 616,1260"/>
+                <TextEquiv>
+                    <Unicode>a chiunque in Italia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255645321_3226" custom="readingOrder {index:3;}">
+                <Coords points="823,1257 295,1269 295,1291 824,1288"/>
+                <Baseline points="295,1284 824,1281"/>
+                <TextEquiv>
+                    <Unicode>Indirizzo per la risposta: Deputato Vincen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255650074_3227" custom="readingOrder {index:4;}">
+                <Coords points="894,1287 289,1284 289,1318 894,1321"/>
+                <Baseline points="289,1305 894,1308"/>
+                <TextEquiv>
+                    <Unicode>zo Stefano Breda per Padova a Ponte di Brenta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255658942_3228" custom="readingOrder {index:5;}">
+                <Coords points="1131,1322 556,1318 236,1314 236,1351 556,1355 1131,1359"/>
+                <Baseline points="236,1344 556,1348 1131,1352"/>
+                <TextEquiv>
+                    <Unicode>P. P. S pagamenti potrebbero esser fatti in parte con obbligazioni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255665201_3229" custom="readingOrder {index:6;}">
+                <Coords points="1116,1360 298,1352 298,1374 1116,1382"/>
+                <Baseline points="298,1369 1116,1377"/>
+                <TextEquiv>
+                    <Unicode>avendo la Società Veneta aderenze con altre Banche che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487255671392_3230" custom="readingOrder {index:7;}">
+                <Coords points="843,1374 287,1370 286,1395 842,1399"/>
+                <Baseline points="286,1392 842,1396"/>
+                <TextEquiv>
+                    <Unicode>parteciparebbero con Essa nell' affare.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:23</Created>
+        <LastChange>2017-03-27T18:09:33.313+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000005.jpg" imageWidth="1113" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630973373" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487247514023_2978"/>
+                <RegionRefIndexed index="1" regionRef="pg"/>
+                <RegionRefIndexed index="2" regionRef="region_1487247507615_2977"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487247514023_2978" custom="readingOrder {index:0;}">
+            <Coords points="541,26 993,26 993,122 541,122"/>
+            <TextLine id="line_1487247572965_2979" custom="readingOrder {index:0;}">
+                <Coords points="975,33 672,44 554,36 554,87 672,95 975,84"/>
+                <Baseline points="554,76 672,84 975,73"/>
+                <TextEquiv>
+                    <Unicode>Sécheron le 6 9bre 1865.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:1;}">
+            <Coords points="156,167 1103,167 1107,1273 156,1273"/>
+            <TextLine id="line_1487247588530_2980" custom="readingOrder {index:0;}">
+                <Coords points="507,179 355,178 355,224 507,225"/>
+                <Baseline points="355,203 507,204"/>
+                <TextEquiv>
+                    <Unicode>Monsieur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247601336_2981" custom="readingOrder {index:1;}">
+                <Coords points="1101,207 451,226 239,222 239,281 451,285 1101,266"/>
+                <Baseline points="239,271 451,275 1101,256"/>
+                <TextEquiv>
+                    <Unicode>J'ai reçu la lettre que vous m'avez fait l'honneur de m'écrire le 3 Ct</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247636428_2982" custom="readingOrder {index:2;}">
+                <Coords points="618,279 203,286 203,322 618,315"/>
+                <Baseline points="203,311 618,304"/>
+                <TextEquiv>
+                    <Unicode>en réponse à la mienne du 26 8bre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247644439_2983" custom="readingOrder {index:3;}">
+                <Coords points="1069,291 242,323 242,359 1069,327"/>
+                <Baseline points="242,350 1069,318"/>
+                <TextEquiv>
+                    <Unicode>Je regrette infiniment d'y trouver l'expression d'une opinion aussi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247660067_2984" custom="readingOrder {index:4;}">
+                <Coords points="1063,326 704,343 191,359 191,389 704,373 1063,356"/>
+                <Baseline points="191,380 704,364 1063,347"/>
+                <TextEquiv>
+                    <Unicode>formellement contraire à la note que j'ai eû l'avantage d'adresser au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247678353_2985" custom="readingOrder {index:5;}">
+                <Coords points="1094,349 827,367 199,390 199,422 827,399 1094,381"/>
+                <Baseline points="199,413 827,390 1094,372"/>
+                <TextEquiv>
+                    <Unicode>Conseil fédéral en 1863. Je ne me dissimule pas quel prix considérable</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247690314_2986" custom="readingOrder {index:6;}">
+                <Coords points="1075,384 194,423 194,454 1075,415"/>
+                <Baseline points="194,445 1075,406"/>
+                <TextEquiv>
+                    <Unicode>votre opposition ajoute aux difficultés que rencontre l'adoption de mes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247705913_2987" custom="readingOrder {index:7;}">
+                <Coords points="1094,407 855,424 194,455 194,485 855,454 1094,437"/>
+                <Baseline points="194,477 855,446 1094,429"/>
+                <TextEquiv>
+                    <Unicode>idées; mais si le refus de concours de votre part altère ma confiance</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247714893_2988" custom="readingOrder {index:8;}">
+                <Coords points="1086,442 169,486 169,513 1086,469"/>
+                <Baseline points="169,506 1086,462"/>
+                <TextEquiv>
+                    <Unicode>dans la solution espérée, elle ne change pas mes convictions personnelles,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247723363_2989" custom="readingOrder {index:9;}">
+                <Coords points="1048,474 171,514 171,540 1048,500"/>
+                <Baseline points="171,531 1048,491"/>
+                <TextEquiv>
+                    <Unicode>persistantes, quil y a quelque chose à faire et que la concentration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247736156_2990" custom="readingOrder {index:10;}">
+                <Coords points="1081,499 268,541 168,538 168,570 268,573 1081,531"/>
+                <Baseline points="168,559 268,562 1081,520"/>
+                <TextEquiv>
+                    <Unicode>des chemins de fer suisses est le seule issue à l'état de choses actuel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247767593_2991" custom="readingOrder {index:11;}">
+                <Coords points="1060,527 233,574 233,606 1060,559"/>
+                <Baseline points="233,599 1060,552"/>
+                <TextEquiv>
+                    <Unicode>Quant à la garantie d'un revenu annuel, base fondamentale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247781272_2992" custom="readingOrder {index:12;}">
+                <Coords points="1078,562 196,607 196,632 1078,587"/>
+                <Baseline points="196,625 1078,580"/>
+                <TextEquiv>
+                    <Unicode>de ma proposition, ce système a été adopté successivement, par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247794089_2993" custom="readingOrder {index:13;}">
+                <Coords points="1049,593 904,606 192,633 192,659 904,632 1049,619"/>
+                <Baseline points="192,650 904,623 1049,610"/>
+                <TextEquiv>
+                    <Unicode>tous les états du continent et aussi par l'Angleterre par les Indes. C'est à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247804330_2994" custom="readingOrder {index:14;}">
+                <Coords points="1074,616 182,660 182,691 1074,647"/>
+                <Baseline points="182,683 1074,639"/>
+                <TextEquiv>
+                    <Unicode>sa puissance que le réseau universel des chemins de fer doit d'...pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247810728_2995" custom="readingOrder {index:15;}">
+                <Coords points="1061,648 181,692 181,720 1061,676"/>
+                <Baseline points="181,712 1061,668"/>
+                <TextEquiv>
+                    <Unicode>s'accomplir aussi rapidement, et il me semble que la Suisse elle même</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247815899_2996" custom="readingOrder {index:16;}">
+                <Coords points="924,684 189,721 189,749 924,712"/>
+                <Baseline points="189,740 924,703"/>
+                <TextEquiv>
+                    <Unicode>l'a appliqué à l'exécution de son réseau thélégraphique.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247836229_2997" custom="readingOrder {index:17;}">
+                <Coords points="1084,695 989,708 205,750 205,780 989,738 1084,725"/>
+                <Baseline points="205,772 989,730 1084,717"/>
+                <TextEquiv>
+                    <Unicode>Quoi qu'il en soit, j'ai peine à comprendre, je l'avoue, qu'un esprit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247843600_2998" custom="readingOrder {index:18;}">
+                <Coords points="1091,732 181,781 181,809 1091,760"/>
+                <Baseline points="181,801 1091,752"/>
+                <TextEquiv>
+                    <Unicode>aussi éminent que le vôtre, Monsieur, paraisse trouver tellement excessif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247851903_2999" custom="readingOrder {index:19;}">
+                <Coords points="1107,775 1074,767 576,785 179,810 179,836 576,811 1074,793 1107,799"/>
+                <Baseline points="179,829 576,804 1074,786 1107,793"/>
+                <TextEquiv>
+                    <Unicode>ce système, approuvé par tout de gouvernements éclairés, que, dans votre opinion,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247880259_3000" custom="readingOrder {index:20;}">
+                <Coords points="1054,793 172,837 172,864 1054,820"/>
+                <Baseline points="172,854 1054,810"/>
+                <TextEquiv>
+                    <Unicode>même avec votre concours, l'assemblée fédérale ne l'accepterait jamais!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247891899_3001" custom="readingOrder {index:21;}">
+                <Coords points="1090,819 230,865 230,898 1090,852"/>
+                <Baseline points="230,889 1090,843"/>
+                <TextEquiv>
+                    <Unicode>et de la position exceptionnelle que la situation p... du Nord-est ferait,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247898411_3002" custom="readingOrder {index:22;}">
+                <Coords points="1091,849 183,898 183,928 1091,879"/>
+                <Baseline points="183,919 1091,870"/>
+                <TextEquiv>
+                    <Unicode>Permettez-moi, Monsieur, d'avoir meilleure opinion de votre influence</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247907544_3003" custom="readingOrder {index:23;}">
+                <Coords points="1084,881 182,929 182,957 1084,909"/>
+                <Baseline points="182,950 1084,902"/>
+                <TextEquiv>
+                    <Unicode>a son fondateur et président, si une discussion sérieuse, dans les chambres,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247913349_3004" custom="readingOrder {index:24;}">
+                <Coords points="1064,913 179,958 179,984 1064,939"/>
+                <Baseline points="179,976 1064,931"/>
+                <TextEquiv>
+                    <Unicode>venait à se soulever à ce sujet; et d'espérer que la réflexion pourra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247917515_3005" custom="readingOrder {index:25;}">
+                <Coords points="1074,941 177,985 177,1014 1074,970"/>
+                <Baseline points="177,1005 1074,961"/>
+                <TextEquiv>
+                    <Unicode>un jour ou l'autre, vous rem...... idée invariable: que l'équité </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247922407_3006" custom="readingOrder {index:26;}">
+                <Coords points="1092,975 171,1014 171,1043 1092,1004"/>
+                <Baseline points="171,1035 1092,996"/>
+                <TextEquiv>
+                    <Unicode>matinale et ces intérets bien entendus de la confédération se réunissent </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247932189_3007" custom="readingOrder {index:27;}">
+                <Coords points="1091,1007 162,1044 162,1070 1091,1033"/>
+                <Baseline points="162,1062 1091,1025"/>
+                <TextEquiv>
+                    <Unicode>pour ne pas laisser périr la belle industrie des chemins de fer en Suisse, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247938550_3008" custom="readingOrder {index:28;}">
+                <Coords points="1066,1038 172,1071 172,1098 1066,1065"/>
+                <Baseline points="172,1089 1066,1056"/>
+                <TextEquiv>
+                    <Unicode>alors qu'il serait si facile de le retrouver sans compromettre en rien </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247945196_3009" custom="readingOrder {index:29;}">
+                <Coords points="443,1082 169,1098 169,1131 443,1115"/>
+                <Baseline points="169,1119 443,1103"/>
+                <TextEquiv>
+                    <Unicode>les finances fédérales.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247958402_3010" custom="readingOrder {index:30;}">
+                <Coords points="1072,1101 653,1121 263,1132 263,1173 653,1162 1072,1142"/>
+                <Baseline points="263,1162 653,1151 1072,1131"/>
+                <TextEquiv>
+                    <Unicode>C'est dans cette espérance et cette profonde conviction que je vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247963156_3011" custom="readingOrder {index:31;}">
+                <Coords points="973,1151 175,1174 175,1209 973,1186"/>
+                <Baseline points="175,1199 973,1176"/>
+                <TextEquiv>
+                    <Unicode>renouvèle, Monsieur, les assurances de ma haute considération.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247968594_3012" custom="readingOrder {index:32;}">
+                <Coords points="824,1196 544,1201 543,1246 823,1241"/>
+                <Baseline points="543,1235 823,1230"/>
+                <TextEquiv>
+                    <Unicode>F. Barthalony. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487247507615_2977" custom="readingOrder {index:2;}">
+            <Coords points="178,1321 1097,1321 1097,1411 178,1411"/>
+            <TextLine id="line_1487247981306_3013" custom="readingOrder {index:0;}">
+                <Coords points="1081,1321 190,1338 190,1381 1081,1353"/>
+                <Baseline points="190,1375 1081,1347"/>
+                <TextEquiv>
+                    <Unicode>Monsieur Alfred Escher président du Conseil d'administration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487247987588_3014" custom="readingOrder {index:1;}">
+                <Coords points="978,1360 610,1373 611,1402 980,1388"/>
+                <Baseline points="611,1398 980,1384"/>
+                <TextEquiv>
+                    <Unicode>du Nord-est à Zurich –</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

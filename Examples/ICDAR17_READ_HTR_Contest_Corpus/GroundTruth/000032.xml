@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:29:51</Created>
+		<LastChange>2017-02-17T12:13:17.885+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000032.jpg" imageWidth="1125" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487329998203" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="278,226 1119,229 1114,1159 278,1159" />
+			<TextLine id="line_1486989173261_1847">
+				<Coords points="1116,245 323,236 323,289 1116,298" />
+				<Baseline points="323,278 1116,287" />
+				<TextEquiv>
+					<Unicode>war, haben die Ueberzeugung in mir hervorgerufen, daß Männer, welche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989177278_1848">
+				<Coords points="1095,299 318,293 318,329 1095,335" />
+				<Baseline points="318,318 1095,324" />
+				<TextEquiv>
+					<Unicode>sich der öffentlichen Thätigkeit widmen, ihre Genugthuung vor Allem in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989181111_1849">
+				<Coords points="1080,336 320,331 320,370 1080,375" />
+				<Baseline points="320,358 1080,363" />
+				<TextEquiv>
+					<Unicode>den großen Zielen zu suchen haben, welche sie sich vorsetzen. Nichts</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989185561_1850">
+				<Coords points="1099,376 327,367 327,407 1099,416" />
+				<Baseline points="327,396 1099,405" />
+				<TextEquiv>
+					<Unicode>desto weniger gereicht es mir jedesmal zu lebhafter Ermunterung, wenn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989190988_1851">
+				<Coords points="1096,417 322,411 322,448 1096,454" />
+				<Baseline points="322,436 1096,442" />
+				<TextEquiv>
+					<Unicode>Männer, die ich um ihres Geistes und um ihres Charakters willen hochachte</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989195033_1852">
+				<Coords points="1082,455 320,452 320,492 1082,495" />
+				<Baseline points="320,480 1082,483" />
+				<TextEquiv>
+					<Unicode>und verehre, mein Streben ihrer Anerkennung werth halten. Und so</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989198763_1853">
+				<Coords points="1079,495 318,489 318,528 1079,534" />
+				<Baseline points="318,517 1079,523" />
+				<TextEquiv>
+					<Unicode>hat denn auch die Würdigung, die Sie, Hochverehrter Herr! meiner</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989204382_1854">
+				<Coords points="1083,535 326,530 326,568 1083,573" />
+				<Baseline points="326,556 1083,561" />
+				<TextEquiv>
+					<Unicode>Thätigkeit, wenn auch weit über Verdienen hinaus, zu Theil werden zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989210573_1855">
+				<Coords points="1083,574 324,569 324,609 1083,614" />
+				<Baseline points="324,598 1083,603" />
+				<TextEquiv>
+					<Unicode>lassen die Gewogenheit hatten, mich in hohem Grade ermuthigt, den</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989216252_1856">
+				<Coords points="1103,615 323,611 323,648 1103,652" />
+				<Baseline points="323,637 1103,641" />
+				<TextEquiv>
+					<Unicode>dornenvollen Pfad unbeirrt fortzuwandeln, auf welchem die Verwirklichung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989220708_1857">
+				<Coords points="785,653 323,650 323,688 785,691" />
+				<Baseline points="323,676 785,679" />
+				<TextEquiv>
+					<Unicode>der Gotthardbahn angestrebt werden muß.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989230015_1858">
+				<Coords points="1082,692 447,685 447,727 1082,734" />
+				<Baseline points="447,714 1082,721" />
+				<TextEquiv>
+					<Unicode>Erlauben Sie mir noch, nur im Vorbeigehen darauf auf-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989236196_1859">
+				<Coords points="1099,735 324,726 324,767 1099,776" />
+				<Baseline points="324,756 1099,765" />
+				<TextEquiv>
+					<Unicode>merksam zu machen, daß die in Ihrem geschätzten Blatte aufgeworfe-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989241604_1860">
+				<Coords points="1092,777 318,769 318,806 1092,814" />
+				<Baseline points="318,795 1092,803" />
+				<TextEquiv>
+					<Unicode>ne Frage, «ob man bei der Begründung der Gotthardbahnunternehmung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989263398_1861">
+				<Coords points="1100,815 328,808 328,846 1100,853" />
+				<Baseline points="328,835 1100,842" />
+				<TextEquiv>
+					<Unicode>nicht mehr Aktien (34 Millionen Franken) und weniger Obligationen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989275487_1862">
+				<Coords points="1079,854 326,850 326,888 1079,892" />
+				<Baseline points="326,876 1079,880" />
+				<TextEquiv>
+					<Unicode>(68 Millionen) hätte ausgeben sollen» auf Seite 9 des Entwurfes zu</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989280587_1863">
+				<Coords points="1084,893 325,890 325,928 1084,931" />
+				<Baseline points="325,918 1084,921" />
+				<TextEquiv>
+					<Unicode>einem Schreiben an den Schweiz. Bundesrath in erschöpfender Weise be-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989284752_1864">
+				<Coords points="486,932 319,931 319,970 486,971" />
+				<Baseline points="319,956 486,957" />
+				<TextEquiv>
+					<Unicode>antwortet ist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989290279_1865">
+				<Coords points="1081,972 464,965 464,1010 1081,1017" />
+				<Baseline points="464,998 1081,1005" />
+				<TextEquiv>
+					<Unicode>Annehmend, daß es Werth für Sie haben dürfte, die in</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989295601_1866">
+				<Coords points="1111,1017 315,1008 315,1047 1111,1056" />
+				<Baseline points="315,1036 1111,1045" />
+				<TextEquiv>
+					<Unicode>dem eben erwähnten Entwurfe zu einem Schreiben an den Schweizerischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989300227_1867">
+				<Coords points="1073,1057 317,1050 317,1089 1073,1096" />
+				<Baseline points="317,1077 1073,1084" />
+				<TextEquiv>
+					<Unicode>Bundesrath aufgezählten Beilagen jetzt schon zu besitzen, beehre ich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486989304514_1868">
+				<Coords points="1074,1097 318,1086 318,1125 1074,1136" />
+				<Baseline points="318,1115 1074,1126" />
+				<TextEquiv>
+					<Unicode>mich, Ihnen dieselben angebogen zu übersenden. Ich bitte Sie jedoch,</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

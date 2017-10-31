@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:24:23</Created>
+        <LastChange>2017-03-27T18:55:12.591+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000033.jpg" imageWidth="1090" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490633712656" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="85,26 1089,26 1089,1370 85,1397"/>
+            <TextLine id="line_1486644351571_780" custom="readingOrder {index:0;}">
+                <Coords points="991,45 166,30 166,87 991,102"/>
+                <TextEquiv>
+                    <Unicode>könnte man sagen, man habe in diesem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644356245_781" custom="readingOrder {index:1;}">
+                <Coords points="985,103 106,93 106,140 985,150"/>
+                <TextEquiv>
+                    <Unicode>Gebiete die Böcke zu Gärtnern gemacht, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644362002_782" custom="readingOrder {index:2;}">
+                <Coords points="1003,150 118,143 118,193 1003,200"/>
+                <TextEquiv>
+                    <Unicode>Vortheile für Basel gehen auch gar zu hoch &</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644366080_783" custom="readingOrder {index:3;}">
+                <Coords points="1018,201 107,191 107,241 1018,251"/>
+                <TextEquiv>
+                    <Unicode>Argau stellt sich nach der Stundeneintheilung so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644370579_784" custom="readingOrder {index:4;}">
+                <Coords points="1061,249 110,252 110,300 1061,297"/>
+                <TextEquiv>
+                    <Unicode>daß es nach keinem Hauptpunkte hin über die taxe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644375420_785" custom="readingOrder {index:5;}">
+                <Coords points="1041,301 118,298 118,346 1041,349"/>
+                <TextEquiv>
+                    <Unicode>des 2ten  Kreises zu zahlen hat –. Ich füge nun zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644380213_786" custom="readingOrder {index:6;}">
+                <Coords points="1067,350 111,337 111,385 1067,398"/>
+                <TextEquiv>
+                    <Unicode>Unterstützung meiner Meynung noch einige allgemeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644383524_787" custom="readingOrder {index:7;}">
+                <Coords points="419,391 120,393 120,441 419,439"/>
+                <TextEquiv>
+                    <Unicode>Betrachtungen bey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644388275_788" custom="readingOrder {index:8;}">
+                <Coords points="1036,442 169,420 169,477 1036,499"/>
+                <TextEquiv>
+                    <Unicode>Es ist zwar ganz richtig daß unser Publikum & vorzüglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644393067_789" custom="readingOrder {index:9;}">
+                <Coords points="1073,500 116,481 116,523 1073,542"/>
+                <TextEquiv>
+                    <Unicode>das Handeltreibende in Post & Zollwesen in so hohem Maße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644400005_790" custom="readingOrder {index:10;}">
+                <Coords points="1027,543 120,527 120,567 1027,583"/>
+                <TextEquiv>
+                    <Unicode>in Anspruch genommen wird, daß der Canton Zürich mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644404641_791" custom="readingOrder {index:11;}">
+                <Coords points="1049,584 120,581 120,617 1049,620"/>
+                <TextEquiv>
+                    <Unicode>als kein anderer, in dieser indirecten Weise an die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644409450_792" custom="readingOrder {index:12;}">
+                <Coords points="1068,621 128,614 128,658 1068,665"/>
+                <TextEquiv>
+                    <Unicode>neuen eidg: Kosten beytragen wird; allein wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644418334_793" custom="readingOrder {index:13;}">
+                <Coords points="1023,665 125,647 125,693 1023,711"/>
+                <TextEquiv>
+                    <Unicode>diese die Einnahmsquellen der Eidg: gegenüber ihren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644423119_794" custom="readingOrder {index:14;}">
+                <Coords points="1063,712 130,704 130,743 1063,751"/>
+                <TextEquiv>
+                    <Unicode>Verpflichtungen so verkümmert & vermindert würden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644427383_795" custom="readingOrder {index:15;}">
+                <Coords points="1008,752 127,749 127,792 1008,795"/>
+                <TextEquiv>
+                    <Unicode>daß enorme deficite entstünden, so müßten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644432900_796" custom="readingOrder {index:16;}">
+                <Coords points="1004,796 120,789 120,833 1004,840"/>
+                <TextEquiv>
+                    <Unicode>dieselben durch Geldcontingente gedeckt werden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644440417_797" custom="readingOrder {index:17;}">
+                <Coords points="1084,841 133,837 133,879 1084,883"/>
+                <TextEquiv>
+                    <Unicode>welche hinwieder in unserm Canton durch vermehrte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644445527_798" custom="readingOrder {index:18;}">
+                <Coords points="990,884 129,884 129,931 990,931"/>
+                <TextEquiv>
+                    <Unicode>Vermögenssteuern zu bestreiten wären, was ich für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644453911_799" custom="readingOrder {index:19;}">
+                <Coords points="1054,932 134,929 134,976 1054,979"/>
+                <TextEquiv>
+                    <Unicode>viel nachtheiliger hielte. Abgesehen davon daß es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644461888_800" custom="readingOrder {index:20;}">
+                <Coords points="1022,979 525,973 123,980 123,1027 525,1020 1022,1026"/>
+                <TextEquiv>
+                    <Unicode>schwerlich im Intresse des neuen Bundes liegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644475113_801" custom="readingOrder {index:21;}">
+                <Coords points="1052,1028 685,1020 126,1025 126,1075 685,1070 1052,1078"/>
+                <TextEquiv>
+                    <Unicode>kann die Cantone öfters in der Art heimzusuchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644481825_802" custom="readingOrder {index:22;}">
+                <Coords points="1071,1079 742,1073 126,1068 126,1117 742,1122 1071,1128"/>
+                <TextEquiv>
+                    <Unicode>ist es überhaupt nicht billig, die indirecten Abgaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644489861_803" custom="readingOrder {index:23;}">
+                <Coords points="1077,1129 791,1121 129,1121 129,1168 791,1168 1077,1176"/>
+                <TextEquiv>
+                    <Unicode>gerade da fallen zu lassen oder unverhältnißmäßig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644498483_804" custom="readingOrder {index:24;}">
+                <Coords points="1085,1177 843,1171 576,1171 117,1175 117,1226 576,1222 843,1222 1085,1228"/>
+                <TextEquiv>
+                    <Unicode>herabzusetzen wo sie größtentheils die reichern Classen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644506094_805" custom="readingOrder {index:25;}">
+                <Coords points="1050,1229 1000,1230 128,1217 128,1264 1000,1277 1050,1290"/>
+                <TextEquiv>
+                    <Unicode>der Bevölkerung treffen, während man solche zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644515205_806" custom="readingOrder {index:26;}">
+                <Coords points="1069,1291 691,1277 119,1272 119,1317 691,1322 1069,1336"/>
+                <TextEquiv>
+                    <Unicode>Lasten der ärmern Classen stehen läßt, wie z. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486644519286_807" custom="readingOrder {index:27;}">
+                <Coords points="646,1322 123,1321 124,1371 647,1372"/>
+                <TextEquiv>
+                    <Unicode>Salzregal & Getränkabgabe. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

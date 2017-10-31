@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:26:24</Created>
+        <LastChange>2017-03-27T18:13:17.890+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000014.jpg" imageWidth="1156" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631197957" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487325661115_221"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487325661115_220"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1487325659037_218"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487325661115_221" custom="readingOrder {index:0;}">
+            <Coords points="1095,217 456,217 456,118 1096,118"/>
+            <TextLine id="line_1486657294155_1291" custom="readingOrder {index:0;}">
+                <Coords points="977,133 538,136 538,188 977,185"/>
+                <TextEquiv>
+                    <Unicode>Baden den 7 Juli 1855.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487325661115_220" custom="readingOrder {index:1;}">
+            <Coords points="721,336 22,336 22,217 722,217"/>
+            <TextLine id="line_1486657305432_1292" custom="readingOrder {index:0;}">
+                <Coords points="631,239 117,237 117,302 631,304"/>
+                <TextEquiv>
+                    <Unicode>Mein lieber Freund!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487325659037_218" custom="readingOrder {index:2;}">
+            <Coords points="1140,1385 22,1384 22,336 1148,336"/>
+            <TextLine id="line_1486657313510_1293" custom="readingOrder {index:0;}">
+                <Coords points="1117,360 252,348 252,420 1117,432"/>
+                <TextEquiv>
+                    <Unicode>Du bist in Deinem letzten l. Briefe v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657318246_1294" custom="readingOrder {index:1;}">
+                <Coords points="1148,433 57,415 57,467 1148,484"/>
+                <TextEquiv>
+                    <Unicode>4ten dss. M.  mit meiner «Melancholie» etwas grau-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657325375_1295" custom="readingOrder {index:2;}">
+                <Coords points="1145,486 49,475 49,520 1145,531"/>
+                <TextEquiv>
+                    <Unicode>sam verfahren. Mich dünkt, meine Erlebnisse seit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657333937_1296" custom="readingOrder {index:3;}">
+                <Coords points="1148,532 49,512 49,561 1148,579"/>
+                <TextEquiv>
+                    <Unicode>mehr als einem halben Jahre & gerade auch diejenigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657338143_1297" custom="readingOrder {index:4;}">
+                <Coords points="1109,581 53,564 53,613 1109,630"/>
+                <TextEquiv>
+                    <Unicode>der letzten Wochen seien so beschaffen, daß man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657342472_1298" custom="readingOrder {index:5;}">
+                <Coords points="1139,631 34,611 34,663 1139,683"/>
+                <TextEquiv>
+                    <Unicode>schon etwas trüber als gewöhnlich in die Welt hin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657347205_1299" custom="readingOrder {index:6;}">
+                <Coords points="1139,684 65,660 65,714 1139,738"/>
+                <TextEquiv>
+                    <Unicode>aus schauen kann, ohne deshalb den Verdacht auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657370697_1300" custom="readingOrder {index:7;}">
+                <Coords points="1145,739 1082,723 49,701 49,755 1082,777 1145,793"/>
+                <TextEquiv>
+                    <Unicode>sich zu laden, durch Melancholie reizend sein zu wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657379600_1301" custom="readingOrder {index:8;}">
+                <Coords points="1147,796 1090,782 843,780 67,767 67,807 843,820 1090,822 1147,832"/>
+                <TextEquiv>
+                    <Unicode>Ach Gott! mein lieber Freund! ich verzichte gegenwär-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657384029_1302" custom="readingOrder {index:9;}">
+                <Coords points="1134,835 65,822 65,861 1134,874"/>
+                <TextEquiv>
+                    <Unicode>tig mehr als je darauf, irgend jemandem reizend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657391705_1303" custom="readingOrder {index:10;}">
+                <Coords points="1142,874 935,868 45,859 45,915 935,924 1142,930"/>
+                <TextEquiv>
+                    <Unicode>vorzukommen! – Was ich dir da schreibe, ist übrigens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657398989_1304" custom="readingOrder {index:11;}">
+                <Coords points="1142,931 1097,920 59,904 58,950 1089,958 1142,988"/>
+                <TextEquiv>
+                    <Unicode>nicht etwa als ein Vorwurf aufzufassen, der nieman-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657403195_1305" custom="readingOrder {index:12;}">
+                <Coords points="1123,967 51,955 49,1004 1138,1017"/>
+                <TextEquiv>
+                    <Unicode>dem gegenüber schlechter angebracht wäre, als ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657407246_1306" custom="readingOrder {index:13;}">
+                <Coords points="1086,1018 48,1010 48,1054 1086,1062"/>
+                <TextEquiv>
+                    <Unicode>genüber von dir, da ich ja wohl weiß, daß Du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657411921_1307" custom="readingOrder {index:14;}">
+                <Coords points="1138,1063 56,1061 56,1112 1138,1114"/>
+                <TextEquiv>
+                    <Unicode>mich eben aufzuheitern suchst. Ich schrieb es Dir nur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657415171_1308" custom="readingOrder {index:15;}">
+                <Coords points="1111,1115 58,1101 58,1152 1111,1166"/>
+                <TextEquiv>
+                    <Unicode>damit Du mich beurtheilest, wie ich bin, & damit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657419795_1309" custom="readingOrder {index:16;}">
+                <Coords points="1116,1167 55,1155 55,1205 1116,1217"/>
+                <TextEquiv>
+                    <Unicode>du dir von meinem gegenwärtigen Zustande</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657424779_1310" custom="readingOrder {index:17;}">
+                <Coords points="1099,1218 64,1198 64,1250 1099,1270"/>
+                <TextEquiv>
+                    <Unicode>ein wahres Bild machest. Ich habe schon, wie Du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657440773_1311" custom="readingOrder {index:18;}">
+                <Coords points="1114,1270 56,1248 56,1295 1114,1317"/>
+                <TextEquiv>
+                    <Unicode>dieß auch aus meinen Briefen entnehmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657446116_1312" custom="readingOrder {index:19;}">
+                <Coords points="1111,1318 58,1295 59,1348 1103,1358"/>
+                <TextEquiv>
+                    <Unicode>kannst, manche heitern Augenblicke: aber nicht </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

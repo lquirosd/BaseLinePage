@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:23:00</Created>
+        <LastChange>2017-03-27T18:18:50.427+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000022.jpg" imageWidth="1152" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631530491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="35,59 1147,59 1147,1424 35,1424"/>
+            <TextLine id="line_1486548462323_1" custom="readingOrder {index:0;}">
+                <Coords points="1075,69 646,74 76,66 76,108 646,116 1075,111"/>
+                <Baseline points="76,100 646,108 1075,103"/>
+                <TextEquiv>
+                    <Unicode>Entwicklung uns. Turnlebens u. seiner Formen zu unterbrechen u. abzukürzen. Ich war beinahe der einzige, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548486166_2" custom="readingOrder {index:1;}">
+                <Coords points="1075,112 772,117 84,101 84,126 772,142 1075,137"/>
+                <Baseline points="84,119 772,135 1075,130"/>
+                <TextEquiv>
+                    <Unicode>aus der alten Zeit in die neue hinüberreichte, die meisten anderen waren erst seit kurzer Zeit Mitglieder, u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548501224_3" custom="readingOrder {index:2;}">
+                <Coords points="1095,143 80,139 80,165 1095,169"/>
+                <Baseline points="80,156 1095,160"/>
+                <TextEquiv>
+                    <Unicode>bis das Turnwesen bei dem beständigen Wechsel von Mitgliedern, in Geist u. Sinne der Gemeinde überging, u. sich ein Kern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548509010_4" custom="readingOrder {index:3;}">
+                <Coords points="1109,170 82,163 82,192 1109,199"/>
+                <Baseline points="82,184 1109,191"/>
+                <TextEquiv>
+                    <Unicode>bildete, da mußten wohl Jahre vergehen. Doch darfst du nicht glauben, daß nichts geschehen sei zur Verbesserung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548523603_5" custom="readingOrder {index:4;}">
+                <Coords points="1091,197 688,200 75,190 75,219 688,229 1091,226"/>
+                <Baseline points="75,210 688,220 1091,217"/>
+                <TextEquiv>
+                    <Unicode>des schon Bestehenden, zur Abschaffung des Schädlichen u. Unzweckmäßigen, zur Ausrottung von üblen Vorurtheilen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548639700_6" custom="readingOrder {index:5;}">
+                <Coords points="1086,225 789,230 78,222 78,252 789,260 1086,255"/>
+                <Baseline points="78,243 789,251 1086,246"/>
+                <TextEquiv>
+                    <Unicode>Meinungen, was aber geschah, wurde allmälig u. meist unbemerkt angesponnen u. angefädelt, u. wenn eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548661659_7" custom="readingOrder {index:6;}">
+                <Coords points="1117,256 615,260 78,250 78,280 615,290 1117,286"/>
+                <Baseline points="78,271 615,281 1117,277"/>
+                <TextEquiv>
+                    <Unicode>neue Einrichtung schon thatsächlich bestand u. sich als gut erwies, dann wurde die Gemeinde darauf aufmerksam gemacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548670614_8" custom="readingOrder {index:7;}">
+                <Coords points="1104,291 644,291 76,283 76,314 644,322 1104,322"/>
+                <Baseline points="76,304 644,312 1104,312"/>
+                <TextEquiv>
+                    <Unicode>u. es konnte kaum fehlen, daß sie nicht nur durch Erhebung zum Gesetz, sondern auch durch anderweitige Vervoll-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548691771_9" custom="readingOrder {index:8;}">
+                <Coords points="1107,323 81,315 81,347 1107,355"/>
+                <Baseline points="81,339 1107,347"/>
+                <TextEquiv>
+                    <Unicode>kommnung ein gesichertes Dasein erhielt. Überhaupt habe ich gefunden, daß dj., welche an d. Spitze irgend e. Gesellschaft stehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548708665_10" custom="readingOrder {index:9;}">
+                <Coords points="1102,355 601,356 74,346 74,376 601,386 1102,385"/>
+                <Baseline points="74,366 601,376 1102,375"/>
+                <TextEquiv>
+                    <Unicode>sehr Acht zu geben haben auf d. Gunst od. Ungunst des Augenblicks, u. wenn dsn je d. Wohl des ... Vereines mehr am Herzen liegt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548735215_11" custom="readingOrder {index:10;}">
+                <Coords points="1123,387 646,386 75,375 75,407 646,418 1123,419"/>
+                <Baseline points="75,398 646,409 1123,410"/>
+                <TextEquiv>
+                    <Unicode>als ihre Meinung u. Vorschläge, mögen sie auch vortrefflich sein, so werden sie sich gedulden, &. die günstige Gelegenht abwarten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548748870_12" custom="readingOrder {index:11;}">
+                <Coords points="1118,418 834,420 78,407 78,438 834,451 1118,449"/>
+                <Baseline points="78,430 834,443 1118,441"/>
+                <TextEquiv>
+                    <Unicode>sie werden deswegen nicht weniger sich bemühen, für die Zukunft auf zweckmäßige Verbesserungen zu denken. Darum ist es gut, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548754488_13" custom="readingOrder {index:12;}">
+                <Coords points="1124,451 588,452 70,438 70,467 588,481 1124,480"/>
+                <Baseline points="70,458 588,472 1124,471"/>
+                <TextEquiv>
+                    <Unicode>man gerüstet ist, um das Eisen schmieden zu können, wenn es glüht. Wenn übrigens bei uns der Vorstand mehr Einfluß zu üben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548766041_14" custom="readingOrder {index:13;}">
+                <Coords points="1090,481 724,482 72,468 72,499 724,513 1090,512"/>
+                <Baseline points="72,490 724,504 1090,503"/>
+                <TextEquiv>
+                    <Unicode>vermag, als in andern Secktionen, so mag dieß zum Theil von der Mischung, zum größten Theil aber auch von dem freundschaftlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548776577_15" custom="readingOrder {index:14;}">
+                <Coords points="1110,510 740,513 72,500 72,530 740,543 1110,540"/>
+                <Baseline points="72,521 740,534 1110,531"/>
+                <TextEquiv>
+                    <Unicode>Verhältnisse aller Mitglieder unter einander herrühren. Diejenigen, die jetzt us. Gemeinwesen leiten, sind schon seit mehrern Jahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548788059_16" custom="readingOrder {index:15;}">
+                <Coords points="1129,542 695,543 72,529 72,558 695,572 1129,571"/>
+                <Baseline points="72,550 695,564 1129,563"/>
+                <TextEquiv>
+                    <Unicode>Mitglieder u. haben Theil genommen an dem Wiederaufblühen desselben, dadurch waren sie in Stand gesetzt zuerst auf einen geringen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548850073_17" custom="readingOrder {index:16;}">
+                <Coords points="1102,573 755,573 69,559 69,589 755,603 1102,603"/>
+                <Baseline points="69,579 755,593 1102,593"/>
+                <TextEquiv>
+                    <Unicode>Kreis zu wirken, u. ihren Sinn zu verpflanzen, u. wie dann der Verein wuchs, so verbreitete sich derselbe Sinn auch unter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548860787_18" custom="readingOrder {index:17;}">
+                <Coords points="1121,604 70,586 70,618 1121,636"/>
+                <Baseline points="70,610 1121,628"/>
+                <TextEquiv>
+                    <Unicode>den Neu-Hinzugekommenen, u. wurde stets von den ältern Turnern unterhalten u. gepflegt. Darum was wir im Ganzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548887220_19" custom="readingOrder {index:18;}">
+                <Coords points="1107,635 767,637 70,621 70,650 767,666 1107,664"/>
+                <Baseline points="70,640 767,656 1107,654"/>
+                <TextEquiv>
+                    <Unicode>leisten u. als Ganzes sind, verdanken wir zum größten Theile der freundschaftlichen Stählung, die das Leben auf d. Turnplatze genommen hat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548912296_20" custom="readingOrder {index:19;}">
+                <Coords points="1093,662 783,667 68,645 68,676 783,698 1093,693"/>
+                <Baseline points="68,668 783,690 1093,685"/>
+                <TextEquiv>
+                    <Unicode>denn mehr als durch Gesetze u. Belehrung wirken wir durch unpartheiische Menschenliebe u. durch Zutrauen. – Soviel über die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548928634_21" custom="readingOrder {index:20;}">
+                <Coords points="1070,695 856,699 69,684 69,713 856,728 1070,724"/>
+                <Baseline points="69,704 856,719 1070,715"/>
+                <TextEquiv>
+                    <Unicode>Art u. Weise Gesetze bei uns zu schaffen u. geltend zu machen. Um von der Sache selbst zu reden, die ihr bei den neuen Turnern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548940204_22" custom="readingOrder {index:21;}">
+                <Coords points="1095,724 667,729 65,711 65,747 664,760 1095,760"/>
+                <Baseline points="65,734 667,752 1095,747"/>
+                <TextEquiv>
+                    <Unicode>in Anregung gebracht habt, so kann ich euch nur in eurem Bestreben unterstützen. Bei uns wäre es eine fruchtlose Mühe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548961555_23" custom="readingOrder {index:22;}">
+                <Coords points="1130,766 1091,748 994,750 749,752 60,735 60,774 749,791 994,789 1091,787 1130,805"/>
+                <Baseline points="60,766 749,783 994,781 1091,779 1130,797"/>
+                <TextEquiv>
+                    <Unicode>eine solche wissenschaftliche Untersuchung, wie ihr sie vornehmt, zur Vereinssache zu machen; als Gegenstand des Privat-Nachdenkens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548979566_24" custom="readingOrder {index:23;}">
+                <Coords points="1129,806 1081,791 731,799 63,781 63,808 731,826 1081,818 1129,833"/>
+                <Baseline points="63,801 731,819 1081,811 1129,826"/>
+                <TextEquiv>
+                    <Unicode>u. der Privatthätigkt für den Verein, wird dse von Euch bezweckte Umgestaltung der bisherigen Turnmethode schon seit Jahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486548995004_25" custom="readingOrder {index:24;}">
+                <Coords points="1117,833 754,834 65,811 65,837 754,860 1117,859"/>
+                <Baseline points="65,828 754,851 1117,850"/>
+                <TextEquiv>
+                    <Unicode>bei uns bearbeitet, nur nicht auf radicalem Wege sond. auf ganz allmälige u. unmerkliche Weise. Wir finden es der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549019924_26" custom="readingOrder {index:25;}">
+                <Coords points="1119,855 896,861 63,834 63,865 896,892 1119,886"/>
+                <Baseline points="63,857 896,884 1119,878"/>
+                <TextEquiv>
+                    <Unicode>Unmündigkt der Mitglieder anpassender, ihnen ins Bewußtsein zu rufen u kennen zu lehren: «was ist, als was werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549040478_27" custom="readingOrder {index:26;}">
+                <Coords points="1144,886 940,893 62,874 62,903 940,922 1144,915"/>
+                <Baseline points="62,894 940,913 1144,906"/>
+                <TextEquiv>
+                    <Unicode>soll u. warum» – Mein Vorgänger im Präsidium war einst nur deßhlb mein offener Gegner, weil er durch offizielle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549058008_28" custom="readingOrder {index:27;}">
+                <Coords points="1105,916 913,923 66,904 66,934 913,953 1105,946"/>
+                <Baseline points="66,925 913,944 1105,937"/>
+                <TextEquiv>
+                    <Unicode>Einrichtungen, die Betreibung einseitiger Übungen begünstigen wollte, u. so z. B: an Turnfesten nach den einzelnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549073017_29" custom="readingOrder {index:28;}">
+                <Coords points="1082,950 895,954 65,930 65,960 895,984 1082,980"/>
+                <Baseline points="65,952 895,976 1082,972"/>
+                <TextEquiv>
+                    <Unicode>Maschinen die Preise vertheilt haben wollte. Die Elementarvorübungen, die wir seit 2 Jahren regelmäßig den Maschinen-übungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549084747_30" custom="readingOrder {index:29;}">
+                <Coords points="1106,978 792,985 63,965 63,992 792,1012 1106,1005"/>
+                <Baseline points="63,984 792,1004 1106,997"/>
+                <TextEquiv>
+                    <Unicode>vorausschicken, sind, wenn ich Euch recht verstehe, nach eurem Sinn beschaffen. Es kostete gewaltig viel Mühe bis sie einge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549116397_31" custom="readingOrder {index:30;}">
+                <Coords points="1114,1006 980,1013 789,1012 522,1006 58,994 58,1023 522,1035 789,1041 980,1042 1114,1035"/>
+                <Baseline points="58,1014 522,1026 789,1032 980,1033 1114,1026"/>
+                <TextEquiv>
+                    <Unicode>führt waren, u. die Gründe dafür so geltend wurden, wie sie sich jetzt der allgemeinen Anerkennung erfreuen, denn Anfangs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549130778_32" custom="readingOrder {index:31;}">
+                <Coords points="1114,1033 928,1042 64,1024 64,1053 928,1071 1114,1062"/>
+                <Baseline points="64,1045 928,1063 1114,1054"/>
+                <TextEquiv>
+                    <Unicode>fand ich beinahe keine Unterstützung, keine Lust u. Liebe dafür fern . Anatomische Gründe habe ich niemals im Zusammenhange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549216913_33" custom="readingOrder {index:32;}">
+                <Coords points="1099,1067 976,1072 692,1072 59,1057 59,1086 692,1101 976,1101 1099,1096"/>
+                <Baseline points="59,1077 692,1092 976,1092 1099,1087"/>
+                <TextEquiv>
+                    <Unicode>gegeben, u. wäre auch nicht verstanden worden, denn über den innern Bau des Menschen herrscht bei unsern Leuten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549230313_34" custom="readingOrder {index:33;}">
+                <Coords points="1117,1093 681,1102 61,1091 61,1122 681,1133 1117,1124"/>
+                <Baseline points="61,1113 681,1124 1117,1115"/>
+                <TextEquiv>
+                    <Unicode>noch tiefe Unwissenheit, dessen ungeachtet war mir bei der Leitung der Übungen die Natur doch des Menschen doch das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549238066_35" custom="readingOrder {index:34;}">
+                <Coords points="1105,1125 710,1134 58,1125 58,1154 710,1163 1105,1154"/>
+                <Baseline points="58,1146 710,1155 1105,1146"/>
+                <TextEquiv>
+                    <Unicode>leitende Prinzip, wenn auch für meine Turngenossen meist unbemerkbar. – Worüber ich mich aber wundere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549251429_36" custom="readingOrder {index:35;}">
+                <Coords points="1119,1160 589,1164 57,1160 57,1188 589,1192 1119,1188"/>
+                <Baseline points="57,1179 589,1183 1119,1179"/>
+                <TextEquiv>
+                    <Unicode>ist das, daß m. sich bis dahin weder im allgemeinen Turnverein noch in irgend einem Spezialverein darüber verständigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549266405_37" custom="readingOrder {index:36;}">
+                <Coords points="1130,1190 696,1193 52,1187 52,1216 696,1222 1130,1219"/>
+                <Baseline points="52,1208 696,1214 1130,1211"/>
+                <TextEquiv>
+                    <Unicode>hat, welche Anforderungen an einen Turner zu stellen seien, u. nach welchem Maaßstabe Lob u. Preis an den Turnfesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549283751_38" custom="readingOrder {index:37;}">
+                <Coords points="1110,1212 658,1223 58,1219 58,1249 658,1253 1110,1242"/>
+                <Baseline points="58,1239 658,1243 1110,1232"/>
+                <TextEquiv>
+                    <Unicode>u. auf dem Turnplatze überhaupt vertheilt werden sollen. Ich bin einmal der festen Überzeugung, daß dem der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549297494_39" custom="readingOrder {index:38;}">
+                <Coords points="1111,1237 615,1254 56,1250 56,1283 615,1287 1111,1270"/>
+                <Baseline points="56,1274 615,1278 1111,1261"/>
+                <TextEquiv>
+                    <Unicode>Preis gehöre, der aus seinem Körper das gebildet hat, was zu bilden war, u. nicht ausschließlich dem, der von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549311771_40" custom="readingOrder {index:39;}">
+                <Coords points="1119,1267 941,1280 47,1287 47,1319 941,1312 1119,1299"/>
+                <Baseline points="47,1308 941,1301 1119,1288"/>
+                <TextEquiv>
+                    <Unicode>Haus aus durch Natur u. Verhältnisse begünstigt eine größere Anzahl künstlicher Übungsstücke machen kann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549327383_41" custom="readingOrder {index:40;}">
+                <Coords points="1074,1297 603,1315 56,1320 56,1355 603,1350 1074,1332"/>
+                <Baseline points="56,1347 603,1342 1074,1324"/>
+                <TextEquiv>
+                    <Unicode>u. demnach könnte Jeder gutdenkende, mit kräftigem Willen ausgerüstete Turner, sobald er gesund u. ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549342193_42" custom="readingOrder {index:41;}">
+                <Coords points="1118,1340 597,1356 53,1355 53,1381 597,1382 1118,1366"/>
+                <Baseline points="53,1373 597,1374 1118,1358"/>
+                <TextEquiv>
+                    <Unicode>Gebrechen wäre, er brauchte weder groß noch von Natur stark od. sehr begünstigt zu sein, Hoffnung auf Anerkennung </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486549371456_43" custom="readingOrder {index:42;}">
+                <Coords points="1024,1372 736,1383 51,1383 51,1408 736,1408 1024,1397"/>
+                <Baseline points="51,1402 736,1402 1024,1391"/>
+                <TextEquiv>
+                    <Unicode>haben, u. allen Turnern ohne Ausnahme wäre die Mögligkeit gegeben, den ersten Preis zu erhalten. – </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:38</Created>
+        <LastChange>2017-03-27T18:21:23.328+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000023.jpg" imageWidth="1135" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631683388" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487324011131_199"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487324011131_198"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487324011131_199" custom="readingOrder {index:0;}">
+            <Coords points="581,331 253,331 254,188 582,188"/>
+            <TextLine id="line_1486654220468_1113" custom="readingOrder {index:0;}">
+                <Coords points="506,216 332,213 332,291 506,294"/>
+                <TextEquiv>
+                    <Unicode>Lieber Freund!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487324011131_198" custom="readingOrder {index:1;}">
+            <Coords points="1120,1377 193,1358 195,358 1121,358"/>
+            <TextLine id="line_1486654225620_1114" custom="readingOrder {index:0;}">
+                <Coords points="1047,381 214,370 214,439 1047,450"/>
+                <TextEquiv>
+                    <Unicode>Ich eile dir einen Brief zu übersenden den ich so eben von Brenton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654230964_1115" custom="readingOrder {index:1;}">
+                <Coords points="1094,450 241,434 241,493 1094,509"/>
+                <TextEquiv>
+                    <Unicode>erhalten habe. Es scheint daß die Frage noch unentschieden ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654236859_1116" custom="readingOrder {index:2;}">
+                <Coords points="1097,510 247,482 247,549 1097,577"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht daß Thorne nun doch die Sache zum Abschluß bringt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654242898_1117" custom="readingOrder {index:3;}">
+                <Coords points="1106,578 1052,580 356,559 354,606 1048,628 1106,653"/>
+                <TextEquiv>
+                    <Unicode>Ueber die Schritte, welche zu Gunsten der Schaffhauser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654249649_1118" custom="readingOrder {index:4;}">
+                <Coords points="1083,654 255,621 255,669 1083,702"/>
+                <TextEquiv>
+                    <Unicode>Frauenfeld Wyler Linie geschehen sind wird dir Hagenbuch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654258156_1119" custom="readingOrder {index:5;}">
+                <Coords points="1089,703 270,663 270,710 1089,750"/>
+                <TextEquiv>
+                    <Unicode>berichtet haben. Das neue Comité für diese Linie besteht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487324041488_200" custom="readingOrder {index:6;}">
+                <Coords points="642,740 567,732 567,762 642,770"/>
+                <TextEquiv>
+                    <Unicode>Praeses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654591164_1120" custom="readingOrder {index:7;}">
+                <Coords points="1106,782 279,721 279,780 1106,841"/>
+                <TextEquiv>
+                    <Unicode>aus den Herrn Kappeler, Eglof, Ramsperger, H. Debrunner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654602316_1121" custom="readingOrder {index:8;}">
+                <Coords points="1102,842 276,782 276,840 1102,900"/>
+                <TextEquiv>
+                    <Unicode>u. Oberst Kappeler. Ich verbat mir aus guten Gründen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654608166_1122" custom="readingOrder {index:9;}">
+                <Coords points="1083,900 269,841 269,900 1083,959"/>
+                <TextEquiv>
+                    <Unicode>jede Betheiligung in diesem neuen Comité; u. habe mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654616531_1123" custom="readingOrder {index:10;}">
+                <Coords points="1066,960 290,900 290,960 1066,1020"/>
+                <TextEquiv>
+                    <Unicode>als genug zu thun für die Stammlinie. – Die Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654629281_1124" custom="readingOrder {index:11;}">
+                <Coords points="1066,1021 1001,1001 572,974 277,956 277,1012 567,1029 1001,1070 1066,1090"/>
+                <TextEquiv>
+                    <Unicode>werden nun ein Konzessionsgesuch bei den Behörden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654635640_1125" custom="readingOrder {index:12;}">
+                <Coords points="1087,1091 1058,1074 292,999 292,1062 1058,1137 1087,1154"/>
+                <TextEquiv>
+                    <Unicode>einleiten. – Daß man in Fraufeld diese Anerbietungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654658965_1126" custom="readingOrder {index:13;}">
+                <Coords points="1080,1155 799,1112 287,1062 287,1117 799,1167 1080,1210"/>
+                <TextEquiv>
+                    <Unicode>der Engländer gerne sah wirst du begreiflich finden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654663737_1127" custom="readingOrder {index:14;}">
+                <Coords points="1046,1211 277,1138 277,1193 1046,1266"/>
+                <TextEquiv>
+                    <Unicode>Heute unterhandelten wir mit Hofman u. wurden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654671064_1128" custom="readingOrder {index:15;}">
+                <Coords points="1034,1267 714,1243 298,1194 298,1255 714,1304 1034,1328"/>
+                <TextEquiv>
+                    <Unicode>fast über alle Punkte einig; nur über das Tracé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654677424_1129" custom="readingOrder {index:16;}">
+                <Coords points="1075,1339 680,1314 305,1270 305,1313 680,1357 1075,1382"/>
+                <TextEquiv>
+                    <Unicode>das neu vorgeschlagen wird, Wyl Oberhofen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

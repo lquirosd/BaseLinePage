@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:16</Created>
+        <LastChange>2017-03-28T12:22:13.650+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000041.jpg" imageWidth="1125" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490696533773" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487323582094_186"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487323582094_185"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1487323410921_170"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487323582094_186" custom="readingOrder {index:0;}">
+            <Coords points="1067,260 179,260 179,136 1067,136"/>
+            <TextLine id="line_1486652951893_1007" custom="readingOrder {index:0;}">
+                <Coords points="1025,184 226,174 226,225 1025,235"/>
+                <Baseline points="226,214 1025,224"/>
+                <TextEquiv>
+                    <Unicode>Hochgeschätzter Herr Regierungspräsident Dr Escher</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487323582094_185" custom="readingOrder {index:1;}">
+            <Coords points="1033,1262 801,1261 179,1225 179,260 1117,260 1117,1225"/>
+            <TextLine id="line_1486652957911_1008" custom="readingOrder {index:0;}">
+                <Coords points="1075,305 218,293 216,335 1073,347"/>
+                <Baseline points="216,328 1073,340"/>
+                <TextEquiv>
+                    <Unicode>Was ich bei meiner Unterredung mit Ihnen vermuthet, das ist nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652963830_1009" custom="readingOrder {index:1;}">
+                <Coords points="1070,348 224,335 224,358 1070,371"/>
+                <Baseline points="224,351 1070,364"/>
+                <TextEquiv>
+                    <Unicode>wirklich. Hrr Honnegger von Wald weiß davon, daß er vom Bez.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652972754_1010" custom="readingOrder {index:2;}">
+                <Coords points="1105,372 222,360 222,386 1105,398"/>
+                <Baseline points="222,378 1105,390"/>
+                <TextEquiv>
+                    <Unicode>Rathe neben Nauer zum Münzeinlösungsexperten vorgeschlagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652978673_1011" custom="readingOrder {index:3;}">
+                <Coords points="1086,399 224,383 224,410 1086,426"/>
+                <Baseline points="224,403 1086,419"/>
+                <TextEquiv>
+                    <Unicode>worden, kein einziges Wort & erklärt mir heute in nobler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652984876_1012" custom="readingOrder {index:4;}">
+                <Coords points="1091,422 224,410 225,440 1092,452"/>
+                <Baseline points="225,432 1092,444"/>
+                <TextEquiv>
+                    <Unicode>Weise, daß er als Vorgeschlagener zu meinen Gunsten zurücktrete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652990394_1013" custom="readingOrder {index:5;}">
+                <Coords points="1079,450 254,436 255,468 1080,482"/>
+                <Baseline points="255,459 1080,473"/>
+                <TextEquiv>
+                    <Unicode>Sie sehen hieraus daß der Bez.Rath Herrn Honnegger blos vorschlug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652994651_1014" custom="readingOrder {index:6;}">
+                <Coords points="1102,479 229,462 229,491 1101,512"/>
+                <Baseline points="229,484 1101,505"/>
+                <TextEquiv>
+                    <Unicode>um mich eher fallen lassen zu dürfen und um Herrn Honnegger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652999908_1015" custom="readingOrder {index:7;}">
+                <Coords points="1099,513 229,495 230,517 1102,537"/>
+                <Baseline points="230,511 1100,529"/>
+                <TextEquiv>
+                    <Unicode>ein geringes Compliment zu machen mit der Ehre im Vorschlag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653007974_1016" custom="readingOrder {index:8;}">
+                <Coords points="1070,533 212,517 211,547 1076,561"/>
+                <Baseline points="211,538 1076,552"/>
+                <TextEquiv>
+                    <Unicode>zu sein, während die größere Ehren als Experter zu figuriren dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653013086_1017" custom="readingOrder {index:9;}">
+                <Coords points="1111,561 214,540 212,575 1111,588"/>
+                <Baseline points="212,569 1111,582"/>
+                <TextEquiv>
+                    <Unicode>Herrn Nauer vorbehalten werden wollte ohne daß Hr. Honnegger etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653020894_1018" custom="readingOrder {index:10;}">
+                <Coords points="868,580 225,571 218,604 866,613"/>
+                <Baseline points="218,593 866,602"/>
+                <TextEquiv>
+                    <Unicode>davon erfahren sollte bis die Wahl vorüber wäre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653039560_1019" custom="readingOrder {index:11;}">
+                <Coords points="1106,614 234,599 234,631 1106,646"/>
+                <Baseline points="234,624 1106,639"/>
+                <TextEquiv>
+                    <Unicode>Ich habe in diesen Tagen jedesfalls wieder Erfahrungen gemacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653043476_1020" custom="readingOrder {index:12;}">
+                <Coords points="1040,643 235,631 231,662 1039,673"/>
+                <Baseline points="231,653 1039,664"/>
+                <TextEquiv>
+                    <Unicode>die ich mir hinter die Ohren schreibe. Es gibt also auch Jesuiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653049019_1021" custom="readingOrder {index:13;}">
+                <Coords points="1104,669 231,658 231,686 1103,701"/>
+                <Baseline points="231,679 1103,694"/>
+                <TextEquiv>
+                    <Unicode>unter vermeintlichen Freunden! Doch was sage ich – für meinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653053960_1022" custom="readingOrder {index:14;}">
+                <Coords points="1050,702 229,692 229,716 1050,726"/>
+                <Baseline points="229,710 1050,720"/>
+                <TextEquiv>
+                    <Unicode>Freund habe ich eigentlich den characterlosen Mann niemals</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653057965_1023" custom="readingOrder {index:15;}">
+                <Coords points="885,721 219,715 218,749 886,755"/>
+                <Baseline points="218,735 886,741"/>
+                <TextEquiv>
+                    <Unicode>gehalten, der mich jetzt am Bändel führen wollte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653070582_1024" custom="readingOrder {index:16;}">
+                <Coords points="1059,756 252,738 252,779 1059,797"/>
+                <Baseline points="252,771 1059,789"/>
+                <TextEquiv>
+                    <Unicode>Auf der andern Seite hingegen habe ich mich gleichzeitig über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653075656_1025" custom="readingOrder {index:17;}">
+                <Coords points="1076,792 234,777 233,805 1077,824"/>
+                <Baseline points="233,798 1077,817"/>
+                <TextEquiv>
+                    <Unicode>die Treue meiner wirklichen Freunde & Gönner recht gründlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653081944_1026" custom="readingOrder {index:18;}">
+                <Coords points="1066,822 234,802 233,832 1066,851"/>
+                <Baseline points="233,824 1066,843"/>
+                <TextEquiv>
+                    <Unicode>überzeugt. Ich habe erfahren wie Sie, hochgeschätztester Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653088159_1027" custom="readingOrder {index:19;}">
+                <Coords points="1082,849 230,831 229,862 1083,878"/>
+                <Baseline points="229,854 1083,870"/>
+                <TextEquiv>
+                    <Unicode>& andere meiner theuren Landesväter mir so herzlich gewogen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653096183_1028" custom="readingOrder {index:20;}">
+                <Coords points="1089,879 219,860 219,888 1089,907"/>
+                <Baseline points="219,880 1089,899"/>
+                <TextEquiv>
+                    <Unicode>sind, habe in Herrn Honnegger einen offenen edlen Verbündeten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653104228_1029" custom="readingOrder {index:21;}">
+                <Coords points="1097,904 216,883 213,913 1096,934"/>
+                <Baseline points="213,905 1096,926"/>
+                <TextEquiv>
+                    <Unicode>gefunden, Der in Aufopferung seiner gerechten Ansprüche mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653109735_1030" custom="readingOrder {index:22;}">
+                <Coords points="1097,930 226,917 226,943 1097,961"/>
+                <Baseline points="226,936 1097,954"/>
+                <TextEquiv>
+                    <Unicode>einen unvergeßlichen Freundschaftsdienst erwiesen. Alles dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653116649_1031" custom="readingOrder {index:23;}">
+                <Coords points="1050,962 229,943 226,972 1050,988"/>
+                <Baseline points="226,964 1050,980"/>
+                <TextEquiv>
+                    <Unicode>verpflichtet mich nicht nur zum Danke sondern zu früherer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653121818_1032" custom="readingOrder {index:24;}">
+                <Coords points="1045,985 223,970 223,993 1047,1012"/>
+                <Baseline points="223,991 1045,1007"/>
+                <TextEquiv>
+                    <Unicode>oder späterer thatsächlicher Anerkennung sei es in dieser oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653126866_1033" custom="readingOrder {index:25;}">
+                <Coords points="393,998 206,998 203,1030 390,1030"/>
+                <Baseline points="203,1016 390,1016"/>
+                <TextEquiv>
+                    <Unicode>jener Weise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653130822_1034" custom="readingOrder {index:26;}">
+                <Coords points="1078,1036 233,1024 232,1059 1077,1071"/>
+                <Baseline points="232,1052 1077,1064"/>
+                <TextEquiv>
+                    <Unicode>Darf ich Sie, hochgeschätztester Herr, nun bitten, das Weitere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653138409_1035" custom="readingOrder {index:27;}">
+                <Coords points="1042,1072 216,1062 216,1088 1042,1098"/>
+                <Baseline points="216,1079 1042,1089"/>
+                <TextEquiv>
+                    <Unicode>in obiger Angelegenheit für mich besorgen zu wollen & mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653144889_1036" custom="readingOrder {index:28;}">
+                <Coords points="1075,1099 216,1086 216,1114 1075,1127"/>
+                <Baseline points="216,1108 1075,1121"/>
+                <TextEquiv>
+                    <Unicode>Hhn Reg.Rath Sulzer noch besonders zu empfehlen. Sie wisen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653166876_1037" custom="readingOrder {index:29;}">
+                <Coords points="927,1124 216,1112 218,1142 929,1154"/>
+                <Baseline points="218,1131 929,1143"/>
+                <TextEquiv>
+                    <Unicode>daß ich ihn leider gestern nicht mehr treffen konnte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653173334_1038" custom="readingOrder {index:30;}">
+                <Coords points="1054,1155 275,1139 275,1172 1054,1188"/>
+                <Baseline points="275,1164 1054,1180"/>
+                <TextEquiv>
+                    <Unicode>Genehmigen Sie meine Versicherung hochachtungsvoller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653178161_1039" custom="readingOrder {index:31;}">
+                <Coords points="1011,1189 845,1186 844,1216 1010,1219"/>
+                <Baseline points="845,1205 1011,1208"/>
+                <TextEquiv>
+                    <Unicode>Ergebenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487323428894_181" custom="readingOrder {index:32;}">
+                <Coords points="625,1194 276,1192 276,1230 625,1232"/>
+                <Baseline points="276,1221 625,1223"/>
+                <TextEquiv>
+                    <Unicode>Fischenthal den 13 Febr 1852.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487323428893_178" custom="readingOrder {index:33;}">
+                <Coords points="1029,1224 836,1225 836,1265 1029,1264"/>
+                <Baseline points="867,1254 1015,1253"/>
+                <TextEquiv>
+                    <Unicode>J J Keller</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487323410921_170" custom="readingOrder {index:2;}">
+            <Coords points="1113,1429 123,1429 123,1263 147,1232 253,1233 264,1264 1113,1263"/>
+            <TextLine id="line_1487323411003_172" custom="readingOrder {index:0;}">
+                <Coords points="246,1244 153,1243 151,1272 244,1273"/>
+                <Baseline points="153,1268 246,1269"/>
+                <TextEquiv>
+                    <Unicode>P. S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487323411004_174" custom="readingOrder {index:1;}">
+                <Coords points="1085,1285 229,1268 229,1303 1085,1320"/>
+                <Baseline points="229,1292 1085,1309"/>
+                <TextEquiv>
+                    <Unicode>Daß ich mit diesem einverstanden bin, & wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653204459_1044" custom="readingOrder {index:2;}">
+                <Coords points="1109,1321 184,1294 184,1327 1109,1354"/>
+                <Baseline points="184,1320 1109,1347"/>
+                <TextEquiv>
+                    <Unicode>Herr President Keller gewählt wird, so freut es mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653209733_1045" custom="readingOrder {index:3;}">
+                <Coords points="943,1350 197,1334 198,1362 944,1378"/>
+                <Baseline points="198,1356 944,1372"/>
+                <TextEquiv>
+                    <Unicode>mehr, als wenn die Wahl auf mich fiel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653216331_1046" custom="readingOrder {index:4;}">
+                <Coords points="460,1369 184,1368 180,1399 456,1400"/>
+                <Baseline points="183,1391 459,1392"/>
+                <TextEquiv>
+                    <Unicode>Wald, den 16. feb. 1852.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653220925_1047" custom="readingOrder {index:5;}">
+                <Coords points="1062,1373 595,1373 596,1400 1063,1400"/>
+                <Baseline points="596,1392 1063,1392"/>
+                <TextEquiv>
+                    <Unicode>Zeichnet Achtungsvoll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486653226074_1048" custom="readingOrder {index:6;}">
+                <Coords points="1108,1400 597,1397 596,1421 1107,1424"/>
+                <Baseline points="597,1414 1108,1417"/>
+                <TextEquiv>
+                    <Unicode>Joh Honegger, Mitgl. d. G. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

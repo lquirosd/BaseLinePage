@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:36:06</Created>
+		<LastChange>2017-02-16T12:47:45.019+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000008.jpg" imageWidth="1165" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487245665113" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="121,144 1153,144 1153,1393 121,1393" />
+			<TextLine id="line_1487245292942_2849">
+				<Coords points="1085,163 185,160 185,216 1085,219" />
+				<Baseline points="185,203 1085,206" />
+				<TextEquiv>
+					<Unicode>affaire, (en me garantissant la réalisation de 60 millions</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245304168_2850">
+				<Coords points="1093,220 570,219 171,213 171,254 570,260 1093,261" />
+				<Baseline points="171,243 570,249 1093,250" />
+				<TextEquiv>
+					<Unicode>subsides, en espèces ou en rentes), je trouverais, ce me</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245313741_2851">
+				<Coords points="1048,262 170,257 170,297 1048,302" />
+				<Baseline points="170,284 1048,289" />
+				<TextEquiv>
+					<Unicode>semble, sans beaucoup de difficulté le reste du capital,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245322596_2852">
+				<Coords points="1126,303 167,297 167,339 1126,345" />
+				<Baseline points="167,327 1126,333" />
+				<TextEquiv>
+					<Unicode>c'est-à-dire: les 60 millions en actions, et les 120 millions</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245329551_2853">
+				<Coords points="1124,346 162,340 162,380 1124,386" />
+				<Baseline points="162,368 1124,374" />
+				<TextEquiv>
+					<Unicode>en obligations, en m'adressant aux capitalistes français,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245336503_2854">
+				<Coords points="1120,387 165,380 165,420 1120,427" />
+				<Baseline points="165,408 1120,415" />
+				<TextEquiv>
+					<Unicode>belges et anglais que je connais d'ancienne date. Seule-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245347949_2855">
+				<Coords points="1140,428 156,419 156,460 1140,469" />
+				<Baseline points="156,448 1140,457" />
+				<TextEquiv>
+					<Unicode>ment, il me faudrait dans ce cas une autorisation officielle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245357322_2856">
+				<Coords points="1131,470 166,463 166,505 1131,512" />
+				<Baseline points="166,493 1131,500" />
+				<TextEquiv>
+					<Unicode>émanant de votre Comité-promoteur. Je n'ai pas besoin</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245364524_2857">
+				<Coords points="1103,513 167,505 167,546 1103,554" />
+				<Baseline points="167,534 1103,542" />
+				<TextEquiv>
+					<Unicode>d'ajouter qu'il me faudrait aussi allouer une certaine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245399730_2858">
+				<Coords points="1110,555 166,549 166,589 1110,595" />
+				<Baseline points="166,577 1110,583" />
+				<TextEquiv>
+					<Unicode>somme, tant pour les frais de voyage que que pour tous</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245407965_2859">
+				<Coords points="1082,596 168,589 168,631 1082,638" />
+				<Baseline points="168,619 1082,626" />
+				<TextEquiv>
+					<Unicode>autres que nécessitera une négociation de cette</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245423537_2860">
+				<Coords points="1141,639 653,637 165,630 165,671 653,678 1141,680" />
+				<Baseline points="165,659 653,666 1141,668" />
+				<TextEquiv>
+					<Unicode>importance, que personne ne saurait d'ailleurs mener</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245431774_2861">
+				<Coords points="1127,681 170,673 170,713 1127,721" />
+				<Baseline points="170,702 1127,710" />
+				<TextEquiv>
+					<Unicode>à bonne fin sans faire des annonces et publications</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245442238_2862">
+				<Coords points="1089,722 154,715 154,753 1089,760" />
+				<Baseline points="154,741 1089,748" />
+				<TextEquiv>
+					<Unicode>plus ou moins coûteuses dans les journaux des</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245449104_2863">
+				<Coords points="378,760 177,758 177,799 378,801" />
+				<Baseline points="177,786 378,788" />
+				<TextEquiv>
+					<Unicode>divers pays.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245465964_2864">
+				<Coords points="1116,802 312,797 312,841 1116,846" />
+				<Baseline points="312,829 1116,834" />
+				<TextEquiv>
+					<Unicode>Enfin, comme j'ai eû l'honneur de vous</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245474642_2865">
+				<Coords points="1116,846 178,839 178,878 1116,885" />
+				<Baseline points="178,867 1116,874" />
+				<TextEquiv>
+					<Unicode>le dire, je suis tout prêt à mettre mes bureaux de</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245483170_2866">
+				<Coords points="1114,885 173,886 173,924 1114,923" />
+				<Baseline points="173,911 1114,910" />
+				<TextEquiv>
+					<Unicode>Turin à votre disposition. Ils sont situés dans le</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245492425_2867">
+				<Coords points="1112,921 164,925 164,966 1112,962" />
+				<Baseline points="164,955 1112,951" />
+				<TextEquiv>
+					<Unicode>quartier le plus central, et agencés convenablement</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245500545_2868">
+				<Coords points="1108,967 179,965 179,1005 1108,1007" />
+				<Baseline points="179,991 1108,993" />
+				<TextEquiv>
+					<Unicode>pour de grandes entreprises. Mr l'Ingénieur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245507959_2869">
+				<Coords points="1121,1005 188,1008 188,1052 1121,1049" />
+				<Baseline points="188,1040 1121,1037" />
+				<TextEquiv>
+					<Unicode>Koller connaît bien ce local, composé d'une dizaine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245518916_2870">
+				<Coords points="1133,1052 185,1048 185,1090 1133,1094" />
+				<Baseline points="185,1076 1133,1080" />
+				<TextEquiv>
+					<Unicode>de pièces au 2me étage dans la maison Bolmida,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245527986_2871">
+				<Coords points="1126,1095 183,1087 183,1129 1126,1137" />
+				<Baseline points="183,1119 1126,1127" />
+				<TextEquiv>
+					<Unicode>et pourra vous donner de plus amples renseignements</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245535884_2872">
+				<Coords points="345,1138 179,1138 179,1174 345,1174" />
+				<Baseline points="179,1161 345,1161" />
+				<TextEquiv>
+					<Unicode>là-dessus.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245544338_2873">
+				<Coords points="1103,1175 262,1170 262,1212 1103,1217" />
+				<Baseline points="262,1201 1103,1206" />
+				<TextEquiv>
+					<Unicode>Quant à moi, personnellement, comme</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245556305_2874">
+				<Coords points="1087,1217 190,1218 190,1256 1087,1255" />
+				<Baseline points="190,1245 1087,1244" />
+				<TextEquiv>
+					<Unicode>aussi en qualité de gérant de ma maison de</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245566365_2875">
+				<Coords points="1126,1253 196,1257 196,1296 1126,1292" />
+				<Baseline points="196,1283 1126,1279" />
+				<TextEquiv>
+					<Unicode>banque, (dont le siége principal sera probablement</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245572968_2876">
+				<Coords points="1116,1293 191,1297 191,1342 1116,1338" />
+				<Baseline points="191,1328 1116,1324" />
+				<TextEquiv>
+					<Unicode>établi sous peu à Florence), je ne saurais que</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487245581847_2877">
+				<Coords points="1093,1343 940,1342 940,1379 1093,1380" />
+				<Baseline points="940,1374 1093,1375" />
+				<TextEquiv>
+					<Unicode />
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:30:13</Created>
+		<LastChange>2017-02-14T12:13:36.742+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000009.jpg" imageWidth="1177" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487070816883" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="204,155 1164,155 1164,1259 204,1259" />
+			<TextLine id="line_1487070633598_1918">
+				<Coords points="1141,168 282,171 282,219 1141,216" />
+				<Baseline points="282,207 1141,204" />
+				<TextEquiv>
+					<Unicode>der Gotthardbahn, beziehungsweise des dazu gehörenden «detaillirten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070638390_1919">
+				<Coords points="1148,217 294,220 294,262 1148,259" />
+				<Baseline points="294,250 1148,247" />
+				<TextEquiv>
+					<Unicode>Kostenvoranschlages» von dem «generellen Projekte», beziehungsweise</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070643260_1920">
+				<Coords points="1151,263 283,263 283,305 1151,305" />
+				<Baseline points="283,292 1151,292" />
+				<TextEquiv>
+					<Unicode>dem darauf bezüglichen «approximativen Kostenvoranschlage» desselben.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070647918_1921">
+				<Coords points="1141,303 237,306 237,349 1141,346" />
+				<Baseline points="237,337 1141,334" />
+				<TextEquiv>
+					<Unicode>4. II. Nachweisung zur Begründung der Ansätze, welche in dem neuesten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070652528_1922">
+				<Coords points="1126,346 279,350 279,391 1126,387" />
+				<Baseline points="279,379 1126,375" />
+				<TextEquiv>
+					<Unicode>unter Berücksichtigung der Beschlüsse der bundesräthlichen Experten-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070656961_1923">
+				<Coords points="1157,392 279,392 279,434 1157,434" />
+				<Baseline points="279,421 1157,421" />
+				<TextEquiv>
+					<Unicode>kommission angefertigten Kostenvoranschlage (Dezember 1876) enthalten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070660586_1924">
+				<Coords points="352,432 275,435 275,478 352,475" />
+				<Baseline points="275,465 352,462" />
+				<TextEquiv>
+					<Unicode>sind.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070666264_1925">
+				<Coords points="1148,477 240,479 240,521 1148,519" />
+				<Baseline points="240,509 1148,507" />
+				<TextEquiv>
+					<Unicode>5. Zwei Programme für die finanzielle Rekonstruktion der Gotthardbahn-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070672480_1926">
+				<Coords points="472,521 279,522 279,568 472,567" />
+				<Baseline points="279,551 472,550" />
+				<TextEquiv>
+					<Unicode>unternehmung.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070678957_1927">
+				<Coords points="1155,569 332,566 332,618 1155,621" />
+				<Baseline points="332,606 1155,609" />
+				<TextEquiv>
+					<Unicode>Zu Ihrer Orientirung mit Bezug auf diese Aktenstücke erlaube</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070687604_1928">
+				<Coords points="841,622 240,620 240,661 841,663" />
+				<Baseline points="240,648 841,650" />
+				<TextEquiv>
+					<Unicode>ich mir noch einige Mittheilungen zu machen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070693299_1929">
+				<Coords points="1099,664 318,662 318,704 1099,706" />
+				<Baseline points="318,692 1099,694" />
+				<TextEquiv>
+					<Unicode>Unmittelbar nach Eingang der oben erwähnten Eingabe der</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070709478_1930">
+				<Coords points="1158,705 234,707 234,748 1158,746" />
+				<Baseline points="234,736 1158,734" />
+				<TextEquiv>
+					<Unicode>Direktion der Gotthardbahn an den Schweiz. Bundesrath vom 3. März dss.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070718435_1931">
+				<Coords points="1110,749 236,747 236,789 1110,791" />
+				<Baseline points="236,776 1110,778" />
+				<TextEquiv>
+					<Unicode>setzte der letztere, dem von der Direktion geäußerten Wunsche ent-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070723592_1932">
+				<Coords points="1137,788 238,792 238,836 1137,832" />
+				<Baseline points="238,823 1137,819" />
+				<TextEquiv>
+					<Unicode>sprechend, eine Expertenkommission zur Untersuchung der Gotthardbahn-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070730839_1933">
+				<Coords points="1160,832 240,837 240,880 1160,875" />
+				<Baseline points="240,867 1160,862" />
+				<TextEquiv>
+					<Unicode>angelegenheit in ihrem ganzen Umfange nieder. Der Schweiz. Bundesrath</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070741416_1934">
+				<Coords points="1122,877 243,881 243,924 1122,920" />
+				<Baseline points="243,912 1122,908" />
+				<TextEquiv>
+					<Unicode>hatte, bevor er die Kommission ernannte, nicht unterlassen, gegenüber</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070746646_1935">
+				<Coords points="1128,921 236,924 236,965 1128,962" />
+				<Baseline points="236,952 1128,949" />
+				<TextEquiv>
+					<Unicode>den andern Subventionsstaaten den Wunsch auszusprechen, daß sie sich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070752905_1936">
+				<Coords points="1158,965 242,966 242,1009 1158,1008" />
+				<Baseline points="242,997 1158,996" />
+				<TextEquiv>
+					<Unicode>bei dieser Untersuchung ebenfalls betheiligen möchten. Sowohl die Deutsche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070759672_1937">
+				<Coords points="1146,1008 241,1010 241,1052 1146,1050" />
+				<Baseline points="241,1040 1146,1038" />
+				<TextEquiv>
+					<Unicode>als auch die Italienische Regierung gingen aber auf diesen Vorschlag nicht ein,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070770119_1938">
+				<Coords points="1135,1053 241,1052 241,1094 1135,1095" />
+				<Baseline points="241,1081 1135,1082" />
+				<TextEquiv>
+					<Unicode>erklärend, daß sie die Vornahme der Untersuchung zutrauensvoll dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070775582_1939">
+				<Coords points="1139,1096 242,1095 242,1139 1139,1140" />
+				<Baseline points="242,1125 1139,1126" />
+				<TextEquiv>
+					<Unicode>Schweiz. Bundesrathe überlassen. Die in Folge dessen von dem letztern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070781377_1940">
+				<Coords points="1155,1135 241,1141 241,1186 1155,1180" />
+				<Baseline points="241,1173 1155,1167" />
+				<TextEquiv>
+					<Unicode>allein ernannte Expertenkommission wählte in ihrer ersten Sitzung eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487070789012_1941">
+				<Coords points="1146,1180 248,1187 248,1230 1146,1223" />
+				<Baseline points="248,1218 1146,1211" />
+				<TextEquiv>
+					<Unicode>Subkommission zur Vorberathung aller in den Bereich der Untersuchung</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

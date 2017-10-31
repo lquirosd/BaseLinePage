@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:35:15</Created>
+		<LastChange>2017-02-16T12:04:21.448+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000035.jpg" imageWidth="909" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487243061559" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="33,162 901,162 901,1403 33,1403" />
+			<TextLine id="line_1487242556124_2703">
+				<Coords points="894,162 846,162 40,180 40,235 846,212 894,217" />
+				<Baseline points="40,221 846,198 894,203" />
+				<TextEquiv>
+					<Unicode>les circonstances et les questions qui peuvent surgir: mais</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242577959_2704">
+				<Coords points="858,208 483,226 140,236 38,235 38,284 140,285 483,275 858,257" />
+				<Baseline points="38,269 140,270 483,260 858,242" />
+				<TextEquiv>
+					<Unicode>je ne crois pas nécéssaire, et partout pas utile, de</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242591432_2705">
+				<Coords points="862,251 646,266 45,286 45,335 646,315 862,300" />
+				<Baseline points="45,321 646,301 862,286" />
+				<TextEquiv>
+					<Unicode>caracteriser ces eventualitées, avec un titre trop</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242599498_2706">
+				<Coords points="208,332 40,336 40,380 208,376" />
+				<Baseline points="40,368 208,364" />
+				<TextEquiv>
+					<Unicode>determiné.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242610685_2707">
+				<Coords points="872,352 212,381 212,425 872,396" />
+				<Baseline points="212,409 872,380" />
+				<TextEquiv>
+					<Unicode>Ayant suivi les Conference de Berne et</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242631093_2708">
+				<Coords points="878,382 177,426 57,425 57,477 177,478 878,434" />
+				<Baseline points="57,462 177,463 878,419" />
+				<TextEquiv>
+					<Unicode>les discussions à la Chambre Italienne sur le Gothard,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242654650_2709">
+				<Coords points="866,426 434,466 234,476 41,479 41,528 234,525 434,515 866,475" />
+				<Baseline points="41,514 234,511 434,501 866,461" />
+				<TextEquiv>
+					<Unicode>je comprends très bien que les rapports officiels</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242684486_2710">
+				<Coords points="882,476 593,507 276,526 57,529 57,578 276,575 593,556 882,525" />
+				<Baseline points="57,562 276,559 593,540 882,509" />
+				<TextEquiv>
+					<Unicode>resteront exclusivement entre le Conseil Fédéral</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242708239_2711">
+				<Coords points="895,522 250,574 53,579 53,632 250,627 895,575" />
+				<Baseline points="53,617 250,612 895,560" />
+				<TextEquiv>
+					<Unicode>et le Gouvernement du Roi. Ainsi je n'envisage</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242721953_2712">
+				<Coords points="876,576 170,629 50,632 50,681 170,678 876,625" />
+				<Baseline points="50,667 170,664 876,611" />
+				<TextEquiv>
+					<Unicode>les fonctions de Représentant de la Société, vis a</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242734631_2713">
+				<Coords points="880,626 292,673 55,682 55,728 292,719 880,672" />
+				<Baseline points="55,714 292,705 880,658" />
+				<TextEquiv>
+					<Unicode>vis du Gouvernement, que comme un complément</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242748984_2714">
+				<Coords points="856,669 338,713 60,729 60,778 338,762 856,718" />
+				<Baseline points="60,763 338,747 856,703" />
+				<TextEquiv>
+					<Unicode>nécéssaire à l'action du Ministre Suisse,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242768028_2715">
+				<Coords points="877,719 352,763 60,778 60,827 352,812 877,768" />
+				<Baseline points="60,813 352,798 877,754" />
+				<TextEquiv>
+					<Unicode>le quel par sa position officielle même, ne</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242777621_2716">
+				<Coords points="889,768 61,828 61,875 889,815" />
+				<Baseline points="61,862 889,802" />
+				<TextEquiv>
+					<Unicode>serait en mésure de suivre toutes les phases</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242790304_2717">
+				<Coords points="835,822 429,853 52,876 52,921 429,898 835,867" />
+				<Baseline points="52,908 429,885 835,854" />
+				<TextEquiv>
+					<Unicode>de chaque question dans ses moindre</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242805160_2718">
+				<Coords points="863,869 399,904 50,922 50,967 399,949 863,914" />
+				<Baseline points="50,953 399,935 863,900" />
+				<TextEquiv>
+					<Unicode>details. Et, malheureusement, dans la plus</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242827535_2719">
+				<Coords points="848,912 555,936 41,968 41,1016 555,984 848,960" />
+				<Baseline points="41,1001 555,969 848,945" />
+				<TextEquiv>
+					<Unicode>part des circonstances, ce sont les details qui</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242835766_2720">
+				<Coords points="553,983 49,1016 49,1063 553,1030" />
+				<Baseline points="49,1051 553,1018" />
+				<TextEquiv>
+					<Unicode>gouvernent le monde!</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242845469_2721">
+				<Coords points="870,1022 175,1064 175,1107 870,1065" />
+				<Baseline points="175,1092 870,1050" />
+				<TextEquiv>
+					<Unicode>Sous ce rapport, étant lié d'amitié ou</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242859291_2722">
+				<Coords points="856,1066 305,1098 52,1108 52,1158 305,1148 856,1116" />
+				<Baseline points="52,1143 305,1133 856,1101" />
+				<TextEquiv>
+					<Unicode>en connaissance personnelle, avec la plus part</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242869934_2723">
+				<Coords points="874,1108 53,1159 53,1206 874,1155" />
+				<Baseline points="53,1194 874,1143" />
+				<TextEquiv>
+					<Unicode>de nos hommes d'Etât; ayant étudié, aussi par</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242882157_2724">
+				<Coords points="810,1169 424,1193 54,1207 54,1251 424,1237 810,1213" />
+				<Baseline points="54,1236 424,1222 810,1198" />
+				<TextEquiv>
+					<Unicode>experience, les voyages administratifs et les</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242895512_2725">
+				<Coords points="882,1216 59,1252 59,1300 882,1264" />
+				<Baseline points="59,1287 882,1251" />
+				<TextEquiv>
+					<Unicode>lois qui s'y rapportent, – je pourrais toujours</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242919683_2726">
+				<Coords points="851,1271 350,1293 66,1301 66,1344 350,1336 851,1314" />
+				<Baseline points="66,1332 350,1324 851,1302" />
+				<TextEquiv>
+					<Unicode>être en mesure de donner ou de récevoir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487242938281_2727">
+				<Coords points="893,1321 700,1318 405,1337 68,1344 68,1381 405,1374 700,1355 893,1358" />
+				<Baseline points="68,1372 405,1365 700,1346 893,1349" />
+				<TextEquiv>
+					<Unicode>des reinseignements, d'une façon plus expeditive</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

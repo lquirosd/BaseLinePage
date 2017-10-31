@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:32:56</Created>
+		<LastChange>2017-02-14T13:44:42.283+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000038.jpg" imageWidth="924" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487076282425" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="39,44 912,44 912,1368 39,1368" />
+			<TextLine id="line_1487076014309_2091">
+				<Coords points="867,63 82,56 82,116 867,123" />
+				<Baseline points="82,100 867,107" />
+				<TextEquiv>
+					<Unicode>unbestimmte Zeit verschoben werden soll, was</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076018538_2092">
+				<Coords points="891,124 74,115 74,172 891,181" />
+				<Baseline points="74,154 891,163" />
+				<TextEquiv>
+					<Unicode>bei den manigfach widerstrebenenden Interessen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076023180_2093">
+				<Coords points="889,182 65,165 65,225 889,242" />
+				<Baseline points="65,208 889,225" />
+				<TextEquiv>
+					<Unicode>so viel als beseitigen heißt. Ich bin daher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076027557_2094">
+				<Coords points="871,243 68,227 68,285 871,301" />
+				<Baseline points="68,268 871,284" />
+				<TextEquiv>
+					<Unicode>begierig auf einläßlichere deutsche Berichte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076032565_2095">
+				<Coords points="834,302 82,292 82,349 834,359" />
+				<Baseline points="82,331 834,341" />
+				<TextEquiv>
+					<Unicode>Wenn die Militair Ersparniß Commission</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076038140_2096">
+				<Coords points="879,359 84,342 84,400 879,417" />
+				<Baseline points="84,384 879,401" />
+				<TextEquiv>
+					<Unicode>im Jennr 1866 sich versammeln soll, so werde</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076041307_2097">
+				<Coords points="855,418 70,404 70,457 855,471" />
+				<Baseline points="70,442 855,456" />
+				<TextEquiv>
+					<Unicode>einem vorherigen Zusamentritt unserer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076047506_2098">
+				<Coords points="896,472 70,463 70,518 896,527" />
+				<Baseline points="70,500 896,509" />
+				<TextEquiv>
+					<Unicode>Section nicht beiwohnen können und es steht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076052173_2099">
+				<Coords points="895,527 66,512 66,570 895,585" />
+				<Baseline points="66,554 895,569" />
+				<TextEquiv>
+					<Unicode>selbst in Frage ob es mir möglich wird der Commission</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076080548_2100">
+				<Coords points="865,583 561,586 70,575 70,633 561,644 865,641" />
+				<Baseline points="70,613 561,624 865,621" />
+				<TextEquiv>
+					<Unicode>selber sei es auch gegen Ende Jenner beizuwohnen:</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076085858_2101">
+				<Coords points="886,645 51,621 51,682 886,706" />
+				<Baseline points="51,668 886,692" />
+				<TextEquiv>
+					<Unicode>denn seit Wochen bin ich so sehr & anhaltend sch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076093900_2102">
+				<Coords points="835,707 262,699 65,686 65,735 262,748 835,756" />
+				<Baseline points="65,720 262,733 835,741" />
+				<TextEquiv>
+					<Unicode>schmerzhaften Gichtischen & Rheumatischen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076099004_2103">
+				<Coords points="846,757 70,747 70,799 846,809" />
+				<Baseline points="70,782 846,792" />
+				<TextEquiv>
+					<Unicode>Anfällen ausgesezt, daß mein Arm steif</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076106701_2104">
+				<Coords points="856,810 62,795 62,851 856,866" />
+				<Baseline points="62,835 856,850" />
+				<TextEquiv>
+					<Unicode>geworden & heftiges Kopfweh mir meist</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076111004_2105">
+				<Coords points="848,867 49,862 49,917 848,922" />
+				<Baseline points="49,899 848,904" />
+				<TextEquiv>
+					<Unicode>schlaflose Nächte bereitet, Solche Übel</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076116847_2106">
+				<Coords points="863,923 60,918 60,980 863,985" />
+				<Baseline points="60,960 863,965" />
+				<TextEquiv>
+					<Unicode>lassen sich nicht schnell beseitigen und selbst nur</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076122210_2107">
+				<Coords points="861,986 53,971 53,1034 861,1049" />
+				<Baseline points="53,1017 861,1032" />
+				<TextEquiv>
+					<Unicode>deren Beschwichtigung erheischt viel Zeit Geduld</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076127035_2108">
+				<Coords points="864,1050 53,1037 53,1093 864,1106" />
+				<Baseline points="53,1076 864,1089" />
+				<TextEquiv>
+					<Unicode>und gelindere Witterung. Ich muß es daher</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076131036_2109">
+				<Coords points="843,1107 50,1092 50,1148 843,1163" />
+				<Baseline points="50,1131 843,1146" />
+				<TextEquiv>
+					<Unicode>Ihnen überlassen die Section zu besammeln</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076135864_2110">
+				<Coords points="859,1164 296,1153 65,1146 65,1202 296,1209 859,1220" />
+				<Baseline points="65,1185 296,1192 859,1203" />
+				<TextEquiv>
+					<Unicode>meinerseit werde bemüht sein, die Ergebnisse</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076140184_2111">
+				<Coords points="880,1221 65,1200 65,1261 880,1282" />
+				<Baseline points="65,1241 880,1262" />
+				<TextEquiv>
+					<Unicode>meiner Prüfungen Ihnen schriftlich zu übermachen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487076144856_2112">
+				<Coords points="880,1283 74,1256 74,1314 880,1341" />
+				<Baseline points="74,1302 880,1329" />
+				<TextEquiv>
+					<Unicode>Noch so vieles möchte ich mit Ihnen besprechen</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

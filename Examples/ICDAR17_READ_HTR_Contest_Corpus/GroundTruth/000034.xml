@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:37</Created>
+        <LastChange>2017-03-27T18:56:27.545+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000034.jpg" imageWidth="1174" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490633787632" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487253488664_3088"/>
+                <RegionRefIndexed index="1" regionRef="region_1487253540695_3089"/>
+                <RegionRefIndexed index="2" regionRef="region_1487253549097_3090"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487253488664_3088" custom="readingOrder {index:0;}">
+            <Coords points="333,155 673,92 1053,83 1053,310 338,310"/>
+            <TextLine id="line_1487253640059_3098" custom="readingOrder {index:0;}">
+                <Coords points="1045,100 666,102 667,159 1046,157"/>
+                <Baseline points="666,145 1045,143"/>
+                <TextEquiv>
+                    <Unicode>Brugg den 25t Septbr 1875.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253645763_3099" custom="readingOrder {index:1;}">
+                <Coords points="804,161 348,171 348,248 804,238"/>
+                <Baseline points="348,230 804,220"/>
+                <TextEquiv>
+                    <Unicode>Herrn Präsidenten Dr. A. Escher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253649468_3100" custom="readingOrder {index:2;}">
+                <Coords points="900,249 773,248 773,297 900,298"/>
+                <Baseline points="773,292 900,293"/>
+                <TextEquiv>
+                    <Unicode>Zürich. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487253540695_3089" custom="readingOrder {index:1;}">
+            <Coords points="381,319 708,319 708,405 381,405"/>
+            <TextLine id="line_1487253658082_3101" custom="readingOrder {index:0;}">
+                <Coords points="696,336 390,342 390,397 696,391"/>
+                <Baseline points="390,394 696,388"/>
+                <TextEquiv>
+                    <Unicode>Hochgeehrter Herr! </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487253549097_3090" custom="readingOrder {index:2;}">
+            <Coords points="223,426 1146,426 1146,1279 223,1279"/>
+            <TextLine id="line_1487253671064_3102" custom="readingOrder {index:0;}">
+                <Coords points="1116,432 351,446 351,506 1116,492"/>
+                <Baseline points="351,491 1116,477"/>
+                <TextEquiv>
+                    <Unicode>Für Ihre generöse Ausgleichung meiner Rechnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253679968_3103" custom="readingOrder {index:1;}">
+                <Coords points="1112,495 251,506 251,547 1112,536"/>
+                <Baseline points="251,541 1112,530"/>
+                <TextEquiv>
+                    <Unicode>eine Expertise am großen Gotthardtunnel betreffend, sage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253750188_3105" custom="readingOrder {index:2;}">
+                <Coords points="464,537 437,537 437,561 461,572"/>
+                <Baseline points="437,552 461,563"/>
+                <TextEquiv>
+                    <Unicode>pp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253685005_3104" custom="readingOrder {index:3;}">
+                <Coords points="590,548 248,557 250,605 587,590"/>
+                <Baseline points="250,595 587,580"/>
+                <TextEquiv>
+                    <Unicode>Ihnen besten Dank. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253779290_3106" custom="readingOrder {index:4;}">
+                <Coords points="1142,571 354,589 351,644 1139,626"/>
+                <Baseline points="351,631 1139,613"/>
+                <TextEquiv>
+                    <Unicode>Zu gleicher Zeit erlaube mir noch in Betreff meines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253786479_3107" custom="readingOrder {index:5;}">
+                <Coords points="1057,628 255,645 255,689 1057,672"/>
+                <Baseline points="255,676 1057,659"/>
+                <TextEquiv>
+                    <Unicode>Vertrags noch einige Punkte Ihrer gef. Erwägung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253796256_3108" custom="readingOrder {index:6;}">
+                <Coords points="1114,683 557,688 270,690 270,737 557,735 1114,730"/>
+                <Baseline points="270,722 557,720 1114,715"/>
+                <TextEquiv>
+                    <Unicode>anheim zu geben. – Als ich nämlich neulich bei Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253803234_3109" custom="readingOrder {index:7;}">
+                <Coords points="1103,728 270,738 270,788 1103,778"/>
+                <Baseline points="270,775 1103,765"/>
+                <TextEquiv>
+                    <Unicode>Oberingenieur Hellwag war, stellte derselbe mir Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253808840_3110" custom="readingOrder {index:8;}">
+                <Coords points="1126,779 271,789 271,835 1126,825"/>
+                <Baseline points="271,821 1126,811"/>
+                <TextEquiv>
+                    <Unicode>Gerlich als Oberinspector vor. Ich weis nun nicht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253816959_3111" custom="readingOrder {index:9;}">
+                <Coords points="1099,829 284,836 284,882 1099,875"/>
+                <Baseline points="284,868 1099,861"/>
+                <TextEquiv>
+                    <Unicode>ob dies nicht ein von Östreich importirter Titel oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253824750_3112" custom="readingOrder {index:10;}">
+                <Coords points="1119,880 285,883 285,930 1119,927"/>
+                <Baseline points="285,915 1119,912"/>
+                <TextEquiv>
+                    <Unicode>ob derselbe bei der Gotthardbahn accredidirt ist. Sollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253834782_3113" custom="readingOrder {index:11;}">
+                <Coords points="1128,925 281,930 281,979 1128,974"/>
+                <Baseline points="281,965 1128,960"/>
+                <TextEquiv>
+                    <Unicode>dies leztere der Fall seyn, so glaube ich, daß die in meinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253841238_3114" custom="readingOrder {index:12;}">
+                <Coords points="1068,972 269,980 269,1028 1068,1020"/>
+                <Baseline points="269,1013 1068,1005"/>
+                <TextEquiv>
+                    <Unicode>Vertrag enthaltenen Verpflichtungen mir ohne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253847204_3115" custom="readingOrder {index:13;}">
+                <Coords points="1137,1013 282,1029 282,1078 1137,1062"/>
+                <Baseline points="282,1065 1137,1049"/>
+                <TextEquiv>
+                    <Unicode>Zweifel die 2t technische Stellung bei der Gotthardbahn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253852951_3116" custom="readingOrder {index:14;}">
+                <Coords points="1090,1060 291,1074 291,1123 1090,1109"/>
+                <Baseline points="291,1110 1090,1096"/>
+                <TextEquiv>
+                    <Unicode>anweiste, und daß der Titel eines Oberinspectors –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253857650_3117" custom="readingOrder {index:15;}">
+                <Coords points="1066,1115 292,1124 292,1169 1066,1160"/>
+                <Baseline points="292,1154 1066,1145"/>
+                <TextEquiv>
+                    <Unicode>obiger Fall vorausgesetzt – mit meinem Amte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253865727_3118" custom="readingOrder {index:16;}">
+                <Coords points="1077,1166 292,1169 292,1219 1077,1216"/>
+                <Baseline points="292,1204 1077,1201"/>
+                <TextEquiv>
+                    <Unicode>verbunden seyn sollte. Ich halte sonst wenig auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487253872973_3119" custom="readingOrder {index:17;}">
+                <Coords points="1071,1215 293,1220 291,1283 1069,1278"/>
+                <Baseline points="293,1255 1071,1250"/>
+                <TextEquiv>
+                    <Unicode>Titel, in vorliegendem Fall handelt es sich aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:23:25</Created>
+		<LastChange>2017-02-17T12:32:15.358+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000026.jpg" imageWidth="1124" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487331135444" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="TextRegion_1487261717543_118" />
+				<RegionRefIndexed index="1" regionRef="TextRegion_1487261717543_117" />
+				<RegionRefIndexed index="2" regionRef="TextRegion_1487261716280_115" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="TextRegion_1487261717543_118">
+			<Coords points="1092,133 578,133 578,11 1092,11" />
+			<TextLine id="line_1486632479740_266">
+				<Coords points="999,31 688,33 688,98 999,96" />
+				<TextEquiv>
+					<Unicode>Glarus den 27. Nov. 1842.</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="TextRegion_1487261717543_117">
+			<Coords points="629,270 204,270 204,199 629,199" />
+			<TextLine id="line_1486632488445_267">
+				<Coords points="590,214 264,215 264,256 590,255" />
+				<TextEquiv>
+					<Unicode>Mein theurer Escher!</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+		<TextRegion id="TextRegion_1487261716280_115">
+			<Coords points="1119,1295 204,1296 205,286 1107,280" />
+			<TextLine id="line_1486632504017_268">
+				<Coords points="1101,289 391,299 391,357 1101,347" />
+				<TextEquiv>
+					<Unicode>Nachdem ich die dringendsten praktischen Geschäfte, welche mich</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632513042_269">
+				<Coords points="1087,341 259,358 259,407 1087,390" />
+				<TextEquiv>
+					<Unicode>bei meiner Rückkehr erwarteten, beseitigt habe, beeile ich mich, durch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632627430_270">
+				<Coords points="1108,389 975,396 255,408 255,449 975,437 1108,430" />
+				<TextEquiv>
+					<Unicode>Uebersendung des beiliegenden Buches deinem Wunsche zu entsprechen.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632639653_271">
+				<Coords points="1098,426 976,435 255,450 255,494 976,479 1098,470" />
+				<TextEquiv>
+					<Unicode>Es freut mich dabei recht, dir nach so vielen wissenschaftlichen Diensten, die</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632762950_272">
+				<Coords points="1101,477 257,495 257,537 1101,519" />
+				<TextEquiv>
+					<Unicode>du mir schon geleistet hast, auch einmal einen kleinen Gegendienst erwei-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632770370_273">
+				<Coords points="1077,523 257,538 257,583 1077,568" />
+				<TextEquiv>
+					<Unicode>sen zu können. Zu deinen neuen philosophischen Studien wünsche ich dir</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632785196_274">
+				<Coords points="1104,561 924,570 264,584 264,628 924,614 1104,605" />
+				<TextEquiv>
+					<Unicode>den besten u. gedeihlichsten Fortgang. Das tiefe Bedürfniß darnach, welches</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632793727_275">
+				<Coords points="1106,609 263,629 263,674 1106,654" />
+				<TextEquiv>
+					<Unicode>du zu fühlen angefangen hast, gereicht dir in meinen Augen zur größ-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632809371_276">
+				<Coords points="1103,644 978,654 263,675 263,720 978,699 1103,689" />
+				<TextEquiv>
+					<Unicode>ten Ehre; es ist mir ein schöner Beweis dafür, daß dein Geist nach viel-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632817844_277">
+				<Coords points="1087,695 256,721 256,766 1087,740" />
+				<TextEquiv>
+					<Unicode>seitigem Erkennen strebt u. daß du nicht ausschließlich in die Erforschung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632826367_278">
+				<Coords points="1092,736 959,745 263,767 263,813 959,791 1092,782" />
+				<TextEquiv>
+					<Unicode>von Einzelnheiten, zu denen du durch deine wissenschaftliche Richtung zu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632837976_279">
+				<Coords points="1113,784 691,802 265,814 265,860 691,848 1113,830" />
+				<TextEquiv>
+					<Unicode>nächst hingeführt wirst, zu versinken, sondern dir dabei einen umfassenden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632846452_280">
+				<Coords points="1092,828 970,836 262,861 262,906 970,881 1092,873" />
+				<TextEquiv>
+					<Unicode>Blick auf das Allgemeine des menschlichen Wissens, als sichern Wegweiser</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632861170_281">
+				<Coords points="1097,875 947,887 259,907 259,950 947,930 1097,918" />
+				<TextEquiv>
+					<Unicode>durch das Labyrinth der die Gegenwart durchkreuzenden Ideen u. An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632870022_282">
+				<Coords points="1103,928 868,941 258,951 258,993 868,983 1103,970" />
+				<TextEquiv>
+					<Unicode>sichten, zu erhalten oder zu erwerben wünschest. Ich bin auch überzeugt,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632877005_283">
+				<Coords points="1106,971 905,981 260,994 260,1042 905,1029 1106,1019" />
+				<TextEquiv>
+					<Unicode>daß bei dem in deiner Natur liegenden Ernste, mit welchem du jede</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632964330_284">
+				<Coords points="1113,1015 972,1027 818,1033 264,1043 264,1089 818,1079 972,1073 1113,1061" />
+				<TextEquiv>
+					<Unicode>Sache anzu ergreifen pflegst, das gewünschte Resultat dir nicht entge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486632990424_285">
+				<Coords points="1103,1066 807,1082 264,1090 264,1136 807,1128 1103,1112" />
+				<TextEquiv>
+					<Unicode>hen wird, u. ich hoffe, daß der gewaltige Hegel, der mit riesenhafter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486633001564_286">
+				<Coords points="1095,1116 725,1129 269,1137 269,1186 725,1178 1095,1165" />
+				<TextEquiv>
+					<Unicode>Ausdauer u. Consequenz sein – mindestens jedenfalls geistvolles – Sy-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486633018250_287">
+				<Coords points="1105,1160 903,1172 266,1186 266,1235 903,1221 1105,1209" />
+				<TextEquiv>
+					<Unicode>stem durch alle Erscheinungen der physischen u. geistigen Welt hin-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486633027007_288">
+				<Coords points="1112,1212 899,1227 264,1236 264,1276 899,1267 1112,1252" />
+				<TextEquiv>
+					<Unicode>durchgeführt hat, dir zusagen werde. Mich wenigstens hat diese großar-</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

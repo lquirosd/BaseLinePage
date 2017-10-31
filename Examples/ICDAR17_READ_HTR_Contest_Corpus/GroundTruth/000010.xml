@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:23:06</Created>
+        <LastChange>2017-03-27T17:59:14.560+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000010.jpg" imageWidth="1195" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630354622" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="21,1388 21,46 1182,46 1182,1421 105,1413"/>
+            <TextLine id="line_1486552646983_93" custom="readingOrder {index:0;}">
+                <Coords points="1115,67 42,46 42,101 1115,125"/>
+                <Baseline points="42,89 1115,113"/>
+                <TextEquiv>
+                    <Unicode>Nachdem sich nun aber ein Redner, ich weiß nicht mehr dagegen od. dafür erhoben, stand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552658823_94" custom="readingOrder {index:1;}">
+                <Coords points="1117,126 46,96 46,137 1117,167"/>
+                <Baseline points="46,124 1117,154"/>
+                <TextEquiv>
+                    <Unicode>einer nach dem andern auf, u. so wurde diese letzte Verhandlung zu einer der längsten u.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552668448_95" custom="readingOrder {index:2;}">
+                <Coords points="1133,168 37,132 37,177 1133,213"/>
+                <Baseline points="37,164 1133,200"/>
+                <TextEquiv>
+                    <Unicode>lebhaftesten. – Zum 2ten Male trat Bordier auf; sein Gesicht erglänzte, seine Augen funkelten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552691054_96" custom="readingOrder {index:3;}">
+                <Coords points="1140,214 777,202 39,173 39,218 777,247 1140,259"/>
+                <Baseline points="39,203 777,232 1140,244"/>
+                <TextEquiv>
+                    <Unicode>sein ganzer Körper war in Bewegung; begeisternd wirkte seine Rede u. das Gemüth mit unwider-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552708777_97" custom="readingOrder {index:4;}">
+                <Coords points="1148,259 1019,249 29,208 29,255 1019,296 1148,306"/>
+                <Baseline points="29,243 1019,284 1148,294"/>
+                <TextEquiv>
+                    <Unicode>stehlicher Gewalt hinreißend, u. vollends der Schluß: «u. kehre ich aus der blutigen Schlacht zurück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552718035_98" custom="readingOrder {index:5;}">
+                <Coords points="1129,307 30,259 30,302 1129,350"/>
+                <Baseline points="30,287 1129,335"/>
+                <TextEquiv>
+                    <Unicode>so wünsche ich sagen zu können: ‹Ich hatt' einen Kameraden›» etc. – Rauschender Beifall folgte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552725685_99" custom="readingOrder {index:6;}">
+                <Coords points="1128,350 35,301 35,350 1128,399"/>
+                <Baseline points="35,336 1128,385"/>
+                <TextEquiv>
+                    <Unicode>auf diese Worte. – Doch nicht auf Alle machte diese Rede denselben Eindruck. Je weniger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552736119_100" custom="readingOrder {index:7;}">
+                <Coords points="1110,400 36,343 36,391 1110,448"/>
+                <Baseline points="36,376 1110,433"/>
+                <TextEquiv>
+                    <Unicode>Überlegung u. je mehr Verkennung der Schwierigkeiten von den Rednern an Tag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552754431_101" custom="readingOrder {index:8;}">
+                <Coords points="1137,449 35,388 35,437 1137,498"/>
+                <Baseline points="35,423 1137,484"/>
+                <TextEquiv>
+                    <Unicode>gelegt wurde, desto mehr fanden sich Einzelne zur Überlegung angeregt. So auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552775587_102" custom="readingOrder {index:9;}">
+                <Coords points="1130,499 40,433 40,478 1130,544"/>
+                <Baseline points="40,466 1130,532"/>
+                <TextEquiv>
+                    <Unicode>ich unter andern. – Es schien mir einer Versammlung von Gebildeten nicht würdig zu sein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552793192_103" custom="readingOrder {index:10;}">
+                <Coords points="1124,545 839,538 31,487 31,531 839,582 1124,589"/>
+                <Baseline points="31,516 839,567 1124,574"/>
+                <TextEquiv>
+                    <Unicode>daß m. einen Beschluß fasse zur Bildung eines Freikorps, ohne vorher sich über Zeit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552816719_104" custom="readingOrder {index:11;}">
+                <Coords points="1123,590 862,585 30,523 30,571 862,633 1123,638"/>
+                <Baseline points="30,558 862,620 1123,625"/>
+                <TextEquiv>
+                    <Unicode>Zweck u. Wie der Bildung gehörig berathen zu haben, darum ergriff ich gegen meinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552830857_105" custom="readingOrder {index:12;}">
+                <Coords points="1130,639 773,630 42,568 42,612 773,674 1130,683"/>
+                <Baseline points="42,599 773,661 1130,670"/>
+                <TextEquiv>
+                    <Unicode>frühern Entschluß das Wort. Ich suchte auseinander zu setzen, 1o daß wir uns jedenfalls einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552846855_106" custom="readingOrder {index:13;}">
+                <Coords points="1169,682 940,684 48,610 48,653 940,727 1169,725"/>
+                <Baseline points="48,641 940,715 1169,713"/>
+                <TextEquiv>
+                    <Unicode>Obersten Commando unterziehen müßten u. daß wir wahrscheinlich von der Tagsatzung zuvor als Freikorps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552899166_107" custom="readingOrder {index:14;}">
+                <Coords points="1124,728 958,724 478,698 38,658 38,701 478,741 958,767 1124,771"/>
+                <Baseline points="38,688 478,728 958,754 1124,758"/>
+                <TextEquiv>
+                    <Unicode>anerkannt werden müßten 2o daß ein jedes Korps, wenn es nicht größern Schaden als Nutzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552909619_108" custom="readingOrder {index:15;}">
+                <Coords points="1104,772 899,769 38,701 38,746 899,814 1104,817"/>
+                <Baseline points="38,731 899,799 1104,802"/>
+                <TextEquiv>
+                    <Unicode>stiften soll, im Sinne des Schlachtplanes agiren müsse u. folglich geschickte Officire an der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552929893_109" custom="readingOrder {index:16;}">
+                <Coords points="1123,818 861,809 39,743 39,793 861,859 1123,868"/>
+                <Baseline points="39,778 861,844 1123,853"/>
+                <TextEquiv>
+                    <Unicode>Spitze nöthig hätten 3o daß je ungeübter ein Corps sei, desto geschicktere Officire von Nöthen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552938938_110" custom="readingOrder {index:17;}">
+                <Coords points="1133,869 46,788 46,837 1133,918"/>
+                <Baseline points="46,825 1133,906"/>
+                <TextEquiv>
+                    <Unicode>seien 4o daß wir bei dem Mangel überhaupt an solchen überhaupt in der Schweiz keine erlangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552972529_111" custom="readingOrder {index:18;}">
+                <Coords points="1129,919 983,915 47,842 47,892 983,965 1135,962"/>
+                <Baseline points="47,871 983,944 1129,948"/>
+                <TextEquiv>
+                    <Unicode>würden 5o daß, wenn sich das Freicorps nur auf den Zof.Verein ausdehnen sollte, mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552988558_112" custom="readingOrder {index:19;}">
+                <Coords points="1166,970 1100,955 938,956 49,891 50,930 943,1002 1101,1006 1166,1032"/>
+                <Baseline points="50,919 943,991 1101,995 1166,1021"/>
+                <TextEquiv>
+                    <Unicode>Abzug derer, welche schon in andere Corps eingetheilt sind, od. erst noch von den Regierungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486552998651_113" custom="readingOrder {index:20;}">
+                <Coords points="1148,1020 45,940 45,977 1145,1070"/>
+                <Baseline points="45,967 1145,1060"/>
+                <TextEquiv>
+                    <Unicode>in Anspruch genommen würden, od. sonst sich verhindert sähen, das Häuflein sehr klein werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553014479_114" custom="readingOrder {index:21;}">
+                <Coords points="1104,1071 801,1055 46,992 46,1033 801,1096 1104,1112"/>
+                <Baseline points="46,1015 801,1078 1104,1094"/>
+                <TextEquiv>
+                    <Unicode>dürfte, u. s. w. – Meines Erachtens sei es klüger gehandelt, u. des Zofingers eb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553030692_115" custom="readingOrder {index:22;}">
+                <Coords points="1169,1116 52,1026 52,1070 1169,1164"/>
+                <Baseline points="52,1061 1169,1155"/>
+                <TextEquiv>
+                    <Unicode>wenigstens eben so würdig, wenn man sich frage, wie man dem Vaterlande wohl nützlicher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553044533_116" custom="readingOrder {index:23;}">
+                <Coords points="1118,1165 722,1133 46,1094 46,1130 722,1181 1118,1201"/>
+                <Baseline points="46,1117 722,1168 1118,1188"/>
+                <TextEquiv>
+                    <Unicode>dienen könne, als: wie angenehmer. Kein Zof. werde sich dem heiligen Kampfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553052872_117" custom="readingOrder {index:24;}">
+                <Coords points="1120,1202 33,1133 33,1178 1120,1247"/>
+                <Baseline points="33,1165 1120,1234"/>
+                <TextEquiv>
+                    <Unicode>fürs Vaterland entziehen, dann aber nehme jeder die Stelle ein, in welcher er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553062802_118" custom="readingOrder {index:25;}">
+                <Coords points="1099,1248 783,1234 50,1185 50,1230 783,1279 1099,1293"/>
+                <Baseline points="50,1215 783,1264 1099,1278"/>
+                <TextEquiv>
+                    <Unicode>am meistenzu leisten vor zu können vorsieht etc. Hebler von Bern, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553112156_119" custom="readingOrder {index:26;}">
+                <Coords points="1132,1294 957,1291 50,1230 50,1278 957,1339 1132,1342"/>
+                <Baseline points="50,1265 957,1326 1132,1329"/>
+                <TextEquiv>
+                    <Unicode>bereits im Bernerischen Contingent eingetheilt d u. Ober Lieutenant ist ......</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553128973_120" custom="readingOrder {index:27;}">
+                <Coords points="1125,1343 621,1323 41,1281 41,1322 621,1364 1125,1384"/>
+                <Baseline points="41,1311 621,1353 1125,1373"/>
+                <TextEquiv>
+                    <Unicode>sprach nach mir im gleichen Sinne u. rieth nach gründlicher Auseinandersetzung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553144481_121" custom="readingOrder {index:28;}">
+                <Coords points="998,1385 613,1373 49,1348 44,1393 605,1412 998,1413"/>
+                <Baseline points="49,1373 613,1398 998,1410"/>
+                <TextEquiv>
+                    <Unicode>seiner Gründe, von einem Beschlusse für jetzo wenigenst noch abzustehen, </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

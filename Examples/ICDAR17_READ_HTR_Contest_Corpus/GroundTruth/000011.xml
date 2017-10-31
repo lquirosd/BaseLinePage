@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:42</Created>
+        <LastChange>2017-03-27T17:59:59.867+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000011.jpg" imageWidth="1123" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630399939" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487324167923_202"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487324167923_201"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487324167923_202" custom="readingOrder {index:0;}">
+            <Coords points="816,180 129,180 129,57 816,57"/>
+            <TextLine id="line_1486654834239_1130" custom="readingOrder {index:0;}">
+                <Coords points="758,71 175,85 175,157 758,143"/>
+                <Baseline points="175,148 758,134"/>
+                <TextEquiv>
+                    <Unicode>Mein hochgeachteter Herr & Freund!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487324167923_201" custom="readingOrder {index:1;}">
+            <Coords points="57,1399 53,180 1107,182 1114,1363"/>
+            <TextLine id="line_1486654839542_1131" custom="readingOrder {index:0;}">
+                <Coords points="1101,181 193,202 193,267 1101,242"/>
+                <Baseline points="193,251 1101,226"/>
+                <TextEquiv>
+                    <Unicode>Es hat in freundschaftlicher Beantwortung Ihres Geehrten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654845006_1132" custom="readingOrder {index:1;}">
+                <Coords points="1082,248 131,268 131,325 1082,305"/>
+                <Baseline points="131,307 1082,287"/>
+                <TextEquiv>
+                    <Unicode>v 14 dß  die gestrige Besprechung in fragl. Eisenbahn An-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654849685_1133" custom="readingOrder {index:2;}">
+                <Coords points="1105,290 90,326 90,383 1105,347"/>
+                <Baseline points="90,368 1105,332"/>
+                <TextEquiv>
+                    <Unicode>gelegenheit mit den Präsidenten der um Zürich liegenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654853990_1134" custom="readingOrder {index:3;}">
+                <Coords points="1076,349 105,384 105,432 1076,397"/>
+                <Baseline points="105,419 1076,384"/>
+                <TextEquiv>
+                    <Unicode>Gemeinden, wie wohl die Versammlung, wie ich annehme der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654858728_1135" custom="readingOrder {index:4;}">
+                <Coords points="1096,403 126,433 126,479 1096,449"/>
+                <Baseline points="126,464 1096,434"/>
+                <TextEquiv>
+                    <Unicode>ungünstigen Witterung wegen wenig zahlreich besucht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654872869_1136" custom="readingOrder {index:5;}">
+                <Coords points="1105,449 579,469 107,480 107,531 579,520 1105,500"/>
+                <Baseline points="107,516 579,505 1105,485"/>
+                <TextEquiv>
+                    <Unicode>zu dem Resultate geführt, daß wohl die meisten dieser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654887712_1137" custom="readingOrder {index:6;}">
+                <Coords points="1087,500 565,522 102,532 102,581 565,571 1087,549"/>
+                <Baseline points="102,568 565,558 1087,536"/>
+                <TextEquiv>
+                    <Unicode>Gemeinden sich mit Aktien betheiligen werden & zwar je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654897175_1138" custom="readingOrder {index:7;}">
+                <Coords points="1079,562 723,577 117,582 117,630 723,625 1079,610"/>
+                <Baseline points="117,614 723,609 1079,594"/>
+                <TextEquiv>
+                    <Unicode>nach ihren Verhältnissen von 2 bis auf 12 p Gemeinde; – es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654908461_1139" custom="readingOrder {index:8;}">
+                <Coords points="1059,605 757,619 453,629 80,631 80,682 453,680 757,670 1059,656"/>
+                <Baseline points="80,669 453,667 757,657 1059,643"/>
+                <TextEquiv>
+                    <Unicode>hat diese Versammlung darum nicht früher statt gefunden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654915055_1140" custom="readingOrder {index:9;}">
+                <Coords points="1111,665 507,681 117,683 117,723 507,721 1111,704"/>
+                <Baseline points="117,715 507,713 1111,696"/>
+                <TextEquiv>
+                    <Unicode>weil bis auf letzten Samstag der Prospectus nicht erschienen war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487324199911_203" custom="readingOrder {index:10;}">
+                <Coords points="412,724 361,719 361,743 412,748"/>
+                <Baseline points="361,737 412,742"/>
+                <TextEquiv>
+                    <Unicode>Tage </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654923966_1141" custom="readingOrder {index:11;}">
+                <Coords points="1107,711 745,722 125,743 124,779 747,767 1113,754"/>
+                <Baseline points="124,764 747,752 1113,741"/>
+                <TextEquiv>
+                    <Unicode>& doch auch einige zur nähern Prüfung dazwischen liegen sollten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654929133_1142" custom="readingOrder {index:12;}">
+                <Coords points="1111,757 731,768 100,780 100,830 731,818 1111,807"/>
+                <Baseline points="100,815 731,803 1111,792"/>
+                <TextEquiv>
+                    <Unicode>auch war man in der Versammlung überhaupt der Ansicht, daß diesem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654947102_1143" custom="readingOrder {index:13;}">
+                <Coords points="1113,803 790,816 109,831 109,880 790,865 1113,848"/>
+                <Baseline points="109,866 790,851 1113,836"/>
+                <TextEquiv>
+                    <Unicode>Prospecte zu wenig Verbreitung zugedacht worden sei & man habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654955660_1144" custom="readingOrder {index:14;}">
+                <Coords points="1108,848 743,867 116,881 116,929 743,915 1108,896"/>
+                <Baseline points="116,914 743,900 1108,881"/>
+                <TextEquiv>
+                    <Unicode>erwartet, es werde jedem Gemeindrathe hievon eine gewisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654968412_1145" custom="readingOrder {index:15;}">
+                <Coords points="1110,897 702,917 109,929 109,980 702,968 1110,948"/>
+                <Baseline points="109,964 702,952 1110,932"/>
+                <TextEquiv>
+                    <Unicode>Anzahl zur Vertheilung mitgetheilt werden, denn wer nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486654975909_1146" custom="readingOrder {index:16;}">
+                <Coords points="1105,943 730,966 84,981 84,1034 730,1019 1105,996"/>
+                <Baseline points="84,1020 730,1005 1105,982"/>
+                <TextEquiv>
+                    <Unicode>zufällig Abonnent der N: ZZtg od Eidgn: Ztg sei, habe vergebens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655004808_1147" custom="readingOrder {index:17;}">
+                <Coords points="1063,1002 537,1028 111,1035 111,1082 537,1075 1063,1049"/>
+                <Baseline points="111,1069 537,1062 1063,1036"/>
+                <TextEquiv>
+                    <Unicode>auf dieses Akten Stück gewartet; – nichts desto weniger war</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655011234_1148" custom="readingOrder {index:18;}">
+                <Coords points="1109,1050 718,1072 110,1083 110,1129 718,1118 1109,1096"/>
+                <Baseline points="110,1114 718,1103 1109,1081"/>
+                <TextEquiv>
+                    <Unicode>man dem Unternehmen günstig & auch bereitwillig die nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655017691_1149" custom="readingOrder {index:19;}">
+                <Coords points="1069,1106 712,1123 102,1129 102,1179 712,1173 1069,1156"/>
+                <Baseline points="102,1164 712,1158 1069,1141"/>
+                <TextEquiv>
+                    <Unicode>vertretenen Gemeinden noch persönlich für die Betheilung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655024615_1150" custom="readingOrder {index:20;}">
+                <Coords points="1111,1153 691,1173 104,1180 104,1230 691,1223 1111,1203"/>
+                <Baseline points="104,1215 691,1208 1111,1188"/>
+                <TextEquiv>
+                    <Unicode>einzuladen; – die einen der Vorstände werden solches noch vor Samstag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655033944_1151" custom="readingOrder {index:21;}">
+                <Coords points="1113,1199 561,1223 104,1231 104,1282 561,1274 1113,1250"/>
+                <Baseline points="104,1266 561,1258 1113,1234"/>
+                <TextEquiv>
+                    <Unicode>vor die Gemeinden bringen, die andern betrachten es, gewissermaßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655042554_1152" custom="readingOrder {index:22;}">
+                <Coords points="1049,1251 100,1283 100,1333 1049,1301"/>
+                <Baseline points="100,1320 1049,1288"/>
+                <TextEquiv>
+                    <Unicode>als reine Verwaltungssache, die in die Kathegorie der Darleihen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486655050245_1153" custom="readingOrder {index:23;}">
+                <Coords points="1058,1300 878,1309 77,1334 77,1376 878,1351 1058,1342"/>
+                <Baseline points="77,1366 878,1341 1058,1332"/>
+                <TextEquiv>
+                    <Unicode>gehöre & daher die Genehmigung der Gemeinde nicht bedürfe, </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

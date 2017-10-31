@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:24:57</Created>
+		<LastChange>2017-02-17T10:18:26.798+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000028.jpg" imageWidth="1083" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487323107070" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="229,401 1067,401 1067,1297 229,1297" />
+			<TextLine id="line_1486649895226_915">
+				<Coords points="1008,418 732,414 295,425 295,490 732,479 1008,483" />
+				<TextEquiv>
+					<Unicode>Abends war Versammlung der Konservativen Notabeln &. heute</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649905434_916">
+				<Coords points="1038,483 944,477 695,476 290,490 290,531 695,517 944,518 1038,524" />
+				<TextEquiv>
+					<Unicode>früh (Hr. Zehnder theilt uns dieß so eben durch Cirkular mit)</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649913068_917">
+				<Coords points="1040,524 907,510 292,532 292,575 907,553 1040,567" />
+				<TextEquiv>
+					<Unicode>erschienen die Herren Direktor Escher-Heß &. Oberstlt. Muralt als</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649937493_918">
+				<Coords points="1055,573 903,555 799,560 281,576 281,616 799,600 903,595 1055,613" />
+				<TextEquiv>
+					<Unicode>Deputation bei Zehnder &. eröffneten ihm, daß die Bürgerschaft</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649951117_919">
+				<Coords points="1041,609 886,598 671,602 290,616 290,658 671,644 886,640 1041,651" />
+				<TextEquiv>
+					<Unicode>wahrscheinlich insgesammt nicht illuminiren werde &. zwar sei auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649957672_920">
+				<Coords points="1047,638 792,635 289,659 289,703 792,679 1047,682" />
+				<TextEquiv>
+					<Unicode>die Stimmung entschieden gegen die Illumination, wenn sie auch</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649965175_921">
+				<Coords points="1027,685 810,678 290,704 290,742 810,716 1027,723" />
+				<TextEquiv>
+					<Unicode>auf einen andern Tag verlegt würde (natürlich, denn für</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649972604_922">
+				<Coords points="1026,714 828,712 285,743 285,783 828,752 1026,754" />
+				<TextEquiv>
+					<Unicode>Dr. Furrer &. Dr. Steiger die Stadt Zürich zu illuminiren,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649983477_923">
+				<Coords points="1038,764 700,761 283,784 283,820 700,797 1038,800" />
+				<TextEquiv>
+					<Unicode>denke Dir dieß haarsträubende Gefühl in der Brust eines</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486649993686_924">
+				<Coords points="1046,804 985,791 800,789 279,821 279,864 800,832 985,834 1046,847" />
+				<TextEquiv>
+					<Unicode>Zopfs!). Zehnder schrieb sehr deh- &. wehmüthig, wie man ihn</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650004825_925">
+				<Coords points="1058,848 786,837 275,865 275,903 786,875 1058,886" />
+				<TextEquiv>
+					<Unicode>gegen seine Ueberzeugung zu dem unglücklichen Stichentscheid ge-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650012296_926">
+				<Coords points="1041,881 788,873 281,904 281,945 788,914 1041,922" />
+				<TextEquiv>
+					<Unicode>drängt, Anträge stellte er indeß nicht. Bollier schrieb darunter,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650032429_927">
+				<Coords points="1031,922 925,910 277,946 277,987 925,951 1031,963" />
+				<TextEquiv>
+					<Unicode>die Sache sei durch frühere Beschlüsse erledigt; ich ebenso;</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650057161_928">
+				<Coords points="1041,968 840,953 275,988 275,1025 840,990 1041,1005" />
+				<TextEquiv>
+					<Unicode>bei den andern läuft das Cirkular erst.Zehnder hat also</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650064589_929">
+				<Coords points="1048,1016 917,997 277,1026 277,1063 917,1034 1048,1053" />
+				<TextEquiv>
+					<Unicode>Muth &. Kopf verloren, Keller ist ganz übergetreten, Gottlob</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650073535_930">
+				<Coords points="1052,1053 985,1033 278,1063 278,1102 985,1072 1052,1092" />
+				<TextEquiv>
+					<Unicode>aber doch Zangger wenigstens bis dahin festgeblieben. Mit dem</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650082839_931">
+				<Coords points="1048,1093 915,1074 272,1103 272,1141 915,1112 1048,1131" />
+				<TextEquiv>
+					<Unicode>liberalen Jkr. Mejer ist es soweit gekommen, daß er mich nicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650096798_932">
+				<Coords points="925,1118 279,1142 279,1183 925,1159" />
+				<TextEquiv>
+					<Unicode>einmal mehr grüßt &. beständig schweigend murrt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650102905_933">
+				<Coords points="1047,1181 828,1164 400,1184 400,1229 828,1209 1047,1226" />
+				<TextEquiv>
+					<Unicode>Gestern Abends kam ich nach beendigter Festkommission</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486650111712_934">
+				<Coords points="1057,1221 828,1202 283,1230 283,1273 828,1245 1057,1264" />
+				<TextEquiv>
+					<Unicode>aufs Café lit. . Bald erschien auch Spyri &. wie ich alsobald aus </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

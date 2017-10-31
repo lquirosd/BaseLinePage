@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:24:02</Created>
+		<LastChange>2017-02-17T09:52:54.733+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000021.jpg" imageWidth="1173" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487321575570" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="136,51 1165,51 1165,1353 136,1353" />
+			<TextLine id="line_1486641061743_619">
+				<Coords points="1137,73 153,61 153,127 1137,139" />
+				<Baseline points="153,110 1137,122" />
+				<TextEquiv>
+					<Unicode>beinahe, wie Brändli es gethan hat, Dir dazu condoliren. Daß Dir die Staatsschreiberstelle</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641069032_620">
+				<Coords points="1141,140 155,127 155,187 1141,200" />
+				<Baseline points="155,167 1141,180" />
+				<TextEquiv>
+					<Unicode>aus vielen Gründen unangenehm u. lästig ist, begreife ich vollständig u. finde die energi-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641074414_621">
+				<Coords points="1149,201 151,181 151,246 1149,266" />
+				<Baseline points="151,227 1149,247" />
+				<TextEquiv>
+					<Unicode>schen Ausdrücke, die Du darüber in Deinem lieben Briefe an mich gebraucht hast, keines-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641080264_622">
+				<Coords points="1150,267 162,238 162,298 1150,327" />
+				<Baseline points="162,283 1150,312" />
+				<TextEquiv>
+					<Unicode>wegs übertrieben. Ein sehr großes u. anerkennenswerthes Opfer hast Du durch die An-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641086458_623">
+				<Coords points="1141,328 157,307 157,361 1141,382" />
+				<Baseline points="157,343 1141,364" />
+				<TextEquiv>
+					<Unicode>nahme der Stelle jedenfalls gebracht; aber ich kann die Frage nicht unterdrücken: war ein sol-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641091924_624">
+				<Coords points="1152,383 162,359 162,422 1152,446" />
+				<Baseline points="162,403 1152,427" />
+				<TextEquiv>
+					<Unicode>ches Opfer, das sich nicht bloß auf äußere Verhältnisse, sondern auf die Persönlichkeit selbst</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641107369_625">
+				<Coords points="1147,447 1128,439 162,409 162,470 1128,500 1147,508" />
+				<Baseline points="162,454 1128,484 1147,492" />
+				<TextEquiv>
+					<Unicode>u. ihre Entwickelung bezieht, auch nothwendig? Jedenfalls nur unter der Voraussetz-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641128615_626">
+				<Coords points="1117,509 165,483 165,537 1117,563" />
+				<Baseline points="165,520 1117,546" />
+				<TextEquiv>
+					<Unicode>ung, daß sich unter den Liberalen Zürich's kein andrer Mann fand, der die erste</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641134514_627">
+				<Coords points="1133,564 173,541 173,589 1133,612" />
+				<Baseline points="173,580 1133,603" />
+				<TextEquiv>
+					<Unicode>Staatsschreiberstelle zu übernehmen fähig war; eine Annahme, die mir etwas schwer</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641139883_628">
+				<Coords points="247,610 177,613 177,658 247,655" />
+				<Baseline points="177,635 247,632" />
+				<TextEquiv>
+					<Unicode>fällt.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641163045_629">
+				<Coords points="1139,659 317,644 317,719 1139,734" />
+				<Baseline points="317,699 1139,714" />
+				<TextEquiv>
+					<Unicode>Es freut mich, daß Du mit dem Verlaufe unsers Schützenfestes zufrieden</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641168937_630">
+				<Coords points="1148,735 183,707 183,770 1148,798" />
+				<Baseline points="183,753 1148,781" />
+				<TextEquiv>
+					<Unicode>bist; ich glaube wirklich auch, wir dürfen mit Freude auf dasselbe zurückblicken. Mit</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641182075_631">
+				<Coords points="1147,799 180,774 180,831 1147,856" />
+				<Baseline points="180,813 1147,838" />
+				<TextEquiv>
+					<Unicode>Stolz sage ich darum nicht, weil die Hauptsache, die Vermeidung politischer Zänkereien</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641187166_632">
+				<Coords points="1151,857 188,828 188,887 1151,916" />
+				<Baseline points="188,870 1151,899" />
+				<TextEquiv>
+					<Unicode>u. leidenschaftlicher Ausbrüche des Partheiwesens, mehr dem guten Geiste, der in den Leu-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641192737_633">
+				<Coords points="1128,917 190,886 190,944 1128,975" />
+				<Baseline points="190,925 1128,956" />
+				<TextEquiv>
+					<Unicode>ten herrschte, als den, wenn auch löblichen, Bemühungen des Comité's zu verdanken ist.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641199264_634">
+				<Coords points="1112,976 191,946 191,1011 1112,1041" />
+				<Baseline points="191,991 1112,1021" />
+				<TextEquiv>
+					<Unicode>Die von Bern aus, ohne unser Wissen geschehne Ausschreibung einer öffentlichen Berathung</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641217802_635">
+				<Coords points="1130,1042 189,1001 189,1071 1130,1112" />
+				<Baseline points="189,1049 1130,1090" />
+				<TextEquiv>
+					<Unicode>in der Speisehütte über die Gründung eines schweizerischen Volksvereins war eine unsägliche</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641232421_636">
+				<Coords points="1126,1113 594,1073 185,1059 185,1129 594,1143 1126,1183" />
+				<Baseline points="185,1111 594,1125 1126,1165" />
+				<TextEquiv>
+					<Unicode>Thorheit, die uns auch in finanzieller Beziehung, mit Rücksicht auf verminderten Festbe-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641252515_637">
+				<Coords points="1148,1184 659,1150 191,1129 191,1196 659,1217 1148,1251" />
+				<Baseline points="191,1173 659,1194 1148,1228" />
+				<TextEquiv>
+					<Unicode>such aus den kleinen Kantonen, vielleicht auch aus der Stadt Zürich, wesentlich geschadet</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486641271815_638">
+				<Coords points="1144,1252 673,1212 189,1184 189,1251 673,1279 1144,1319" />
+				<Baseline points="189,1237 673,1265 1144,1305" />
+				<TextEquiv>
+					<Unicode>hat. Sie wurde auch von Imobersteg selbst, dem ad hoc Deputirten, förmlich désavouirt, </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

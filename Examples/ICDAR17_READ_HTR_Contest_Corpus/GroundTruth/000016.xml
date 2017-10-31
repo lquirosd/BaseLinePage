@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:23:50</Created>
+        <LastChange>2017-03-27T18:14:27.025+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000016.jpg" imageWidth="1103" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631267101" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="20,29 1102,28 1087,1317 18,1312"/>
+            <TextLine id="line_1486639301266_531" custom="readingOrder {index:0;}">
+                <Coords points="216,40 44,40 44,97 216,97"/>
+                <Baseline points="44,68 216,68"/>
+                <TextEquiv>
+                    <Unicode>schloßnen Führer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639312986_532" custom="readingOrder {index:1;}">
+                <Coords points="1103,120 527,105 208,102 180,152 525,167 1101,182"/>
+                <Baseline points="180,135 525,150 1101,165"/>
+                <TextEquiv>
+                    <Unicode>Du hast mich eingeladen, in Zukunft wieder Correspondenzen in die N.Z.Z. einzusenden. Ich bin mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639321275_533" custom="readingOrder {index:2;}">
+                <Coords points="1098,183 838,182 44,152 44,210 838,240 1098,241"/>
+                <Baseline points="44,192 838,222 1098,223"/>
+                <TextEquiv>
+                    <Unicode>Dir darüber einverstanden, daß die gegenwärtige Redaktion schon während der kurzen Zeit ihres Wirkens sich ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639340483_534" custom="readingOrder {index:3;}">
+                <Coords points="1100,241 917,240 35,206 35,267 917,301 1100,301"/>
+                <Baseline points="35,248 917,282 1100,283"/>
+                <TextEquiv>
+                    <Unicode>wichtigen Aufgabe weit besser gewachsen gezeigt hat, als die abgetretne, mit der ich aus guten Gründen nichts mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639351925_535" custom="readingOrder {index:4;}">
+                <Coords points="1099,303 30,264 30,325 1099,364"/>
+                <Baseline points="30,309 1099,348"/>
+                <TextEquiv>
+                    <Unicode>zu thun haben mochte. Indessen erweisest Du mir zu viel Ehre, wenn Du auf meine Correspondenzen großes Gewicht setzest;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639355380_536" custom="readingOrder {index:5;}">
+                <Coords points="1073,365 33,332 33,384 1073,417"/>
+                <Baseline points="33,369 1073,402"/>
+                <TextEquiv>
+                    <Unicode>denn ich schreibe mir in der That wenig publizistisches Talent zu, wie Du solches z. B. in dem Artikel über die Berner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639359665_537" custom="readingOrder {index:6;}">
+                <Coords points="1070,418 29,389 29,443 1070,472"/>
+                <Baseline points="29,425 1070,454"/>
+                <TextEquiv>
+                    <Unicode>Großrathssitzung an den Tag gelegt hast, der ausgezeichnet war u. mir von allen Deinen, in der N.Z.Z. erschienenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639363894_538" custom="readingOrder {index:7;}">
+                <Coords points="1092,473 31,440 31,498 1092,531"/>
+                <Baseline points="31,482 1092,515"/>
+                <TextEquiv>
+                    <Unicode>Aufsätzen am besten gefallen hat. Du selbst kannst daher diesem Blatte, dessen große Bedeutung allerdings nicht genug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639370973_539" custom="readingOrder {index:8;}">
+                <Coords points="1092,532 28,502 28,561 1092,591"/>
+                <Baseline points="28,541 1092,571"/>
+                <TextEquiv>
+                    <Unicode>gewürdigt werden kann, die kräftigste Stütze seyn, u. es ist nur zu wünschen, daß Du es auch fernerhin mit leitenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639380078_540" custom="readingOrder {index:9;}">
+                <Coords points="1093,592 37,551 37,613 1093,654"/>
+                <Baseline points="37,597 1093,638"/>
+                <TextEquiv>
+                    <Unicode>Artikeln bedenkest. Auch ich würde am liebsten über allgemein schweizerische Verhältnisse schreiben, aber dazu paßt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639387286_541" custom="readingOrder {index:10;}">
+                <Coords points="1089,655 60,616 60,672 1089,711"/>
+                <Baseline points="60,655 1089,694"/>
+                <TextEquiv>
+                    <Unicode>in der Regel meine äußere Lage nicht, da ich hier zu wenig unmittelbare Einsicht in das gewinne, was in größern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639392282_542" custom="readingOrder {index:11;}">
+                <Coords points="1085,712 30,675 30,716 1085,753"/>
+                <Baseline points="30,714 1085,751"/>
+                <TextEquiv>
+                    <Unicode>Kantonen vorgeht. Was die Correspondenzen über unsre kantonalen Verhältnisse betrifft, so habe ich dabei die Er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487321042097_126" custom="readingOrder {index:12;}">
+                <Coords points="267,746 242,745 242,765 267,766"/>
+                <Baseline points="240,758 265,759"/>
+                <TextEquiv>
+                    <Unicode>sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639399819_543" custom="readingOrder {index:13;}">
+                <Coords points="1081,774 27,732 27,785 1081,827"/>
+                <Baseline points="27,767 1081,809"/>
+                <TextEquiv>
+                    <Unicode>fahrung gemacht, daß man entweder, wenn man sich auf einfache Berichterstattung beschränkt, ziemlich unbeachtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639405239_544" custom="readingOrder {index:14;}">
+                <Coords points="1085,828 28,781 28,843 1085,890"/>
+                <Baseline points="28,825 1085,872"/>
+                <TextEquiv>
+                    <Unicode>bleiben oder, wenn man sich ein selbstständiges Urtheil über Thatsachen u. Handlungen erlaubt, dem Einsender Un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639411732_545" custom="readingOrder {index:15;}">
+                <Coords points="1087,891 27,841 27,902 1087,952"/>
+                <Baseline points="27,884 1087,934"/>
+                <TextEquiv>
+                    <Unicode>annehmlichkeiten zuziehen. Letzterm kann man freilich durch strenges Festhalten der Anonymität entgehen, allein ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639420361_546" custom="readingOrder {index:16;}">
+                <Coords points="1084,952 29,901 29,961 1084,1012"/>
+                <Baseline points="29,943 1084,994"/>
+                <TextEquiv>
+                    <Unicode>habe es nie über's Herz gebracht meine Worte zu verläugnen, wenn ich direkt darüber befragt wurde. Die angeführ-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639425723_547" custom="readingOrder {index:17;}">
+                <Coords points="1086,1013 30,966 30,1025 1086,1072"/>
+                <Baseline points="30,1008 1086,1055"/>
+                <TextEquiv>
+                    <Unicode>ten Gründe hatten mich nun wirklich zu dem Entschlusse gebracht, der Publizistik ganz zu entsagen u. mich aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639432139_548" custom="readingOrder {index:18;}">
+                <Coords points="1085,1073 26,1028 26,1085 1085,1130"/>
+                <Baseline points="26,1067 1085,1112"/>
+                <TextEquiv>
+                    <Unicode>schließlich meinen wissenschaftlichen Arbeiten u. Amtsgeschäften zu widmen. Deine Bitte, sowie die seither ange-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639437665_549" custom="readingOrder {index:19;}">
+                <Coords points="1084,1131 23,1089 23,1149 1084,1191"/>
+                <Baseline points="23,1131 1084,1173"/>
+                <TextEquiv>
+                    <Unicode>stellte Betrachtung, daß ich durch die N.Z.Z. auch auf einen bedeutenden Theil des Glarnervolkes, namentlich die ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639444250_550" custom="readingOrder {index:20;}">
+                <Coords points="1079,1192 25,1150 25,1210 1079,1252"/>
+                <Baseline points="25,1193 1079,1235"/>
+                <TextEquiv>
+                    <Unicode>bildetern Klassen, einwirken kann, während ich in keines der hiesigen Blätter mehr auch nur eine Sylbe schreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486639450947_551" custom="readingOrder {index:21;}">
+                <Coords points="1083,1253 30,1214 30,1260 1079,1309"/>
+                <Baseline points="30,1253 1083,1292"/>
+                <TextEquiv>
+                    <Unicode>möchte, haben mich allerdings in jenem Entschlusse etwas wankend gemacht. Ein fleißiger Correspondent war ich nie</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

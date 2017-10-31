@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:35:55</Created>
+        <LastChange>2017-03-27T18:58:06.407+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000037.jpg" imageWidth="924" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490633886471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="31,39 916,39 916,1419 31,1419"/>
+            <TextLine id="line_1487244148672_2782" custom="readingOrder {index:0;}">
+                <Coords points="911,49 66,58 66,112 911,103"/>
+                <TextEquiv>
+                    <Unicode>également au Comité Luganais des propositions de cession</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244153740_2783" custom="readingOrder {index:1;}">
+                <Coords points="835,93 51,113 51,152 835,132"/>
+                <TextEquiv>
+                    <Unicode>fort avantageuses. (ancien élément Genazzini.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244158262_2784" custom="readingOrder {index:2;}">
+                <Coords points="893,143 141,153 141,189 893,179"/>
+                <TextEquiv>
+                    <Unicode>Vous concevrez donc, que Mons. Lavizzari soit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244166001_2785" custom="readingOrder {index:3;}">
+                <Coords points="901,181 62,190 62,231 901,222"/>
+                <TextEquiv>
+                    <Unicode>arrivé pour la conférence avec des dispositions fort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244171427_2786" custom="readingOrder {index:4;}">
+                <Coords points="897,223 70,232 70,271 897,262"/>
+                <TextEquiv>
+                    <Unicode>embarrassées et un air sérieux; il se figure avoir à</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244177725_2787" custom="readingOrder {index:5;}">
+                <Coords points="878,258 57,272 57,312 878,298"/>
+                <TextEquiv>
+                    <Unicode>se décharger d'une énorme responsabilité; aussi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244182948_2788" custom="readingOrder {index:6;}">
+                <Coords points="894,297 73,313 73,352 894,336"/>
+                <TextEquiv>
+                    <Unicode>lorsque'à son tour il a pris la parole, il a débuté en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244195581_2789" custom="readingOrder {index:7;}">
+                <Coords points="890,343 81,353 81,390 890,380"/>
+                <TextEquiv>
+                    <Unicode>ces termes: «Si je ne consultais que mes sentiments</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244203856_2790" custom="readingOrder {index:8;}">
+                <Coords points="869,378 46,391 46,431 869,418"/>
+                <TextEquiv>
+                    <Unicode>pour le Comité du Gothard et la déférence qu'il</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244214929_2791" custom="readingOrder {index:9;}">
+                <Coords points="886,420 73,432 73,472 886,460"/>
+                <TextEquiv>
+                    <Unicode>mérite, certes je n'écouterais aucune proposition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244222693_2792" custom="readingOrder {index:10;}">
+                <Coords points="887,455 482,465 75,473 75,514 482,506 887,496"/>
+                <TextEquiv>
+                    <Unicode>en déhors des siennes; mais je dois dire que ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244233031_2793" custom="readingOrder {index:11;}">
+                <Coords points="846,496 506,508 74,515 74,549 506,542 846,530"/>
+                <TextEquiv>
+                    <Unicode>conscience fait taire mes aspirations, et je me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244236935_2794" custom="readingOrder {index:12;}">
+                <Coords points="431,544 355,546 355,566 431,564"/>
+                <TextEquiv>
+                    <Unicode>aussi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244244891_2795" custom="readingOrder {index:13;}">
+                <Coords points="908,548 62,564 63,595 909,579"/>
+                <TextEquiv>
+                    <Unicode>permets de dire que les devoirs assumés vis à vis de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244255520_2796" custom="readingOrder {index:14;}">
+                <Coords points="910,577 652,585 79,596 79,634 652,623 910,615"/>
+                <TextEquiv>
+                    <Unicode>mes concitoyens m'imposeraient de tronquer toute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244263662_2797" custom="readingOrder {index:15;}">
+                <Coords points="912,623 76,635 76,675 912,663"/>
+                <TextEquiv>
+                    <Unicode>négociation avec lui et de conclure immédiatement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244274660_2798" custom="readingOrder {index:16;}">
+                <Coords points="904,657 77,675 77,715 904,697"/>
+                <TextEquiv>
+                    <Unicode>avec les Compagnies qui sont prêtes à se charger de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244297765_2799" custom="readingOrder {index:17;}">
+                <Coords points="905,703 99,717 99,754 905,740"/>
+                <TextEquiv>
+                    <Unicode>tout le capital qui nous manque et sans conditions.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244304502_2800" custom="readingOrder {index:18;}">
+                <Coords points="910,735 68,755 68,799 910,779"/>
+                <TextEquiv>
+                    <Unicode>Si les négociations avec vous n'existaient pas, votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244312452_2801" custom="readingOrder {index:19;}">
+                <Coords points="858,780 82,799 82,837 858,818"/>
+                <TextEquiv>
+                    <Unicode>entreprise serait assurée depuis plusieurs mois.»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244317869_2802" custom="readingOrder {index:20;}">
+                <Coords points="882,818 161,838 161,873 882,853"/>
+                <TextEquiv>
+                    <Unicode>«Ceci vous expliquera a pourquoi nous ne saurions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244325554_2803" custom="readingOrder {index:21;}">
+                <Coords points="913,850 84,874 84,913 913,889"/>
+                <TextEquiv>
+                    <Unicode>accepter aucune dilation dans les accords avec votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244362512_2804" custom="readingOrder {index:22;}">
+                <Coords points="871,894 311,913 125,914 125,951 311,950 871,931"/>
+                <TextEquiv>
+                    <Unicode>Comité; mais si l'on trouve un moyen de concilier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244374888_2805" custom="readingOrder {index:23;}">
+                <Coords points="896,929 550,941 78,952 78,990 550,979 896,967"/>
+                <TextEquiv>
+                    <Unicode>notre position, je ne refuserai pas d'y prêter la main,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244380903_2806" custom="readingOrder {index:24;}">
+                <Coords points="600,983 52,991 52,1023 600,1015"/>
+                <TextEquiv>
+                    <Unicode>pourvu que ce soit desuite.» –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244388315_2807" custom="readingOrder {index:25;}">
+                <Coords points="885,1007 209,1024 209,1059 885,1042"/>
+                <TextEquiv>
+                    <Unicode>J'avoue que ce speech produisit sur moi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244406256_2808" custom="readingOrder {index:26;}">
+                <Coords points="876,1044 323,1057 75,1060 75,1099 323,1096 876,1083"/>
+                <TextEquiv>
+                    <Unicode>l'effet d'un bain hydropatique à 30 degrés sous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244410835_2809" custom="readingOrder {index:27;}">
+                <Coords points="195,1098 83,1100 83,1136 195,1134"/>
+                <TextEquiv>
+                    <Unicode>Zéro! –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244421610_2810" custom="readingOrder {index:28;}">
+                <Coords points="856,1111 356,1118 163,1129 163,1171 357,1171 857,1156"/>
+                <TextEquiv>
+                    <Unicode>Il ne restait que deux choses à proposer, ou la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244426715_2811" custom="readingOrder {index:29;}">
+                <Coords points="860,1151 80,1172 80,1213 860,1192"/>
+                <TextEquiv>
+                    <Unicode>Cession pure et simple de leur Concession, cession</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244432340_2812" custom="readingOrder {index:30;}">
+                <Coords points="894,1191 67,1213 67,1253 894,1231"/>
+                <TextEquiv>
+                    <Unicode>qui devrait d'abord être approuvée par le Conseil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244441553_2813" custom="readingOrder {index:31;}">
+                <Coords points="894,1226 83,1253 83,1290 894,1263"/>
+                <TextEquiv>
+                    <Unicode>d'Etat, et puis par l'assemblée fédérale, en Juillet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244451038_2814" custom="readingOrder {index:32;}">
+                <Coords points="874,1269 92,1291 92,1322 874,1300"/>
+                <TextEquiv>
+                    <Unicode>ce qui reporterait à 15 au 18 mois les 10 mois de terme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244462301_2815" custom="readingOrder {index:33;}">
+                <Coords points="909,1296 58,1323 58,1356 909,1329"/>
+                <TextEquiv>
+                    <Unicode>pour le commencement des travaux; ou une obligation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487244471515_2816" custom="readingOrder {index:34;}">
+                <Coords points="912,1329 62,1357 62,1392 912,1364"/>
+                <TextEquiv>
+                    <Unicode>pure et simple du Comité, de verser les 2 millions dès que</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

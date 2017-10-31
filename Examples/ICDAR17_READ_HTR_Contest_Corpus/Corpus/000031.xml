@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:27:05</Created>
+        <LastChange>2017-03-27T18:39:54.128+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000031.jpg" imageWidth="1148" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490632794192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487328387366_244"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487328387366_243"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487328387366_244" custom="readingOrder {index:0;}">
+            <Coords points="1142,1284 83,1284 83,68 1140,68"/>
+            <TextLine id="line_1486731173307_1448" custom="readingOrder {index:0;}">
+                <Coords points="1106,88 117,78 117,140 1106,150"/>
+                <TextEquiv>
+                    <Unicode>kann, so kann ich jetzt natürlich auch noch nicht sagen, ob ich mich einige Tage werde in Zürich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731181489_1449" custom="readingOrder {index:1;}">
+                <Coords points="837,149 550,151 120,138 120,194 550,207 837,205"/>
+                <TextEquiv>
+                    <Unicode>aufhalten können; ich werde Dir darüber später Mittheilung machen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731191106_1450" custom="readingOrder {index:2;}">
+                <Coords points="1134,208 947,207 311,195 311,255 947,267 1134,268"/>
+                <TextEquiv>
+                    <Unicode>Wenn ich in meinem letzten Briefe über Politik schwieg, so geschah es, weil ich von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731200975_1451" custom="readingOrder {index:3;}">
+                <Coords points="1131,269 126,241 126,293 1131,321"/>
+                <TextEquiv>
+                    <Unicode>meiner persönlichen Angelegenheit zu sehr präokkupirt war. Ich habe aber auch jetzt nicht Vieles zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731209871_1452" custom="readingOrder {index:4;}">
+                <Coords points="1142,323 123,293 123,342 1142,370"/>
+                <TextEquiv>
+                    <Unicode>sagen. Der Waadtländer Konflikt nimmt einen für mich wenigstens sehr unerfreulichen Verlauf: ich kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731220179_1453" custom="readingOrder {index:5;}">
+                <Coords points="1137,372 127,349 127,396 1137,419"/>
+                <TextEquiv>
+                    <Unicode>weder das rücksichtslose Verfahren des Bundesrathes billigen noch die Politik des «passiven Widerstandes»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731231392_1454" custom="readingOrder {index:6;}">
+                <Coords points="1140,419 133,390 133,440 1140,469"/>
+                <TextEquiv>
+                    <Unicode>von Seite der Waadtländer Regierung, welche mir sehr unpraktisch vorkömmt. Der erhobne Kompetenzkon-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731243644_1455" custom="readingOrder {index:7;}">
+                <Coords points="1140,469 126,438 126,477 1140,508"/>
+                <TextEquiv>
+                    <Unicode>flikt gegen den Beschluß der Bundesversammlung ist eine Trölerei, bei der sich Waadt zum voraus im Un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487328506083_247" custom="readingOrder {index:8;}">
+                <Coords points="459,503 432,502 432,522 459,523"/>
+                <TextEquiv>
+                    <Unicode>mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731254020_1456" custom="readingOrder {index:9;}">
+                <Coords points="1117,530 131,499 131,538 1117,569"/>
+                <TextEquiv>
+                    <Unicode>recht befindet; überhaupt kömmt es vor, der jetzige Staatsrath von Waadt bringe sich selbst um allen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731263429_1457" custom="readingOrder {index:10;}">
+                <Coords points="1127,570 860,569 130,544 130,590 860,615 1127,616"/>
+                <TextEquiv>
+                    <Unicode>Kredit u. werde bald entweder seinen Gegnern oder, was wahrscheinlicher, seinen jetzigen guten Freunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731280923_1458" custom="readingOrder {index:11;}">
+                <Coords points="1116,617 881,615 135,589 135,640 881,666 1116,668"/>
+                <TextEquiv>
+                    <Unicode>von der konservativen Seite weichen müssen. Gespannt bin ich darauf, was nun die eidgen. Kommission</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731290193_1459" custom="readingOrder {index:12;}">
+                <Coords points="1136,669 802,663 136,639 136,691 802,715 1136,721"/>
+                <TextEquiv>
+                    <Unicode>mit den Parzellarplänen anfangen werden! – Auffallend ist es, mit welcher Ruhe die Schweiz im Gan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731297037_1460" custom="readingOrder {index:13;}">
+                <Coords points="1112,722 129,690 129,743 1112,775"/>
+                <TextEquiv>
+                    <Unicode>zen den Nationalrathswahlen entgegengeht. Im Kanton Zürich scheint zwar eine gewisse Presse etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731317586_1461" custom="readingOrder {index:14;}">
+                <Coords points="1138,776 128,733 128,788 1138,831"/>
+                <TextEquiv>
+                    <Unicode>Opposition machen zu wollen gegen Dich u. Deine Freunde, hoffentlich aber ohne Erfolg! Vor Allem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731330742_1462" custom="readingOrder {index:15;}">
+                <Coords points="1132,832 137,784 137,837 1132,885"/>
+                <TextEquiv>
+                    <Unicode>bin ich nun, wie Du leicht begreifen wirst, auf Eure Ständerathswahl gespannt, die den National-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731340232_1463" custom="readingOrder {index:16;}">
+                <Coords points="1140,886 137,835 137,888 1140,939"/>
+                <TextEquiv>
+                    <Unicode>rathswahlen vorausgeht. Wie es bei uns gehen wird, weiß der liebe Himmel. Ziemlich allgemei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731353855_1464" custom="readingOrder {index:17;}">
+                <Coords points="1138,940 780,929 136,892 136,939 780,976 1138,987"/>
+                <TextEquiv>
+                    <Unicode>ner Wunsch ist es, daß einmal zwei Bessere nach Bern gehen möchten, aber bei dem eingewur-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731363984_1465" custom="readingOrder {index:18;}">
+                <Coords points="1098,987 698,972 128,944 128,994 698,1022 1098,1037"/>
+                <TextEquiv>
+                    <Unicode>zelten Komplimentwesen wird wieder Niemand den Bisherigen vor den Kopf stoßen wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731375977_1466" custom="readingOrder {index:19;}">
+                <Coords points="1142,1038 787,1026 134,997 134,1048 787,1077 1142,1089"/>
+                <TextEquiv>
+                    <Unicode>Von Jenni verlautet gegenwärtig nicht mehr, daß er ablehnen wolle. Trümpi war in den letzten Wochen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731384096_1467" custom="readingOrder {index:20;}">
+                <Coords points="1121,1090 817,1082 140,1051 140,1102 817,1133 1121,1141"/>
+                <TextEquiv>
+                    <Unicode>sehr krank, scheint sich aber wieder zu erholen. Item, wir werden sehen! Organisiren läßt sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731390179_1468" custom="readingOrder {index:21;}">
+                <Coords points="914,1142 146,1107 146,1156 914,1191"/>
+                <TextEquiv>
+                    <Unicode>bei uns nicht viel, da an einer Landsgemeinde Alles vom Moment abhängt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731408963_1469" custom="readingOrder {index:22;}">
+                <Coords points="1126,1188 1048,1192 924,1190 281,1168 281,1217 924,1239 1048,1241 1126,1237"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüssen u. Empfehlungen von uns beiden an Dich u. Deine </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731419804_1470" custom="readingOrder {index:23;}">
+                <Coords points="746,1242 140,1227 140,1260 746,1275"/>
+                <TextEquiv>
+                    <Unicode>Frau, sowie an Deine Frau Mutter u. Schwester verbleibe</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487328387366_243" custom="readingOrder {index:1;}">
+            <Coords points="1136,1420 810,1420 810,1284 1136,1284"/>
+            <TextLine id="line_1487328387465_245" custom="readingOrder {index:0;}">
+                <Coords points="1013,1295 865,1293 865,1331 1013,1333"/>
+                <TextEquiv>
+                    <Unicode>Dein treuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486731430233_1472" custom="readingOrder {index:1;}">
+                <Coords points="1095,1333 947,1330 947,1380 1095,1383"/>
+                <TextEquiv>
+                    <Unicode>J J Blumer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

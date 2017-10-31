@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:34:43</Created>
+        <LastChange>2017-03-27T18:16:11.356+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000019.jpg" imageWidth="1157" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631371436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487156830284_2582"/>
+                <RegionRefIndexed index="1" regionRef="region_1487156841484_2584"/>
+                <RegionRefIndexed index="2" regionRef="region_1487156832716_2583"/>
+                <RegionRefIndexed index="3" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487156830284_2582" custom="readingOrder {index:0;}">
+            <Coords points="528,54 925,54 925,121 528,121"/>
+            <TextLine id="line_1487156893389_2588" custom="readingOrder {index:0;}">
+                <Coords points="922,66 642,70 532,62 532,103 642,111 922,107"/>
+                <TextEquiv>
+                    <Unicode>Rome le 3 Mars 1877. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487156841484_2584" custom="readingOrder {index:1;}">
+            <Coords points="19,110 437,110 437,360 19,360"/>
+            <TextLine id="line_1487156853657_2585" custom="readingOrder {index:0;}">
+                <Coords points="425,105 38,107 38,173 425,171"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487156858555_2586" custom="readingOrder {index:1;}">
+                <Coords points="368,172 22,174 19,213 365,211"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487156863426_2587" custom="readingOrder {index:2;}">
+                <Coords points="285,299 139,303 144,357 288,364"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487156832716_2583" custom="readingOrder {index:2;}">
+            <Coords points="441,205 816,205 816,287 441,287"/>
+            <TextLine id="line_1487156903906_2589" custom="readingOrder {index:0;}">
+                <Coords points="811,223 548,226 449,222 449,274 548,278 811,275"/>
+                <TextEquiv>
+                    <Unicode>Honoré Monsieur, </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:3;}">
+            <Coords points="223,356 1146,356 1146,1373 223,1373"/>
+            <TextLine id="line_1487156919808_2590" custom="readingOrder {index:0;}">
+                <Coords points="1136,369 388,371 388,417 1136,415"/>
+                <TextEquiv>
+                    <Unicode>Je ne tâcherai pas de m'excuser auprès de vous,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487156932807_2591" custom="readingOrder {index:1;}">
+                <Coords points="1117,417 676,418 240,417 240,459 676,460 1117,459"/>
+                <TextEquiv>
+                    <Unicode>cher & honoré Monsieur, de mon long silence. Je serais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487156946907_2592" custom="readingOrder {index:2;}">
+                <Coords points="1135,460 665,461 239,460 239,500 665,501 1135,500"/>
+                <TextEquiv>
+                    <Unicode>obligé de vous exposer l'histoire de ces derniers mois de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487156977524_2593" custom="readingOrder {index:3;}">
+                <Coords points="1140,499 232,502 232,544 1140,541"/>
+                <TextEquiv>
+                    <Unicode>politique Italienne à laquelle, par mon journal & par mes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157064053_2594" custom="readingOrder {index:4;}">
+                <Coords points="1140,543 797,545 242,545 242,587 797,587 1140,585"/>
+                <TextEquiv>
+                    <Unicode>rapports personnels, je me trouve lié d'une manière toujours</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157074901_2595" custom="readingOrder {index:5;}">
+                <Coords points="1133,586 906,588 241,586 241,627 906,629 1133,627"/>
+                <TextEquiv>
+                    <Unicode>plus considérable. Plus considérable même que je ne le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157085995_2596" custom="readingOrder {index:6;}">
+                <Coords points="1119,627 723,630 237,627 237,669 723,672 1119,669"/>
+                <TextEquiv>
+                    <Unicode>désire, parceque par là je me trouve privé de toute liberté</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157094465_2597" custom="readingOrder {index:7;}">
+                <Coords points="1130,673 238,673 238,715 1130,715"/>
+                <TextEquiv>
+                    <Unicode>et de la plus précieuse parmi les libertés, la paix de l'âme.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157101235_2598" custom="readingOrder {index:8;}">
+                <Coords points="1126,716 351,713 351,755 1126,758"/>
+                <TextEquiv>
+                    <Unicode>L'évolution parlementaire et politique qui s'est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157114197_2599" custom="readingOrder {index:9;}">
+                <Coords points="1134,759 230,759 230,800 1134,800"/>
+                <TextEquiv>
+                    <Unicode>produise en Italie, spécialement après les dernières élections,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157121336_2600" custom="readingOrder {index:10;}">
+                <Coords points="1142,798 235,801 235,844 1142,841"/>
+                <TextEquiv>
+                    <Unicode>a créé une situation très délicate et en même temps assez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157129270_2601" custom="readingOrder {index:11;}">
+                <Coords points="1136,845 238,845 238,887 1136,887"/>
+                <TextEquiv>
+                    <Unicode>dangereuse. La partie plus nombreuse de la nouvelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157145877_2602" custom="readingOrder {index:12;}">
+                <Coords points="1143,887 239,888 239,930 1143,929"/>
+                <TextEquiv>
+                    <Unicode>majorité, appartient aux provinces Napolitaines et Siciliennes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157153289_2603" custom="readingOrder {index:13;}">
+                <Coords points="1133,927 240,931 240,973 1133,969"/>
+                <TextEquiv>
+                    <Unicode>et par ce fait les prétentions de cette Zône du Royaume pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157160389_2604" custom="readingOrder {index:14;}">
+                <Coords points="1134,974 244,973 244,1016 1134,1017"/>
+                <TextEquiv>
+                    <Unicode>ce qui regarde les nouvelles constructions de Chemins de fer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157167742_2605" custom="readingOrder {index:15;}">
+                <Coords points="1120,1018 242,1014 242,1056 1120,1060"/>
+                <TextEquiv>
+                    <Unicode>sont augmentées outre mesure. D'autre part les membres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157178368_2606" custom="readingOrder {index:16;}">
+                <Coords points="1135,1060 239,1060 239,1101 1135,1101"/>
+                <TextEquiv>
+                    <Unicode>de la majorité qui appartiennent à la Haute Italie, dont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157185979_2607" custom="readingOrder {index:17;}">
+                <Coords points="1131,1102 236,1100 236,1143 1131,1145"/>
+                <TextEquiv>
+                    <Unicode>MrDepretis est le chef, résistent à ces prétentions pour ne pas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157198114_2608" custom="readingOrder {index:18;}">
+                <Coords points="1125,1144 242,1146 242,1188 1125,1186"/>
+                <TextEquiv>
+                    <Unicode>compromettre l'équilibre du Budget de l'Etat et parcequ'ils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157204328_2609" custom="readingOrder {index:19;}">
+                <Coords points="1122,1189 244,1186 244,1227 1122,1230"/>
+                <TextEquiv>
+                    <Unicode>voient que les lignes qu'on demande sont trop coûteuses en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157213889_2610" custom="readingOrder {index:20;}">
+                <Coords points="1120,1231 243,1230 243,1271 1120,1272"/>
+                <TextEquiv>
+                    <Unicode>comparaison de l'avantage qu'elles procureraient au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157222628_2611" custom="readingOrder {index:21;}">
+                <Coords points="1029,1273 236,1273 236,1316 1029,1316"/>
+                <TextEquiv>
+                    <Unicode>mouvement général du Commerce et de l'Industrie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487157231228_2612" custom="readingOrder {index:22;}">
+                <Coords points="1112,1317 530,1316 356,1309 356,1347 530,1354 1112,1355"/>
+                <TextEquiv>
+                    <Unicode>Ce fait qu'on cherche de cacher pour dissimuler</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

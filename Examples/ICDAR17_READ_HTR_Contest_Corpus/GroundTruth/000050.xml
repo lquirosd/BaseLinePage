@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:33:45</Created>
+        <LastChange>2017-03-28T12:53:29.257+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000050.jpg" imageWidth="1118" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490698409442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487083885535_2230"/>
+                <RegionRefIndexed index="1" regionRef="region_1487083894485_2231"/>
+                <RegionRefIndexed index="2" regionRef="region_1487083904551_2232"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487083885535_2230" custom="readingOrder {index:0;}">
+            <Coords points="682,25 1087,25 1087,98 682,98"/>
+            <TextLine id="line_1487083915649_2233" custom="readingOrder {index:0;}">
+                <Coords points="1069,26 697,32 696,80 1068,74"/>
+                <Baseline points="696,73 1068,67"/>
+                <TextEquiv>
+                    <Unicode>Aarau den 6 Merz 1864. </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487083894485_2231" custom="readingOrder {index:1;}">
+            <Coords points="219,93 574,93 574,225 219,225"/>
+            <TextLine id="line_1487083925303_2234" custom="readingOrder {index:0;}">
+                <Coords points="561,122 242,119 239,212 560,213"/>
+                <Baseline points="242,184 561,187"/>
+                <TextEquiv>
+                    <Unicode>Hochgeachteter Herr! </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487083904551_2232" custom="readingOrder {index:2;}">
+            <Coords points="58,217 1100,217 1100,1393 58,1393"/>
+            <TextLine id="line_1487083991871_2235" custom="readingOrder {index:0;}">
+                <Coords points="1059,239 167,231 167,300 1059,308"/>
+                <Baseline points="167,281 1059,289"/>
+                <TextEquiv>
+                    <Unicode>Vor dritthalb Wochen besuchte mich Herr Dr. Schmidlin und fragte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084065811_2236" custom="readingOrder {index:1;}">
+                <Coords points="1042,309 95,301 95,366 1042,374"/>
+                <Baseline points="95,347 1042,355"/>
+                <TextEquiv>
+                    <Unicode>mich in Ihrem Namen an, ob ich nicht geneigt wäre gemeinschaftlich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084071258_2237" custom="readingOrder {index:2;}">
+                <Coords points="1085,375 84,366 84,431 1085,440"/>
+                <Baseline points="84,412 1085,421"/>
+                <TextEquiv>
+                    <Unicode>Herrn H. Fiertz in Gotthardtangelegenheiten eine Mißion nach Turin zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084099808_2238" custom="readingOrder {index:3;}">
+                <Coords points="1046,441 95,434 95,499 1046,506"/>
+                <Baseline points="95,480 1046,487"/>
+                <TextEquiv>
+                    <Unicode>übernehmen. In der Vermuthung daß diese Abordnung bald möglichst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084104545_2239" custom="readingOrder {index:4;}">
+                <Coords points="1097,507 85,501 85,564 1097,570"/>
+                <Baseline points="85,546 1097,552"/>
+                <TextEquiv>
+                    <Unicode>statt zu finden habe erklärte ich zuvörderst für meine Person die Unmöglich-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084108944_2240" custom="readingOrder {index:5;}">
+                <Coords points="1040,571 90,567 90,630 1040,634"/>
+                <Baseline points="90,610 1040,614"/>
+                <TextEquiv>
+                    <Unicode>keit daran Theil zu nehmen. Als jedoch Herr Schmidlin sich dahin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084233732_2241" custom="readingOrder {index:6;}">
+                <Coords points="1035,635 95,631 95,698 1035,702"/>
+                <Baseline points="95,678 1035,682"/>
+                <TextEquiv>
+                    <Unicode>ergänzte, daß diese Reise nicht dränge sondern füglich erst im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084248477_2242" custom="readingOrder {index:7;}">
+                <Coords points="1072,703 102,696 102,762 1072,769"/>
+                <Baseline points="102,742 1072,749"/>
+                <TextEquiv>
+                    <Unicode>Laufe April unternommen werden könne, ertheilte ich ihm eine bedingte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084259065_2243" custom="readingOrder {index:8;}">
+                <Coords points="1093,770 94,767 94,833 1093,836"/>
+                <Baseline points="94,813 1093,816"/>
+                <TextEquiv>
+                    <Unicode>Zusage von welcher er Ihnen zweifelsohne Kenntniß gegeben haben wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084266410_2244" custom="readingOrder {index:9;}">
+                <Coords points="1080,837 99,832 99,897 1080,902"/>
+                <Baseline points="99,879 1080,884"/>
+                <TextEquiv>
+                    <Unicode>Ungeachtet meiner Bereitwilligkeit an den Vorarbeiten jenes großen Werkes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084278996_2245" custom="readingOrder {index:10;}">
+                <Coords points="1051,903 98,899 98,960 1051,964"/>
+                <Baseline points="98,942 1051,946"/>
+                <TextEquiv>
+                    <Unicode>mit zu wirken war es mir deßwegen unmöglich ein bestimmtes Versprechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084285042_2246" custom="readingOrder {index:11;}">
+                <Coords points="1053,965 96,963 96,1026 1053,1028"/>
+                <Baseline points="96,1006 1053,1008"/>
+                <TextEquiv>
+                    <Unicode>zur Annahme einer mehr wöchentlichen Mißion abzugeben, weil ich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084290910_2247" custom="readingOrder {index:12;}">
+                <Coords points="1070,1029 95,1023 95,1092 1070,1098"/>
+                <Baseline points="95,1071 1070,1077"/>
+                <TextEquiv>
+                    <Unicode>Stellungen befindlich, die in manchen Beziehungen gefeßelte sind, be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084336855_2248" custom="readingOrder {index:13;}">
+                <Coords points="1092,1099 90,1091 90,1163 1092,1171"/>
+                <Baseline points="90,1142 1092,1150"/>
+                <TextEquiv>
+                    <Unicode>fürchten musste daß ich, wenn der Moment der Ausführung gekommen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084343807_2249" custom="readingOrder {index:14;}">
+                <Coords points="1085,1172 104,1157 104,1227 1085,1242"/>
+                <Baseline points="104,1206 1085,1221"/>
+                <TextEquiv>
+                    <Unicode>mich in Gegenwart unvorhergesehener Hinderniße befinden könnte. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084351087_2250" custom="readingOrder {index:15;}">
+                <Coords points="1094,1243 88,1221 88,1289 1094,1311"/>
+                <Baseline points="88,1270 1094,1292"/>
+                <TextEquiv>
+                    <Unicode>sind einmal meine eigenen geschäftlichen Verhältniße die seit dem amerikanischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487084357678_2251" custom="readingOrder {index:16;}">
+                <Coords points="1034,1312 102,1297 102,1352 1034,1367"/>
+                <Baseline points="102,1341 1034,1356"/>
+                <TextEquiv>
+                    <Unicode>Bürgerkriege oder vielmehr seit den Goldschwankungen an unerwarteten</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

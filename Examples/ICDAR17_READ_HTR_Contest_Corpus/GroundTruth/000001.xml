@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:25:11</Created>
+        <LastChange>2017-03-27T18:07:13.109+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000001.jpg" imageWidth="1115" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630833221" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+                <RegionRefIndexed index="1" regionRef="region_1487323253108_166"/>
+                <RegionRefIndexed index="2" regionRef="region_1487323246501_165"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="92,35 1114,35 1111,922 442,932 437,962 92,961"/>
+            <TextLine id="line_1486652417179_955" custom="readingOrder {index:0;}">
+                <Coords points="1033,52 159,55 159,116 1033,113"/>
+                <Baseline points="159,100 1033,97"/>
+                <TextEquiv>
+                    <Unicode>Wählerschaft beschämendes Armuthszeugniß, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652428350_956" custom="readingOrder {index:1;}">
+                <Coords points="1107,117 1034,99 709,94 128,104 128,149 709,139 1034,144 1107,162"/>
+                <Baseline points="128,141 709,131 1034,136 1107,154"/>
+                <TextEquiv>
+                    <Unicode>auch von den Konservativen nicht anders aufgenommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652438711_957" custom="readingOrder {index:2;}">
+                <Coords points="1064,152 125,163 125,196 1064,185"/>
+                <Baseline points="125,182 1064,171"/>
+                <TextEquiv>
+                    <Unicode>wird; sie erblicken darin gewiß so wenig ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652450279_958" custom="readingOrder {index:3;}">
+                <Coords points="1092,175 777,183 128,197 128,244 777,230 1092,222"/>
+                <Baseline points="128,231 777,217 1092,209"/>
+                <TextEquiv>
+                    <Unicode>großmüthiges Geschenk als wir. Zudem glaube</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652456677_959" custom="readingOrder {index:4;}">
+                <Coords points="1108,226 141,245 141,289 1108,270"/>
+                <Baseline points="141,276 1108,257"/>
+                <TextEquiv>
+                    <Unicode>ich, daß auf einen solchen Vorschlag fast Niemand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652462790_960" custom="readingOrder {index:5;}">
+                <Coords points="1083,272 146,290 146,333 1083,315"/>
+                <Baseline points="146,320 1083,302"/>
+                <TextEquiv>
+                    <Unicode>erscheinen wird und der 2te Wahlkreis wirklich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652467344_961" custom="readingOrder {index:6;}">
+                <Coords points="809,314 147,334 147,374 809,354"/>
+                <Baseline points="147,364 809,344"/>
+                <TextEquiv>
+                    <Unicode>eine traurige Rolle spielen wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652472454_962" custom="readingOrder {index:7;}">
+                <Coords points="1052,355 257,375 257,412 1052,392"/>
+                <Baseline points="257,400 1052,380"/>
+                <TextEquiv>
+                    <Unicode>Es ist von anderer Seite auch Herr Major</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652476619_963" custom="readingOrder {index:8;}">
+                <Coords points="1068,384 176,413 176,453 1068,424"/>
+                <Baseline points="176,441 1068,412"/>
+                <TextEquiv>
+                    <Unicode>Stapfer in Horgen genannt worden; ob er aber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652480128_964" custom="readingOrder {index:9;}">
+                <Coords points="1063,426 154,453 154,493 1063,466"/>
+                <Baseline points="154,481 1063,454"/>
+                <TextEquiv>
+                    <Unicode>wirklich gebracht wird und ferner ob er die Wahl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652485007_965" custom="readingOrder {index:10;}">
+                <Coords points="1081,472 171,493 171,536 1081,515"/>
+                <Baseline points="171,521 1081,500"/>
+                <TextEquiv>
+                    <Unicode>annähme, das ist Alles sehr unbestimmt. Mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652492261_966" custom="readingOrder {index:11;}">
+                <Coords points="1086,505 163,537 163,584 1086,552"/>
+                <Baseline points="163,572 1086,540"/>
+                <TextEquiv>
+                    <Unicode>Geschäftsführer ist erkrankt, und dadurch wird es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652498747_967" custom="readingOrder {index:12;}">
+                <Coords points="1099,554 173,584 173,626 1099,596"/>
+                <Baseline points="173,612 1099,582"/>
+                <TextEquiv>
+                    <Unicode>mir fast unmöglich von Hause wegzukommen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652502724_968" custom="readingOrder {index:13;}">
+                <Coords points="1083,597 165,627 165,671 1083,641"/>
+                <Baseline points="165,659 1083,629"/>
+                <TextEquiv>
+                    <Unicode>wenn es aber nur irgend sein kann, so werde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652513501_969" custom="readingOrder {index:14;}">
+                <Coords points="977,648 173,672 173,714 977,690"/>
+                <Baseline points="173,701 977,677"/>
+                <TextEquiv>
+                    <Unicode>ich nach Stäfa zur Vorversammlung gehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652522713_970" custom="readingOrder {index:15;}">
+                <Coords points="1091,697 626,710 247,715 247,758 626,753 1091,740"/>
+                <Baseline points="247,746 626,741 1091,728"/>
+                <TextEquiv>
+                    <Unicode>Ich glaubte es Ihnen schuldig zu sein, Sie von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652528857_971" custom="readingOrder {index:16;}">
+                <Coords points="1103,737 176,759 176,797 1103,775"/>
+                <Baseline points="176,787 1103,765"/>
+                <TextEquiv>
+                    <Unicode>der Lage der Dinge in Kenntniß zu setzen. Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652533482_972" custom="readingOrder {index:17;}">
+                <Coords points="1085,785 168,798 168,835 1085,822"/>
+                <Baseline points="168,823 1085,810"/>
+                <TextEquiv>
+                    <Unicode>Brändli mag nun wissen, ob Möglichkeit vorhanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652547404_973" custom="readingOrder {index:18;}">
+                <Coords points="1098,823 959,814 172,835 172,877 959,856 1098,865"/>
+                <Baseline points="172,863 959,842 1098,851"/>
+                <TextEquiv>
+                    <Unicode>ist, daß Herr Huber annehme, was ich kaum glaube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652552219_974" custom="readingOrder {index:19;}">
+                <Coords points="1067,863 245,878 245,922 1067,907"/>
+                <Baseline points="245,912 1067,897"/>
+                <TextEquiv>
+                    <Unicode>Mit aufrichtiger Hochschätzung bleibt Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486652555772_975" custom="readingOrder {index:20;}">
+                <Coords points="404,920 206,923 204,961 402,958"/>
+                <Baseline points="206,946 404,943"/>
+                <TextEquiv>
+                    <Unicode>ergeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487323253108_166" custom="readingOrder {index:1;}">
+            <Coords points="178,968 487,968 487,1089 178,1089"/>
+            <TextLine id="line_1487323279431_167" custom="readingOrder {index:0;}">
+                <Coords points="424,964 204,967 203,1020 423,1017"/>
+                <Baseline points="203,1011 423,1008"/>
+                <TextEquiv>
+                    <Unicode>Küsnach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487323301798_168" custom="readingOrder {index:1;}">
+                <Coords points="456,1020 205,1020 205,1055 456,1055"/>
+                <Baseline points="205,1041 456,1041"/>
+                <TextEquiv>
+                    <Unicode>25 Novbre 1851.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487323246501_165" custom="readingOrder {index:2;}">
+            <Coords points="662,933 1010,933 1010,1157 662,1157"/>
+            <TextLine id="line_1487323328662_169" custom="readingOrder {index:0;}">
+                <Coords points="988,941 887,945 679,945 680,986 884,985 997,997"/>
+                <Baseline points="679,972 887,972 988,968"/>
+                <TextEquiv>
+                    <Unicode>J. Kaegi-Fierz</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

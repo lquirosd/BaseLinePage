@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>htrsh_pagexml_create</Creator>
+		<Created>2017-01-30T12:23:30</Created>
+		<LastChange>2017-02-16T17:28:06.038+01:00</LastChange>
+	</Metadata>
+	<Page imageFilename="000004.jpg" imageWidth="1124" imageHeight="1440">
+		<ReadingOrder>
+			<OrderedGroup id="ro_1487262486131" caption="Regions reading order">
+				<RegionRefIndexed index="0" regionRef="pg" />
+			</OrderedGroup>
+		</ReadingOrder>
+		<TextRegion id="pg">
+			<Coords points="61,45 1116,45 1116,1342 61,1342" />
+			<TextLine id="line_1486634531103_323">
+				<Coords points="1089,45 865,59 93,66 93,129 865,122 1089,105" />
+				<Baseline points="93,112 865,105 1089,88" />
+				<TextEquiv>
+					<Unicode>lich fördern müßte. Da ich aus meiner Erfahrung, so weit sie für dich maßgebend seyn kann, diese Ansicht</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634539507_324">
+				<Coords points="1080,109 99,130 99,184 1080,163" />
+				<Baseline points="99,170 1080,149" />
+				<TextEquiv>
+					<Unicode>bestätigen muß, so könnte ich dich in jenem Gedanken nur unterstützen, soferne nämlich es eine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634553797_325">
+				<Coords points="1099,167 101,185 101,233 1099,215" />
+				<Baseline points="101,219 1099,201" />
+				<TextEquiv>
+					<Unicode>Stelle wäre, die dich nicht zu sehr beschäftigen würde, sondern dir für deine wissenschaftlichen Arbeiten</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634566159_326">
+				<Coords points="485,230 103,234 103,288 485,284" />
+				<Baseline points="103,267 485,263" />
+				<TextEquiv>
+					<Unicode>immer noch hinlängliche Zeit übrig ließe.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634574661_327">
+				<Coords points="1103,271 235,289 235,354 1103,336" />
+				<Baseline points="235,338 1103,320" />
+				<TextEquiv>
+					<Unicode>Du wünschest ferner zu erfahren, was Sinz in seine Briefen an mich wider dich geschrieben</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634587031_328">
+				<Coords points="1106,335 102,355 102,406 1106,386" />
+				<Baseline points="102,392 1106,372" />
+				<TextEquiv>
+					<Unicode>habe. In Rapperschwyl sagte ich dir, daß er dich darin nicht nenne; dies war ein Irrthum, leicht erklär-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634613558_329">
+				<Coords points="1106,385 741,396 102,407 102,453 741,442 1106,431" />
+				<Baseline points="102,439 741,428 1106,417" />
+				<TextEquiv>
+					<Unicode>lich daraus, daß es damals schon ziemlich lange her war, daß ich den Brief erhalten u. gelesen hatte.</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634625772_330">
+				<Coords points="1105,427 913,440 101,454 101,504 913,490 1105,477" />
+				<Baseline points="101,488 913,474 1105,461" />
+				<TextEquiv>
+					<Unicode>Er spricht zwar zuerst im Allgemeinen von seinen Freunden, die ihn von seiner neuen, praktischern</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634635042_331">
+				<Coords points="1106,476 985,486 98,505 98,557 985,538 1106,528" />
+				<Baseline points="98,542 985,523 1106,513" />
+				<TextEquiv>
+					<Unicode>Richtung, in der er sich viel glücklicher fühle, als bei seinem frühern abstrakten Wesen, abzubringen</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634648364_332">
+				<Coords points="1112,532 972,542 95,558 95,608 972,592 1112,582" />
+				<Baseline points="95,593 972,577 1112,567" />
+				<TextEquiv>
+					<Unicode>suchen, dann aber auch speziell von dir. Mit Bedauern erzählt er, du habest ihm im letzten Winter</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634664367_333">
+				<Coords points="1099,583 967,593 101,609 101,652 967,636 1099,626" />
+				<Baseline points="101,645 967,629 1099,619" />
+				<TextEquiv>
+					<Unicode>einmal gesagt, «du befindest dich zwar noch wohl in seiner Gegenwart, doch könne er dir keine Anre-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1487261950394_119">
+				<Coords points="613,650 581,653 581,679 613,676" />
+				<Baseline points="581,670 613,667" />
+				<TextEquiv>
+					<Unicode>sehr</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634675749_334">
+				<Coords points="1104,647 878,662 103,679 103,717 878,700 1104,685" />
+				<Baseline points="103,700 878,683 1104,668" />
+				<TextEquiv>
+					<Unicode>gung mehr wie früher gewähren», – was ihn in seine trübe Stimmung versetzt habe. Er fügt diesem bei,</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634691869_335">
+				<Coords points="1094,681 862,696 109,718 109,774 862,752 1094,737" />
+				<Baseline points="109,758 862,736 1094,721" />
+				<TextEquiv>
+					<Unicode>daß er überhaupt mehr Schonung im Tone des Widerspruchs erwartet hätte, welcher oft in wahre</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634705271_336">
+				<Coords points="1098,736 828,757 114,775 114,827 828,809 1098,788" />
+				<Baseline points="114,812 828,794 1098,773" />
+				<TextEquiv>
+					<Unicode>Stichelei, eine beleidigende u. zu ernster Gegenwehr auffordernde Form, ausgeartet sey, – daß er</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634714058_337">
+				<Coords points="1111,794 863,810 116,828 116,881 863,863 1111,847" />
+				<Baseline points="116,865 863,847 1111,831" />
+				<TextEquiv>
+					<Unicode>nun entschlossen sey, seinen eignen Weg zu gehen, ohne sich zu sehr um das Urtheil Andrer zu beküm-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634727389_338">
+				<Coords points="1095,851 959,862 117,882 117,934 959,914 1095,903" />
+				<Baseline points="117,919 959,899 1095,888" />
+				<TextEquiv>
+					<Unicode>mern, – u. daß er nun in Neuchâtel in seiner Praxis grossen Erfolg habe u. auch mehr als seine</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634738110_339">
+				<Coords points="1103,912 872,924 118,935 118,986 872,975 1103,963" />
+				<Baseline points="118,971 872,960 1103,948" />
+				<TextEquiv>
+					<Unicode>Vorgänger in Gesellschaften eingeladen werde. Ich antwortete ihm darauf im Allgemeinen ganz</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634752311_340">
+				<Coords points="1105,965 1028,973 745,982 125,987 125,1040 745,1035 1028,1026 1105,1018" />
+				<Baseline points="125,1024 745,1019 1028,1010 1105,1002" />
+				<TextEquiv>
+					<Unicode>kurz, ich bedaure sehr das Mißverhältniß, welches zwischen dir u. ihm eingetreten sey, glaube</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634763312_341">
+				<Coords points="1099,1019 891,1030 123,1041 123,1095 891,1084 1099,1073" />
+				<Baseline points="123,1079 891,1068 1099,1057" />
+				<TextEquiv>
+					<Unicode>aber, daß dasselbe theilweise auf bloßem Mißverständnisse beruhe, indem du wohl keineswegs</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634771966_342">
+				<Coords points="1109,1075 888,1087 118,1096 118,1151 888,1142 1109,1130" />
+				<Baseline points="118,1134 888,1125 1109,1113" />
+				<TextEquiv>
+					<Unicode>seine Fähigkeiten für's praktische Leben bestreiten, sondern ihn nur aufmuntern wolltest, das</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634778000_343">
+				<Coords points="1100,1132 127,1152 127,1210 1100,1190" />
+				<Baseline points="127,1192 1100,1172" />
+				<TextEquiv>
+					<Unicode>wissenschaftl. Ziel, welches er sich einmal gesetzt habe, unverrückt im Auge zu behalten. –</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634785369_344">
+				<Coords points="1094,1180 126,1210 126,1267 1094,1237" />
+				<Baseline points="126,1252 1094,1222" />
+				<TextEquiv>
+					<Unicode>Ich bitte dich nun sehr, von dieser Mittheilungen, zu der ich mich nach der Lage der Sache berech-</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_1486634799142_345">
+				<Coords points="1095,1232 946,1243 130,1267 130,1314 946,1290 1095,1279" />
+				<Baseline points="130,1302 946,1278 1095,1267" />
+				<TextEquiv>
+					<Unicode>tigt glaubte, keinen weitern Gebrauch in deinem Briefe an Sinz zu machen, da dieses die </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

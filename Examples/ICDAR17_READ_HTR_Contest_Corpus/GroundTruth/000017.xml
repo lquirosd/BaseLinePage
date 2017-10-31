@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:26:37</Created>
+        <LastChange>2017-03-27T18:15:35.158+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000017.jpg" imageWidth="1146" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490631335214" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1487325784219_227"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1487325784219_226"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1487325784219_227" custom="readingOrder {index:0;}">
+            <Coords points="752,228 267,228 267,64 752,64"/>
+            <TextLine id="line_1486657863238_1336" custom="readingOrder {index:0;}">
+                <Coords points="682,120 337,129 337,192 682,183"/>
+                <Baseline points="337,177 682,168"/>
+                <TextEquiv>
+                    <Unicode>Hochgeachteter Herr!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="TextRegion_1487325784219_226" custom="readingOrder {index:1;}">
+            <Coords points="1130,1346 136,1346 136,228 1130,228"/>
+            <TextLine id="line_1486657867536_1337" custom="readingOrder {index:0;}">
+                <Coords points="1111,254 191,276 190,327 1110,305"/>
+                <Baseline points="190,316 1110,294"/>
+                <TextEquiv>
+                    <Unicode>Mein Freund, Hr.  Friedrich Hilgard , der eine Anstellung bei der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657873362_1338" custom="readingOrder {index:1;}">
+                <Coords points="1112,298 198,328 198,363 1112,333"/>
+                <Baseline points="198,354 1112,324"/>
+                <TextEquiv>
+                    <Unicode>Administration des hießigen credit mobilier sucht und seine Einga-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657879908_1339" custom="readingOrder {index:2;}">
+                <Coords points="1118,337 200,364 200,397 1118,370"/>
+                <Baseline points="200,386 1118,359"/>
+                <TextEquiv>
+                    <Unicode>be deshalb mit seinen Zeugnißen begleitet, schon vor einiger Zeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657883581_1340" custom="readingOrder {index:3;}">
+                <Coords points="1095,371 176,398 176,435 1095,408"/>
+                <Baseline points="176,424 1095,397"/>
+                <TextEquiv>
+                    <Unicode>gemacht, wünscht ein empfehlendes Wort von mir an Sie. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657888038_1341" custom="readingOrder {index:4;}">
+                <Coords points="1130,401 187,436 187,474 1130,439"/>
+                <Baseline points="187,463 1130,428"/>
+                <TextEquiv>
+                    <Unicode>Ohne mir schmeicheln zu wollen, irgend ein genaueres Verständniß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657893428_1342" custom="readingOrder {index:5;}">
+                <Coords points="1115,443 1081,432 203,475 203,511 1081,468 1115,479"/>
+                <Baseline points="203,501 1081,458 1115,469"/>
+                <TextEquiv>
+                    <Unicode>des betreffenden Institutes und der für die Angestellten erforderlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657901385_1343" custom="readingOrder {index:6;}">
+                <Coords points="1127,475 1015,466 202,505 202,548 1015,509 1127,511"/>
+                <Baseline points="202,537 1015,498 1127,500"/>
+                <TextEquiv>
+                    <Unicode>Eigenschaften zu besitzen, muß ich mich darauf beschränken, Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657914195_1344" custom="readingOrder {index:7;}">
+                <Coords points="1124,503 400,527 193,549 193,585 400,563 1124,539"/>
+                <Baseline points="193,576 400,554 1124,530"/>
+                <TextEquiv>
+                    <Unicode>zu sagen, daß ich Herrn  Hilgard  schon von Heidelberg als einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657921161_1345" custom="readingOrder {index:8;}">
+                <Coords points="1123,532 212,578 211,618 1122,572"/>
+                <Baseline points="211,607 1122,561"/>
+                <TextEquiv>
+                    <Unicode>der solidesten, fleißigsten und in allen Richtungen zuverläßigsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657925276_1346" custom="readingOrder {index:9;}">
+                <Coords points="1112,571 204,619 203,656 1111,608"/>
+                <Baseline points="204,644 1112,596"/>
+                <TextEquiv>
+                    <Unicode>Männer kenne, der eine in mancher Richtung umfaßende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657929084_1347" custom="readingOrder {index:10;}">
+                <Coords points="536,626 216,653 216,685 536,658"/>
+                <Baseline points="216,673 536,646"/>
+                <TextEquiv>
+                    <Unicode>Bildung besizt. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657938225_1348" custom="readingOrder {index:11;}">
+                <Coords points="1114,636 217,686 217,725 1114,675"/>
+                <Baseline points="217,714 1114,664"/>
+                <TextEquiv>
+                    <Unicode>Hilgard war Jurist. – Er gehörte einer der angesehensten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657944458_1349" custom="readingOrder {index:12;}">
+                <Coords points="1117,673 197,726 197,760 1117,707"/>
+                <Baseline points="197,751 1117,698"/>
+                <TextEquiv>
+                    <Unicode>Familien des Rheinkreises an, welche, als in den ersten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657949871_1350" custom="readingOrder {index:13;}">
+                <Coords points="1098,710 216,761 216,793 1098,742"/>
+                <Baseline points="216,782 1098,731"/>
+                <TextEquiv>
+                    <Unicode>Dreißigerjahren dort  Wrede  alles constitutionelle Leben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657954516_1351" custom="readingOrder {index:14;}">
+                <Coords points="1076,739 233,794 233,830 1076,775"/>
+                <Baseline points="233,821 1076,766"/>
+                <TextEquiv>
+                    <Unicode>niedertrat, ohne äußern Zwang das unfreie Land nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657962672_1352" custom="readingOrder {index:15;}">
+                <Coords points="1117,789 1088,778 236,831 236,864 1088,811 1117,822"/>
+                <Baseline points="236,852 1088,799 1117,810"/>
+                <TextEquiv>
+                    <Unicode>deshalb, weil es unfrei geworden, verließ und mit bedeutendem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657967597_1353" custom="readingOrder {index:16;}">
+                <Coords points="1109,806 242,865 242,903 1109,844"/>
+                <Baseline points="242,894 1109,835"/>
+                <TextEquiv>
+                    <Unicode>Vermögen nach Nordamerika übersiedelte. – Daher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657973083_1354" custom="readingOrder {index:17;}">
+                <Coords points="818,871 214,904 214,938 818,905"/>
+                <Baseline points="214,926 818,893"/>
+                <TextEquiv>
+                    <Unicode>sein amerikanisches Bürgerrecht. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657978432_1355" custom="readingOrder {index:18;}">
+                <Coords points="1111,873 255,939 255,978 1111,912"/>
+                <Baseline points="255,967 1111,901"/>
+                <TextEquiv>
+                    <Unicode>Mein Freund, wohl einsehend, daß seine deutsche Jurisprudenz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657984743_1356" custom="readingOrder {index:19;}">
+                <Coords points="1118,919 1021,918 244,979 244,1014 1021,953 1118,954"/>
+                <Baseline points="244,1004 1021,943 1118,944"/>
+                <TextEquiv>
+                    <Unicode>in America ihm nicht viel helfen werde, besuchte mehrere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657989277_1357" custom="readingOrder {index:20;}">
+                <Coords points="1092,947 225,1015 225,1048 1092,980"/>
+                <Baseline points="225,1038 1092,970"/>
+                <TextEquiv>
+                    <Unicode>Jahre die politechnische Schule in Carlsruhe, wo ich seine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657993682_1358" custom="readingOrder {index:21;}">
+                <Coords points="1113,978 253,1049 253,1082 1113,1011"/>
+                <Baseline points="253,1073 1113,1002"/>
+                <TextEquiv>
+                    <Unicode>Bekanntschaft erneuerte, und die entsprechenden Anstalten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486657998604_1359" custom="readingOrder {index:22;}">
+                <Coords points="1083,1022 251,1069 249,1116 1083,1055"/>
+                <Baseline points="249,1106 1083,1045"/>
+                <TextEquiv>
+                    <Unicode>in  Paris . – In  America  hatte er kein Glük und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486658004464_1360" custom="readingOrder {index:23;}">
+                <Coords points="1116,1047 254,1110 248,1151 1116,1081"/>
+                <Baseline points="248,1141 1116,1071"/>
+                <TextEquiv>
+                    <Unicode>in der Unterstützung hülfloser Freunde büßte er dort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487325816489_228" custom="readingOrder {index:24;}">
+                <Coords points="886,1132 811,1137 807,1160 887,1154"/>
+                <Baseline points="809,1157 883,1154"/>
+                <TextEquiv>
+                    <Unicode>Leben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486658013692_1361" custom="readingOrder {index:25;}">
+                <Coords points="1069,1084 980,1099 261,1152 259,1187 986,1128 1080,1116"/>
+                <Baseline points="261,1175 980,1122 1069,1107"/>
+                <TextEquiv>
+                    <Unicode>einen wesentlichen Theil seines Vermögens ein und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486658020492_1362" custom="readingOrder {index:26;}">
+                <Coords points="1122,1121 238,1185 208,1233 1111,1159"/>
+                <Baseline points="198,1222 1111,1148"/>
+                <TextEquiv>
+                    <Unicode>fand sich auch durch  americanisches nicht sehr befriedigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486658029584_1363" custom="readingOrder {index:27;}">
+                <Coords points="1117,1164 248,1234 248,1273 1117,1203"/>
+                <Baseline points="248,1259 1117,1189"/>
+                <TextEquiv>
+                    <Unicode>Nach einer Reihe von Jahren kehrte er nach Deutschland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486658039560_1364" custom="readingOrder {index:28;}">
+                <Coords points="1110,1206 526,1240 237,1274 237,1318 526,1284 1110,1250"/>
+                <Baseline points="237,1306 526,1272 1110,1238"/>
+                <TextEquiv>
+                    <Unicode>zurük, wurde Anwaldt und machte als solcher mit Glück sein </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:34:15</Created>
+        <LastChange>2017-03-27T18:57:08.225+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000036.jpg" imageWidth="1108" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490633828276" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="pg" custom="readingOrder {index:0;}">
+            <Coords points="137,203 1096,201 1074,834 1040,1283 137,1279"/>
+            <TextLine id="line_1487148296768_2476" custom="readingOrder {index:0;}">
+                <Coords points="1064,222 179,203 179,263 1064,282"/>
+                <TextEquiv>
+                    <Unicode>wolle, sie ihre Forderungen noch in sehr erheblichem Grade ermäßigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148301627_2477" custom="readingOrder {index:1;}">
+                <Coords points="1057,283 188,261 188,305 1057,327"/>
+                <TextEquiv>
+                    <Unicode>müsse. Am 29. Juni Nachmittags fand sich Herr Borelli neuer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148305549_2478" custom="readingOrder {index:2;}">
+                <Coords points="1075,328 182,309 182,350 1075,369"/>
+                <TextEquiv>
+                    <Unicode>dings, und zwar dießmal in Begleitung von zwei Mitgliedern des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148318892_2479" custom="readingOrder {index:3;}">
+                <Coords points="1065,370 184,349 184,391 1065,412"/>
+                <TextEquiv>
+                    <Unicode>Verwaltungsrathes der italienischen Gesellschaft, bei mir ein. Es wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148325808_2480" custom="readingOrder {index:4;}">
+                <Coords points="1071,413 183,397 183,440 1071,456"/>
+                <TextEquiv>
+                    <Unicode>hauptsächlich die finanzielle Seite des Angebotes der Italienischen Gesell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148330667_2481" custom="readingOrder {index:5;}">
+                <Coords points="1056,457 182,437 182,482 1056,502"/>
+                <TextEquiv>
+                    <Unicode>schaft besprochen. Ich äußerte mich wieder in gleichem Sinne, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148337332_2482" custom="readingOrder {index:6;}">
+                <Coords points="1058,503 184,485 184,527 1058,545"/>
+                <TextEquiv>
+                    <Unicode>ich es am Vormittage Herrn Borelli gegenüber gethan. Schließlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148342981_2483" custom="readingOrder {index:7;}">
+                <Coords points="1036,546 177,527 177,569 1036,588"/>
+                <TextEquiv>
+                    <Unicode>lud ich die Repräsentanten der Italienischen Gesellschaft ein, nun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148348910_2484" custom="readingOrder {index:8;}">
+                <Coords points="1054,589 178,570 178,611 1054,630"/>
+                <TextEquiv>
+                    <Unicode>mehr auf Grundlage der mit ihnen Statt gehabten Verhandlungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148353911_2485" custom="readingOrder {index:9;}">
+                <Coords points="1035,631 183,608 183,652 1035,675"/>
+                <TextEquiv>
+                    <Unicode>ein abschließliches Angebot an die Direction gelangen zu lassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148366651_2486" custom="readingOrder {index:10;}">
+                <Coords points="1070,676 182,651 182,695 1070,720"/>
+                <TextEquiv>
+                    <Unicode>welche im Laufe der Statt gehabten Konferenz von Herrn Oberingenieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148387775_2487" custom="readingOrder {index:11;}">
+                <Coords points="1056,721 178,698 178,739 1056,762"/>
+                <TextEquiv>
+                    <Unicode>Herr Borelli bat mich, ihm zu diesem Behufe verschiedene Redactionen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148394361_2488" custom="readingOrder {index:12;}">
+                <Coords points="1052,763 169,739 169,781 1052,805"/>
+                <TextEquiv>
+                    <Unicode>Gerwig und von mir zu Sprache gebracht worden waren, in schrift-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148400677_2489" custom="readingOrder {index:13;}">
+                <Coords points="1071,806 178,784 178,827 1071,849"/>
+                <TextEquiv>
+                    <Unicode>licher Ausfertigung zustellen zu wollen. Ich entsprach diesem Wunsche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148407426_2490" custom="readingOrder {index:14;}">
+                <Coords points="1060,850 180,826 180,869 1060,893"/>
+                <TextEquiv>
+                    <Unicode>wie aus Beilage I No 7 zu ersehen ist. Herr Borelli hatte dann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148413344_2491" custom="readingOrder {index:15;}">
+                <Coords points="1034,894 173,874 173,916 1034,936"/>
+                <TextEquiv>
+                    <Unicode>am 30. Juni und 1. Juli noch verschiedene informative Unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148418386_2492" custom="readingOrder {index:16;}">
+                <Coords points="1058,937 171,915 171,959 1058,981"/>
+                <TextEquiv>
+                    <Unicode>er Namens der Italienischen Gesellschaft ein abschließliches Angebot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148423624_2493" custom="readingOrder {index:17;}">
+                <Coords points="1054,982 170,959 170,1001 1054,1024"/>
+                <TextEquiv>
+                    <Unicode>redungen mit Herrn Oberingenieur Gerwig und am 1. Juli reichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148431276_2494" custom="readingOrder {index:18;}">
+                <Coords points="1050,1025 174,1004 174,1046 1050,1067"/>
+                <TextEquiv>
+                    <Unicode>ein, dessen Wortlaut in Beilage I No 8 und 9 enthalten ist. Nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148441340_2495" custom="readingOrder {index:19;}">
+                <Coords points="1046,1068 169,1047 169,1089 1046,1110"/>
+                <TextEquiv>
+                    <Unicode>dieser aktenmäßigen Darlegung des Sachverhaltes wollen Sie nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148447789_2496" custom="readingOrder {index:20;}">
+                <Coords points="1032,1111 165,1093 165,1136 1032,1154"/>
+                <TextEquiv>
+                    <Unicode>selbst darüber urtheilen, ob wir nicht mit der Italienischen Gesell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148452026_2497" custom="readingOrder {index:21;}">
+                <Coords points="1026,1155 153,1132 153,1178 1026,1201"/>
+                <TextEquiv>
+                    <Unicode>schaft «mündlich» verhandelt und ihr «die erforderlichen Aufschlüsse»</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148456886_2498" custom="readingOrder {index:22;}">
+                <Coords points="366,1185 165,1183 164,1214 365,1216"/>
+                <TextEquiv>
+                    <Unicode>ertheilt haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487148461425_2499" custom="readingOrder {index:23;}">
+                <Coords points="1016,1217 915,1214 915,1243 1016,1246"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

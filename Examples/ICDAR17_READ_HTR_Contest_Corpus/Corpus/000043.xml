@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:41</Created>
+        <LastChange>2017-03-28T12:29:14.987+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000043.jpg" imageWidth="1161" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490696955106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487254259046_3148"/>
+                <RegionRefIndexed index="1" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487254259046_3148" custom="readingOrder {index:0;}">
+            <Coords points="299,126 850,126 850,236 299,236"/>
+            <TextLine id="line_1487254274359_3149" custom="readingOrder {index:0;}">
+                <Coords points="824,140 308,142 308,208 824,206"/>
+                <TextEquiv>
+                    <Unicode>Hochgeachteter Herr Präsident! </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:1;}">
+            <Coords points="200,430 1147,430 1152,1305 200,1305"/>
+            <TextLine id="line_1487254319993_3150" custom="readingOrder {index:0;}">
+                <Coords points="1124,445 337,442 337,488 1124,491"/>
+                <TextEquiv>
+                    <Unicode>Ihrem Wunsche gemäß, habe ich mit Herrn Prof:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254332626_3151" custom="readingOrder {index:1;}">
+                <Coords points="1093,492 258,490 258,531 1093,533"/>
+                <TextEquiv>
+                    <Unicode>A. Escher v.d.L. einen geologischen Plan nebst Profil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254341464_3152" custom="readingOrder {index:2;}">
+                <Coords points="1120,534 262,530 262,572 1120,576"/>
+                <TextEquiv>
+                    <Unicode>über den Gotthard, nach der direkten Linie, von Gösche-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254353533_3153" custom="readingOrder {index:3;}">
+                <Coords points="1144,577 1138,576 262,575 262,616 1138,617 1144,618"/>
+                <TextEquiv>
+                    <Unicode>nen bis Airolo, unter Benützung des Profils von Diethelm,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254367128_3154" custom="readingOrder {index:4;}">
+                <Coords points="1117,619 260,618 260,659 1117,660"/>
+                <TextEquiv>
+                    <Unicode>der geologischen Karte von DrLusser und Ch. Lardy, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254377988_3155" custom="readingOrder {index:5;}">
+                <Coords points="1124,659 258,661 258,703 1124,701"/>
+                <TextEquiv>
+                    <Unicode>wie der Notizen verfaßt, die Herr Escher, in Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254383990_3156" custom="readingOrder {index:6;}">
+                <Coords points="1133,704 261,704 261,746 1133,746"/>
+                <TextEquiv>
+                    <Unicode>bindung mit Herrn Prof: Studer von Bern, vor vielen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254388942_3157" custom="readingOrder {index:7;}">
+                <Coords points="1127,747 257,744 257,787 1127,790"/>
+                <TextEquiv>
+                    <Unicode>Jahren gesammelt hat. Da bis zur Stunde das be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254397102_3158" custom="readingOrder {index:8;}">
+                <Coords points="1147,791 254,789 254,829 1147,831"/>
+                <TextEquiv>
+                    <Unicode>treffende Exemplar der Dufour ' schen Karte mangelt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254406132_3159" custom="readingOrder {index:9;}">
+                <Coords points="1128,832 247,828 247,871 1128,875"/>
+                <TextEquiv>
+                    <Unicode>so haben die beiden Gelehrten, Studer und Escher,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254413873_3160" custom="readingOrder {index:10;}">
+                <Coords points="1124,876 267,873 267,915 1124,918"/>
+                <TextEquiv>
+                    <Unicode>ein detaillirtes geologisches Studium des Gotthard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254429059_3161" custom="readingOrder {index:11;}">
+                <Coords points="1143,919 259,915 259,957 1143,961"/>
+                <TextEquiv>
+                    <Unicode>bis jetzt unterlaßen. Für den Zweck des Gotthard-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254436551_3162" custom="readingOrder {index:12;}">
+                <Coords points="1139,962 233,960 233,1001 1139,1003"/>
+                <TextEquiv>
+                    <Unicode>Gutachtens ist der construirte Plan nebst Profil, ob-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254444711_3163" custom="readingOrder {index:13;}">
+                <Coords points="1142,1004 238,1004 238,1046 1142,1046"/>
+                <TextEquiv>
+                    <Unicode>gleich Sie auf keiner Aufnahme unmittelbar in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254457446_3164" custom="readingOrder {index:14;}">
+                <Coords points="1135,1047 259,1047 259,1089 1135,1089"/>
+                <TextEquiv>
+                    <Unicode>Richtung des Tracés beruhen, hinreichend genau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254465234_3165" custom="readingOrder {index:15;}">
+                <Coords points="1124,1090 341,1090 341,1131 1124,1131"/>
+                <TextEquiv>
+                    <Unicode>Der Stich derselben ist fertig, und wohl auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254476416_3166" custom="readingOrder {index:16;}">
+                <Coords points="1138,1132 239,1132 239,1174 1138,1174"/>
+                <TextEquiv>
+                    <Unicode>größtentheils der Druck. Beifolgend habe ich nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254488293_3167" custom="readingOrder {index:17;}">
+                <Coords points="1142,1175 257,1175 257,1217 1142,1217"/>
+                <TextEquiv>
+                    <Unicode>die Ehre, Ihnen den dazu gehörigen, mit Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487254497160_3168" custom="readingOrder {index:18;}">
+                <Coords points="1140,1218 243,1218 243,1264 1140,1264"/>
+                <TextEquiv>
+                    <Unicode>Profeßor Escher vereinbarten, Text zu unterbreiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

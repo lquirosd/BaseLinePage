@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:36:31</Created>
+        <LastChange>2017-03-28T12:35:29.972+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000044.jpg" imageWidth="1141" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490697330084" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487248340863_3016"/>
+                <RegionRefIndexed index="1" regionRef="region_1487248320238_3015"/>
+                <RegionRefIndexed index="2" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487248340863_3016" custom="readingOrder {index:0;}">
+            <Coords points="708,36 957,36 957,105 708,105"/>
+            <TextLine id="line_1487248892632_3046" custom="readingOrder {index:0;}">
+                <Coords points="949,40 708,39 707,84 948,85"/>
+                <Baseline points="714,74 948,76"/>
+                <TextEquiv>
+                    <Unicode>Cöln 16 Decbr 1871</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487248320238_3015" custom="readingOrder {index:1;}">
+            <Coords points="250,156 708,156 708,247 242,246"/>
+            <TextLine id="line_1487248903801_3047" custom="readingOrder {index:0;}">
+                <Coords points="700,155 246,168 235,241 699,216"/>
+                <Baseline points="245,217 699,207"/>
+                <TextEquiv>
+                    <Unicode>Hochgeehrter Herr Praesident! </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:2;}">
+            <Coords points="232,270 1105,270 1105,1295 232,1295"/>
+            <TextLine id="line_1487248413885_3020" custom="readingOrder {index:0;}">
+                <Coords points="1046,287 252,288 252,342 1046,341"/>
+                <Baseline points="252,327 1046,326"/>
+                <TextEquiv>
+                    <Unicode>Einige Tage von Hause abwesend bitte ich es geneigtest zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248421413_3021" custom="readingOrder {index:1;}">
+                <Coords points="1063,332 279,342 279,388 1063,378"/>
+                <Baseline points="279,377 1063,367"/>
+                <TextEquiv>
+                    <Unicode>entschuldigen wenn ich erst heute dazu komme Ihre sehr geehrten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248427173_3022" custom="readingOrder {index:2;}">
+                <Coords points="1068,382 275,389 275,426 1068,419"/>
+                <Baseline points="275,414 1068,407"/>
+                <TextEquiv>
+                    <Unicode>Zeilen vom 11t ds  zu beantworten. Die für die Kölnsche Zeitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248435421_3023" custom="readingOrder {index:3;}">
+                <Coords points="1085,418 296,427 296,465 1085,456"/>
+                <Baseline points="296,455 1085,446"/>
+                <TextEquiv>
+                    <Unicode>bestimmte Mittheilung finden Sie in dem gestrigen Blatte inserirt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248499289_3024" custom="readingOrder {index:4;}">
+                <Coords points="1004,462 298,466 298,502 1004,498"/>
+                <Baseline points="298,491 1004,487"/>
+                <TextEquiv>
+                    <Unicode>da ich häufig von Cöln abwesend, auch ohne specielle Beziehungen zu der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248518714_3025" custom="readingOrder {index:5;}">
+                <Coords points="1050,494 803,502 290,503 290,540 803,539 1050,531"/>
+                <Baseline points="290,530 803,529 1050,521"/>
+                <TextEquiv>
+                    <Unicode>Presse bin so erlaube ich es mir gehorsamst zu empfehlen Mittheilungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248530534_3026" custom="readingOrder {index:6;}">
+                <Coords points="1069,530 807,537 280,541 280,579 807,575 1069,568"/>
+                <Baseline points="280,566 807,562 1069,555"/>
+                <TextEquiv>
+                    <Unicode>deren Insertion in der Kölner Zeitung gewünscht wird im Interesse der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248540653_3027" custom="readingOrder {index:7;}">
+                <Coords points="948,563 739,571 274,580 274,620 739,611 948,603"/>
+                <Baseline points="274,610 739,601 948,593"/>
+                <TextEquiv>
+                    <Unicode>Gotthardbahn durch den Herren S. Oppenheim jr & C oder durch den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248557877_3028" custom="readingOrder {index:8;}">
+                <Coords points="1069,605 737,616 418,621 297,621 297,655 418,655 737,650 1069,639"/>
+                <Baseline points="297,644 418,644 737,639 1069,628"/>
+                <TextEquiv>
+                    <Unicode>A. Schaaffhausenschen BankVerein an die Redaction gelangen lassen zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248577417_3029" custom="readingOrder {index:9;}">
+                <Coords points="1028,638 788,648 291,656 291,692 788,684 1028,674"/>
+                <Baseline points="291,681 788,673 1028,663"/>
+                <TextEquiv>
+                    <Unicode>wollen. Beide Stellen haben Beziehungen zur Kölnschen Zeitung und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248594228_3030" custom="readingOrder {index:10;}">
+                <Coords points="1007,674 876,682 289,693 289,728 876,717 1007,709"/>
+                <Baseline points="289,719 876,708 1007,700"/>
+                <TextEquiv>
+                    <Unicode>eine bei mir sehr leicht durch Abwesenheit mögliche Verspätung wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248604507_3031" custom="readingOrder {index:11;}">
+                <Coords points="407,726 287,729 287,761 407,758"/>
+                <Baseline points="287,752 407,749"/>
+                <TextEquiv>
+                    <Unicode>vermieden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248636384_3032" custom="readingOrder {index:12;}">
+                <Coords points="1034,750 287,762 287,796 1034,784"/>
+                <Baseline points="287,785 1034,773"/>
+                <TextEquiv>
+                    <Unicode>Den gewünschten Auszug aus den Statuten der Rheinischen Eisenbahn die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248646909_3033" custom="readingOrder {index:13;}">
+                <Coords points="979,786 285,797 285,834 979,823"/>
+                <Baseline points="285,822 979,811"/>
+                <TextEquiv>
+                    <Unicode>Zeichnung des Specialdirectors und die Direction betreffend lege ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248654986_3034" custom="readingOrder {index:14;}">
+                <Coords points="1017,817 283,835 283,875 1017,857"/>
+                <Baseline points="283,865 1017,847"/>
+                <TextEquiv>
+                    <Unicode>diesen Zeilen bei. Die Statuten der deutschen Eisenbahnen sind zu ihren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248667925_3035" custom="readingOrder {index:15;}">
+                <Coords points="1075,859 524,872 272,876 272,911 524,907 1075,894"/>
+                <Baseline points="272,899 524,895 1075,882"/>
+                <TextEquiv>
+                    <Unicode>Vorschriften die Zeichnung betreffend sehr different. Die Mehrzahl der Statuten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248686026_3036" custom="readingOrder {index:16;}">
+                <Coords points="1061,888 262,912 262,952 1061,928"/>
+                <Baseline points="262,941 1061,917"/>
+                <TextEquiv>
+                    <Unicode>der deutschen Bank und Handels Gesellschaften enthalten die Bestimmung daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248694495_3037" custom="readingOrder {index:17;}">
+                <Coords points="1071,925 271,953 271,989 1071,961"/>
+                <Baseline points="271,979 1071,951"/>
+                <TextEquiv>
+                    <Unicode>die Gesellschaft nur durch die Collectiv Unterschrift zweier Direktoren verpflichtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248701000_3038" custom="readingOrder {index:18;}">
+                <Coords points="423,986 274,990 274,1024 423,1020"/>
+                <Baseline points="274,1014 423,1010"/>
+                <TextEquiv>
+                    <Unicode>werden kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248725311_3039" custom="readingOrder {index:19;}">
+                <Coords points="1069,1009 279,1025 279,1059 1069,1043"/>
+                <Baseline points="279,1048 1069,1032"/>
+                <TextEquiv>
+                    <Unicode>Die Wahl des resp der leitenden Techniker für die Gotthardbahn Gesellschaft ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248738501_3040" custom="readingOrder {index:20;}">
+                <Coords points="1040,1041 818,1052 279,1060 279,1096 818,1088 1040,1077"/>
+                <Baseline points="279,1085 818,1077 1040,1066"/>
+                <TextEquiv>
+                    <Unicode>eine ungemein schwierige und zu meinem lebhaften bedauern bin ich nicht in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248750376_3041" custom="readingOrder {index:21;}">
+                <Coords points="1020,1077 827,1087 273,1097 273,1133 827,1123 1020,1113"/>
+                <Baseline points="273,1123 827,1113 1020,1103"/>
+                <TextEquiv>
+                    <Unicode>der Lage Ihnen bestimmte Persönlichkeiten, welche mit Aussicht auf Erfolg in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248758756_3042" custom="readingOrder {index:22;}">
+                <Coords points="1078,1120 293,1134 293,1169 1078,1155"/>
+                <Baseline points="293,1159 1078,1145"/>
+                <TextEquiv>
+                    <Unicode>Aussicht genommen werden könnten vorzuschlagen. Die meisten Erfahrungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248771632_3043" custom="readingOrder {index:23;}">
+                <Coords points="973,1160 512,1168 284,1170 284,1205 512,1203 973,1195"/>
+                <Baseline points="284,1195 512,1193 973,1185"/>
+                <TextEquiv>
+                    <Unicode>im Bau größerer Tunnell sind in der Schweiz und in Oestreich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487248793106_3044" custom="readingOrder {index:24;}">
+                <Coords points="970,1196 281,1206 281,1250 970,1240"/>
+                <Baseline points="281,1231 970,1221"/>
+                <TextEquiv>
+                    <Unicode>gesammelt. Ein tüchtiger Schweizer Ingenieur, welcher bereits</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

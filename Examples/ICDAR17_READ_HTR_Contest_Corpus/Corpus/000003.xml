@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>htrsh_pagexml_create</Creator>
+        <Created>2017-01-30T12:23:06</Created>
+        <LastChange>2017-03-27T18:09:01.755+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="000003.jpg" imageWidth="1175" imageHeight="1440">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1490630941830" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1487260760387_97"/>
+                <RegionRefIndexed index="1" regionRef="region_1487260269536_91"/>
+                <RegionRefIndexed index="2" regionRef="region_1487260022220_88"/>
+                <RegionRefIndexed index="3" regionRef="pg"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1487260760387_97" custom="readingOrder {index:0;}">
+            <Coords points="1168,81 665,86 665,7 1168,7"/>
+            <TextLine id="line_1487260948899_102" custom="readingOrder {index:0;}">
+                <Coords points="687,10 780,9 780,28 686,26"/>
+                <TextEquiv>
+                    <Unicode>H. Schweizer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260912662_101" custom="readingOrder {index:1;}">
+                <Coords points="748,27 923,23 922,43 747,43"/>
+                <TextEquiv>
+                    <Unicode>Von Herzen u. immer Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260876824_100" custom="readingOrder {index:2;}">
+                <Coords points="917,34 1158,32 1160,48 914,48"/>
+                <TextEquiv>
+                    <Unicode>Gott mit Dir, m. lieber, theurer Alfred!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260835607_99" custom="readingOrder {index:3;}">
+                <Coords points="684,46 913,49 1159,48 1159,61 916,68 683,68"/>
+                <TextEquiv>
+                    <Unicode>die ich kenne, besonders an Sins, Escher, Wyß, meine freundschaftlichsten Grüße!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260804413_98" custom="readingOrder {index:4;}">
+                <Coords points="673,67 1170,62 1169,83 672,83"/>
+                <TextEquiv>
+                    <Unicode>in Berlin die Bezeugg meiner herzlichsten Freude u. innigsten Glückwünsche; an alle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487260269536_91" custom="readingOrder {index:1;}">
+            <Coords points="7,25 67,26 67,1437 22,1435"/>
+            <TextLine id="line_1487260675553_96" custom="readingOrder {index:0;}">
+                <Coords points="28,439 26,23 17,25 9,23 8,44 12,286 16,871 23,1415 36,1414"/>
+                <TextEquiv>
+                    <Unicode>derselben nicht besonders günstig gestimmt sein; natürlich daß Vitodurum darüber jubelt. Ein entschlossener Wille vermag am Ende, Berge zu versetzen. – Nun nur noch zu Deinen wieder erhaltenen Freunden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260609605_95" custom="readingOrder {index:1;}">
+                <Coords points="35,1433 32,1042 27,806 31,379 26,23 41,23 43,393 40,816 47,1054 48,1434"/>
+                <TextEquiv>
+                    <Unicode>in d. größte Klemme getrieben, wo nicht anderswohin vertrieben od. gar unmöglich wird. Auch die Krämer von Basel sollen aus lauter Eifersucht über d. Gewicht u. d. Vortheile, wie sie f. Zürich erwachsen würden, f. d. Realisirg </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260548285_94" custom="readingOrder {index:2;}">
+                <Coords points="51,1428 47,1223 50,1058 40,857 40,34 55,39 54,843 60,1047 60,1217 66,1428"/>
+                <TextEquiv>
+                    <Unicode>ziemlich unverholen u. kräftig über d. Gewaltthätigkeit u. Pratiken des Directors beschwert hat. – Aargau hat das ersehnte Expropriationsgesetz mit Mehrheit verworfen: wodurch die Eisenbahn nach Baden u. Basel</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="region_1487260022220_88" custom="readingOrder {index:2;}">
+            <Coords points="786,84 1118,84 1118,110 786,110"/>
+            <TextLine id="line_1487260046632_89" custom="readingOrder {index:0;}">
+                <Coords points="1114,86 791,85 791,107 1115,103"/>
+                <TextEquiv>
+                    <Unicode>Schwerzenbach 18 November 1838.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="pg" custom="readingOrder {index:3;}">
+            <Coords points="71,110 1170,110 1170,1425 71,1425"/>
+            <TextLine id="line_1486553439778_123" custom="readingOrder {index:0;}">
+                <Coords points="258,117 133,117 133,139 258,139"/>
+                <TextEquiv>
+                    <Unicode>Mein Lieber!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553448815_124" custom="readingOrder {index:1;}">
+                <Coords points="1154,138 81,140 81,168 1154,166"/>
+                <TextEquiv>
+                    <Unicode>Je unerwarteter mir Dein freundliches Schreiben vom 16/17, X, a. c.  war, desto größere u. innigere Freude gewährte mir das-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553457424_125" custom="readingOrder {index:2;}">
+                <Coords points="1165,164 67,169 62,196 1165,191"/>
+                <TextEquiv>
+                    <Unicode>selbe; in der Freude meines Herzens las ich den Brief in aller Eile ein Paar Male, u. sandte ihn sodann alsobald nach Belvoir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553465378_126" custom="readingOrder {index:3;}">
+                <Coords points="1153,186 62,198 60,221 1153,211"/>
+                <TextEquiv>
+                    <Unicode>um dort, wenn vielleicht zur gewohnten Zeit kein Schreiben von Dir daselbst angelangt wäre, mit demjenigen an mich Beru-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553472998_127" custom="readingOrder {index:4;}">
+                <Coords points="1141,214 60,222 56,248 1141,238"/>
+                <TextEquiv>
+                    <Unicode>higung u. Genuß zu bringen. Bald folgte ich dem Briefe selbst nach, u. hatte bei Anlaß unsrer Synode am 30 u. 31 October</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553478113_128" custom="readingOrder {index:5;}">
+                <Coords points="1163,238 62,251 60,272 1163,262"/>
+                <TextEquiv>
+                    <Unicode>wieder Gelegenht, Deine Lieben zu sehen. Damals befanden Papa u. Mamma sich nicht ganz so, wie ich gehofft; Papa war von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553485577_129" custom="readingOrder {index:6;}">
+                <Coords points="1160,264 60,271 60,294 1162,289"/>
+                <TextEquiv>
+                    <Unicode>einer Heiserkeit als Folge e. kleinen Verkältung befallen, wie er solche früher öfter erfahren; aber ich kann Dir zu Deiner Beruhigg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553496303_130" custom="readingOrder {index:7;}">
+                <Coords points="1138,288 60,296 59,318 1138,312"/>
+                <TextEquiv>
+                    <Unicode>melden, daß er seit Deiner Abwesenheit in ähnlichen Fällen sich 10 Mal mehr Sorge trägt, als früher, u. deßnahen auch schneller wieder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553513968_131" custom="readingOrder {index:8;}">
+                <Coords points="1160,309 61,320 56,345 1160,333"/>
+                <TextEquiv>
+                    <Unicode>sich erholt. Es ist offenbar, daß Papa Allem aufbietet, um Dir immer gute Nachrichten v. seinem Befinden melden zu können,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553529891_132" custom="readingOrder {index:9;}">
+                <Coords points="1163,337 57,347 58,366 1163,359"/>
+                <TextEquiv>
+                    <Unicode>da er weiß, ... was diese für Dich sind, u. er will mit treuer Sorge sein Möglichstes thun, Dir den Tag Deiner einstigen Heimkehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553538308_133" custom="readingOrder {index:10;}">
+                <Coords points="1165,365 60,369 57,388 1165,386"/>
+                <TextEquiv>
+                    <Unicode>ins elterliche Haus zu einem der genußvollsten Tage Deines Lebens zu machen, indem er sich selbst u. die liebe Mutter dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553547305_134" custom="readingOrder {index:11;}">
+                <Coords points="1144,385 59,392 54,415 1144,410"/>
+                <TextEquiv>
+                    <Unicode>heimkehrenden Sohne so gesund u. froh, als nur in menschl. Kräften liegt, erhalten will. Du kannst Dir wahrlich nicht vorstellen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553562155_135" custom="readingOrder {index:12;}">
+                <Coords points="1153,408 59,416 59,440 1153,433"/>
+                <TextEquiv>
+                    <Unicode>wie Papa u. Mamma nur in Dir u. für Dich leben, u. während der gute Vater mehr in d. Stille sich mit Dir u. von Dir unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553569642_136" custom="readingOrder {index:13;}">
+                <Coords points="1156,437 61,442 55,466 1156,460"/>
+                <TextEquiv>
+                    <Unicode>hält u. immer mit seliger Freude sich zum Schreiben an Dich an seinen Arbeitstisch hinsetzt u. viele Stunden diesem lieben Geschäfte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553587578_137" custom="readingOrder {index:14;}">
+                <Coords points="1156,462 58,468 55,488 1156,484"/>
+                <TextEquiv>
+                    <Unicode>widmet, kennet die treue Mutter keine größere Wonne, als Deinen Freunden u. Bekannten von Dir, Deinen Reisen, Deinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553598400_138" custom="readingOrder {index:15;}">
+                <Coords points="1155,486 54,489 52,509 1155,507"/>
+                <TextEquiv>
+                    <Unicode>Studien, Deinen Bekanntschaften, Planen, ect. ect. zu erzählen u. aus der Fülle ihres Herzens auch Andern schöne Genüsse zu ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553608057_139" custom="readingOrder {index:16;}">
+                <Coords points="1159,508 64,511 58,534 1159,532"/>
+                <TextEquiv>
+                    <Unicode>schaffen. – Doch ich komme wieder auf Papa's Heiserkeit zurück, um Dir zu melden, daß solche sich bald wieder verloren hat, so daß ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553628029_140" custom="readingOrder {index:17;}">
+                <Coords points="1167,536 758,527 65,535 54,559 758,554 1167,563"/>
+                <TextEquiv>
+                    <Unicode>ihn am 11–13 Novbr im besten Wohlsein anzutreffen die Freude hatte. – Mamma war, wie Du ohne Zweifel gehört haben wirst, gegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553673254_141" custom="readingOrder {index:18;}">
+                <Coords points="1168,564 56,557 53,580 1168,587"/>
+                <TextEquiv>
+                    <Unicode>Ende Octobers gar unwohl, u. wieder von jener Geschwulst im Munde u. Gesichte befallen, die ihr vor 1½ – 2 Jahren einmal nicht geringe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553680265_142" custom="readingOrder {index:19;}">
+                <Coords points="1144,588 55,586 54,608 1144,609"/>
+                <TextEquiv>
+                    <Unicode>Schmerzen verursachte, u. in Folge der sie auch jetzt ein Paar Tage das Bett zu hüthen genöthigt war. Während der Synodal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486553686283_143" custom="readingOrder {index:20;}">
+                <Coords points="1155,610 58,610 53,635 1155,637"/>
+                <TextEquiv>
+                    <Unicode>Zeit fand ich sie wieder recht ordentlich; jedoch war sie noch sichtbar ermüdet, aber eine große Ruhe u. Zufriedenht. an ihr auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554067605_144" custom="readingOrder {index:21;}">
+                <Coords points="1170,638 1125,627 52,633 57,653 1125,655 1170,666"/>
+                <TextEquiv>
+                    <Unicode>nicht zu verkennen; sie hielt sich damals den größten Theil d. Tages in Papa's Zimmer auf, entweder im Lehnsessel neben der Thüre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554079193_145" custom="readingOrder {index:22;}">
+                <Coords points="1150,667 53,659 52,681 1150,686"/>
+                <TextEquiv>
+                    <Unicode>ausruhend u. den immer lebendig-warmen Hu Pelz, den treuen Schnob, auf ihren Füßen, od. am bekannten Tischchen Faden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554090204_146" custom="readingOrder {index:23;}">
+                <Coords points="1165,687 53,681 51,706 1165,713"/>
+                <TextEquiv>
+                    <Unicode>auf ihre «Seelen» abhaspelnd u. aufwindend. Am 11 Novbr fand ich sie so heiter u. wohl, wie seit längerer Zeit nie! Du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554097167_147" custom="readingOrder {index:24;}">
+                <Coords points="1161,714 55,708 54,732 1161,739"/>
+                <TextEquiv>
+                    <Unicode>kannst Dir denken, mit welcher lebhaften Freude ich Dir, mein Lieber! dieses melde, u. ich hatte mir vorgenommen, Dir davon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554110201_148" custom="readingOrder {index:25;}">
+                <Coords points="1168,740 58,733 55,757 1168,764"/>
+                <TextEquiv>
+                    <Unicode>alsobald Kunde zu geben; aber, aber als vielbeschäftigter... Bräutigam (nun ist das Wort heraus!!), kam ich bisher nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554123172_149" custom="readingOrder {index:26;}">
+                <Coords points="1153,765 58,758 57,784 1153,790"/>
+                <TextEquiv>
+                    <Unicode>dazu, indem die ganze letzte Woche vom Montag Sonntag ( 11 Novbr) Nachmittags bis Freitag ( 16) Abends meinem Bräutchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554133940_150" custom="readingOrder {index:27;}">
+                <Coords points="1165,790 58,784 56,811 1165,817"/>
+                <TextEquiv>
+                    <Unicode>von dem Dir Deine Eltern gewiß schon Nachricht werden gegeben haben, u. unsern Empfehlungs-Visiten in u. um Zürich, in Kloten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554143183_151" custom="readingOrder {index:28;}">
+                <Coords points="1161,818 58,816 56,839 1161,842"/>
+                <TextEquiv>
+                    <Unicode>Eglisau, Schafhausen, Benken u. Winterthur gewidmet werden mußte. Eine gar große Freude haben uns Deine Eltern dadurch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554149985_152" custom="readingOrder {index:29;}">
+                <Coords points="1163,843 57,839 57,860 1163,871"/>
+                <TextEquiv>
+                    <Unicode>bereitet, daß sie uns für den Abend des 12 Novbrs nach Belvoir einluden, wo ebenfalls Hr. u. Fr. Prof. Heer, Hr. Hirnschrot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554160418_153" custom="readingOrder {index:30;}">
+                <Coords points="1166,871 58,862 56,888 1166,898"/>
+                <TextEquiv>
+                    <Unicode>u. Hr Sal. Vögelin sich einfanden. Ein gar vergnügter Abend, bei dem nur Du mir noch mangeltest, um auch Dir meine Marie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554166069_154" custom="readingOrder {index:31;}">
+                <Coords points="1152,898 61,893 59,915 1152,921"/>
+                <TextEquiv>
+                    <Unicode>empfehlen zu können. Daß indessen Deiner oft u. viel erwähnt wurde, versteht sich von selbst, u. gegen Ende d. Abendgesellschft, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554174159_155" custom="readingOrder {index:32;}">
+                <Coords points="1168,922 64,911 60,942 1168,949"/>
+                <TextEquiv>
+                    <Unicode>Papa seine Gäste mit e. Muster von Belvoir-Weinmost bewirthete, ward auf die Gesundheit des fernen «Trottmeisters» getrunken,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554186833_156" custom="readingOrder {index:33;}">
+                <Coords points="1166,949 58,940 59,966 1166,970"/>
+                <TextEquiv>
+                    <Unicode>u. unser Aller vereinte Grüße u. Wünsche sollten bis in die ferne Königsstadt aus unserm freundlichen Kreise Dir in den Ohren wieder-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554213433_157" custom="readingOrder {index:34;}">
+                <Coords points="1162,971 61,963 62,990 1162,997"/>
+                <TextEquiv>
+                    <Unicode>tönen. – Auf Belvoir geht sonst Alles seinen regelmäßigen Gang; das Innere des Hauses, ganz wie Du es kennest; die Vorfen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554222881_158" custom="readingOrder {index:35;}">
+                <Coords points="1170,997 66,984 61,1013 1170,1024"/>
+                <TextEquiv>
+                    <Unicode>ster eingehängt u. Alles zum gebührenden Empfange des Winters bereit. Nur Dein Zimmer ist wie ein allerheiligstes άδυτον</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554232636_159" custom="readingOrder {index:36;}">
+                <Coords points="1145,1025 64,1016 62,1037 1145,1047"/>
+                <TextEquiv>
+                    <Unicode>verschlossen für alle Uneingeweiheten; es ist, wo möglich, hübscher u. glanzvoller, als früher. Dessen ungeachtet hat ein gewisser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554331816_160" custom="readingOrder {index:37;}">
+                <Coords points="1163,1048 65,1040 61,1064 1163,1072"/>
+                <TextEquiv>
+                    <Unicode>glücklicher Bräutigam es gewagt, mit seinem Bräutchen am Arme diesen Tempel zu betreten; ich will nun gewär-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554340228_161" custom="readingOrder {index:38;}">
+                <Coords points="1165,1073 64,1066 62,1089 1165,1098"/>
+                <TextEquiv>
+                    <Unicode>tigen, ob hiefür Absolution erhältlich sei od. nicht. – Draußen im Gute steht Alles im schmucklosen Herbstzustande und doch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554345801_162" custom="readingOrder {index:39;}">
+                <Coords points="1152,1099 62,1092 63,1118 1152,1124"/>
+                <TextEquiv>
+                    <Unicode>immer geschmückt u. schön da. Wahrhaftig, jede Jahreszeit hat ihre eigenthümlichen Reize an diesem lieblichen Orte. Je mehr die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554353533_163" custom="readingOrder {index:40;}">
+                <Coords points="1167,1125 67,1117 57,1144 1167,1149"/>
+                <TextEquiv>
+                    <Unicode>herbstlichen Winde wehen u. Bäume u. Gesträuche sich entblättern, desto mehr zieht Papa sich ins Haus u. Zimmer zurück, lebt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554360568_164" custom="readingOrder {index:41;}">
+                <Coords points="1162,1150 64,1140 65,1164 1162,1173"/>
+                <TextEquiv>
+                    <Unicode>bei seinen Arbeiten, freut sich im Genusse des stillen häuslichen Glückes mit der guten Mutter, u. singt nicht selten in harmlo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554366839_165" custom="readingOrder {index:42;}">
+                <Coords points="1157,1174 64,1167 60,1191 1157,1195"/>
+                <TextEquiv>
+                    <Unicode>ser Seelenstimmung die schönsten Partien aus Opern, welche, von Dem. Vial vorgetragen, sein Innerstes angesprochen haben. Du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554374288_166" custom="readingOrder {index:43;}">
+                <Coords points="1147,1196 66,1188 62,1213 1147,1222"/>
+                <TextEquiv>
+                    <Unicode>weißt, wie vor einigen Jahren es für Papa fast Bedürfniß war, von Zeit zu Zeit Gesellschaften zu besuchen u. bei sich zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554379825_167" custom="readingOrder {index:44;}">
+                <Coords points="1152,1223 65,1215 59,1241 1152,1248"/>
+                <TextEquiv>
+                    <Unicode>sehen. Jetzt bringt ihn, außer d. Theater, wenn Dem. Vial singt od. Mad. Birch-Pfeiffer auftritt, fast nichts mehr von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554385241_168" custom="readingOrder {index:45;}">
+                <Coords points="1143,1249 62,1241 63,1268 1143,1272"/>
+                <TextEquiv>
+                    <Unicode>Hause weg; so lieb ist ihm das häusl. Leben ... Gesellschft geworden. Natürlich, daß Hr. u. Fr. Stockar, besonders letztere, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554396281_169" custom="readingOrder {index:46;}">
+                <Coords points="1144,1273 65,1270 66,1291 1144,1290"/>
+                <TextEquiv>
+                    <Unicode>theuern Eltern recht oft besuchen, u. Clementinesoll der sind die Stunden u. halben Tage, die sie auf Belvoir verleben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1487260147872_90" custom="readingOrder {index:47;}">
+                <Coords points="522,1288 423,1283 420,1297 521,1302"/>
+                <TextEquiv>
+                    <Unicode>in der Heimath </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554404945_170" custom="readingOrder {index:48;}">
+                <Coords points="1172,1293 71,1294 71,1314 1170,1323"/>
+                <TextEquiv>
+                    <Unicode>kann, die freudigsten. – So vereinigt sich denn so Vieles, fast Alles, um Dich wegen Deiner Lieben z. beruhigen u. Deinen Aufent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554415796_171" custom="readingOrder {index:49;}">
+                <Coords points="1162,1320 69,1316 69,1339 1161,1345"/>
+                <TextEquiv>
+                    <Unicode>halt in d. Ferne recht angenehm u. für Deine Studien ersprießlich zu machen, u. wenn man vollends bedenkt, wie Du in Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554480750_172" custom="readingOrder {index:50;}">
+                <Coords points="1164,1346 71,1337 71,1360 1164,1369"/>
+                <TextEquiv>
+                    <Unicode>überall aufgenommen wurdest u. was für herrliche Aussichten sich Dir für Geist u. Herz u. Leben öffnen: dann kann man nicht umhin, Dich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554509330_173" custom="readingOrder {index:51;}">
+                <Coords points="1155,1370 71,1361 71,1383 1155,1392"/>
+                <TextEquiv>
+                    <Unicode>als einen vom Himmel hochbeglückten zu preisen. O möge es Dir vom Vater im Himmel beschieden sein, daß Du auch fernerhin so ruhig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554516290_174" custom="readingOrder {index:52;}">
+                <Coords points="1163,1393 66,1383 65,1402 1163,1412"/>
+                <TextEquiv>
+                    <Unicode>u. glücklich, wie bisher, Deiner Ausbildung leben kannst, u. daß immer nur erwünschte Nachrichten von Dir nach Hause, u. von Hause</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1486554523827_175" custom="readingOrder {index:53;}">
+                <Coords points="303,1409 86,1402 90,1422 301,1429"/>
+                <TextEquiv>
+                    <Unicode>an Dich gelangen mögen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
