@@ -48,6 +48,7 @@ Toolkit to locate the baselines in handwritten text pages. Use it at your own ri
 ## Authors
 
 * BaseLinPages is written by [**Moisés Pastor**](http://users.dsic.upv.es/~mpastorg/)
+* GT_Tool_PAGE is written by Jorge Martínez Vargas
 
 ## Contributors
 
