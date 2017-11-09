@@ -548,13 +548,20 @@ void updateXml(pugi::xml_document & page,  vector< vector< vector<Point> > > & l
 	  normaliza_traza( lines_finals[r][l],numPointsPerLine );
 
   
-  for (pugi::xml_node text_region = page.child("PcGts").child("Page").child("TextRegion"); text_region; text_region = text_region.next_sibling("TextRegion")){
-
-
-    for (pugi::xml_node text_line = text_region.child("TextLine"); text_line;) {
-      pugi::xml_node next = text_line.next_sibling("TextLine");      //raro, pero no tocar
-      text_line.parent().remove_child(text_line);
-      text_line = next; //això mateix
+  if (page.child("PcGts").child("Page").child("TextRegion") == 0){ // no regions given
+    pugi::xml_node reg = page.child("PcGts").child("Page").append_child("TextRegion");
+    pugi::xml_attribute id_attr = reg.append_attribute("id");
+    id_attr.set_value("1");
+    pugi::xml_node reg_coords=reg.append_child("Coords");
+    pugi::xml_attribute reg_points_attr = reg_coords.append_attribute("points");
+    reg_points_attr.set_value("");
+  } else {
+    for (pugi::xml_node text_region = page.child("PcGts").child("Page").child("TextRegion"); text_region; text_region = text_region.next_sibling("TextRegion")){
+      for (pugi::xml_node text_line = text_region.child("TextLine"); text_line;) {
+	pugi::xml_node next = text_line.next_sibling("TextLine");      //raro, pero no tocar
+	text_line.parent().remove_child(text_line);
+	text_line = next; //això mateix
+      }
     }
   }
   
