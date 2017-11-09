@@ -30,7 +30,7 @@ for file in `cat $1`; do
   mkdir ${DOUT}_$Nom1
  
   cp -l $DOUT/*.jpg  ${DOUT}_$Nom1
-  cp -l $DOUT/*.xml ${DOUT}_$Nom1
+  cp  $DOUT/*.xml ${DOUT}_$Nom1
  
   mindata=$(mktemp /tmp/mindata.XXXXXX)
 
